@@ -17,7 +17,7 @@ About a decade ago in the beginning of the 2010s and for a couple of years, I wa
 I was neither a genius nor a professional, just lucky as I later understood. So when I quit my full time 
 job on 2015 and was struggling to pick a web service business idea that I would personally develop, 
 picking the sports betting industry came a bit naturally to me. I was playing regularly, I was winning and I wanted 
-a way to monitor my performance. I will build a monitoring tool I thought and not only that but I will make it 
+a way to monitor my performance. I will build a monitoring tool, I thought, and not only that but I will make it 
 available for anyone else that needs it. Each player will have a profile and all the statistics would be 
 publicly available if he so desires. The best players will stand out and anyone will be able to follow them and make money 
 too. They would even be able to charge for their advices and my web service would get a commission from the monthly 
@@ -35,12 +35,12 @@ Anything else was a waste of time. I leave the technical details for another pos
 as a complete beginner as I was at the time, I made both good and bad technical decisions. The most immature decision though 
 and one that cost me a lot of time down the line, 
 was to to make zakanda a single page application. This choice would be amazing if it wasn't the fact that I 
-didn't use a proper front end framework like react or angular. I just did it using [pjax.js](https://github.com/defunkt/jquery-pjax), 
+didn't use a proper front end framework like React, Angular or Vue. I just did it using [pjax.js](https://github.com/defunkt/jquery-pjax), 
 AMD modules and [require.js](https://requirejs.org/). Which meant that in many occasions I had to reinvent the wheel..
  
  ![Desktop View]({{ "/assets/img/sample/shoot_foot.jpg" | relative_url }})  
   
-Making a single page application to work properly with my own tools, made me a lot wiser in the process though so the extra effort 
+Making a single page application to work properly without the proper tools, made me a lot wiser in the process, so the extra effort 
 wasn't for nothing. Anyway, this is how more than a year passed. With me coding and studying without pausing for a moment to think where I am going or
 to examine the core of my business model. I was just enjoying to code. 
 
@@ -74,22 +74,31 @@ There are three or four of these exchanges that are of reasonable size. Apart fr
 "winner friendly", meaning that they don't block winners. I already knew that although it is very difficult to be a professional 
 winner, it is not impossible. There are people that manage to do it. So, I thought of creating something that would be 
 exciting enough and also not against my morals. It would be an automation service offered to web services like zakanda, 
-that have professionals in their ranks. You as a user would follow a player in any of these services and whenever the 
-expert made a bet, my web service would place this bet automatically on your behalf in your linked account in the betting 
+that have professionals in their ranks. You as a user would follow an expert in any of these services and whenever this 
+expert made a bet, my web service would copy this bet automatically on your behalf in your linked account in the betting 
 exchanges and the winner friendly bookmakers. Speed was of great importance in such a service since when a specific betting choice 
-receives a lot of betting, its odd starts to change making it less appealing. I also found a perfect name: Bettingun. 
+receives a lot of betting, its potential return starts to decrease making it less appealing. I also found a perfect name: Bettingun. 
 This time though I wouldn't write a single line of code before validating the idea. I secured API licenses from betting exchanges, 
-I spoke with potential customers, I assembled a team, I was selected for the acceleration program of the [OKthess incubator](https://okthess.gr/en/), 
-but I finally decided not to proceed with the project.. 
+I spoke with potential customers, I assembled a small team, we were selected for the acceleration program of the [OKthess incubator](https://okthess.gr/en/) 
+and... I finally decided to abandon this project too!
+
+ ![Desktop View]({{ "/assets/img/sample/sorry.jpg" | relative_url }})  
 
 The reason was that the concept had a major flaw. I knew from the beginning that the mainstream 
 bookmakers would not be willing to give access to their APIs for a use case that brings them a huge stream of winners. 
-I expected though that we could cooperate with the few winner friendly bookmakers. This proved to be an illusion 
-though since when they learned about Bettingun they refused to give API access to their betting engine. This meant that we were only
-left with the betting exchanges, the combined betting volume of which, was not high enough to support a big 
-number of players. So no matter how good our system might have been, it would have value only for a few 
-people and its profits would be limited. I thus decided to abandon this effort in its early stages so that we don’t waste time and resources without 
+I expected though that we could cooperate with the few winner friendly bookmakers. What an illusion.. 
+When they learned about Bettingun they refused to give API access to their betting engine. This meant that we were left only
+with the betting exchanges the combined betting volume of which, is not high enough to support a big 
+number of players. So no matter how good our system might have been, it would only have value for a handful of people 
+and its profits would be limited. I thus decided to stop it in the early stages so that we don’t waste time and resources without 
 a really significant goal.
+
+## Back to the beginning
+Some years and a lot of effort later I was back to the beginning. Still with a lot of energy and will, wiser in many aspects and 
+with plenty of battle scars, contemplating about the future ventures. One thing is for sure. Whenever I enter the 
+entrepreneurial realm again, I will do it cautiously. 
+
+Farewell zakanda and bettingun, you will always have a place in my heart...
 
 
  
