@@ -142,7 +142,7 @@ class SnippetDetail(mixins.RetrieveModelMixin,
     def delete(self, request, *args, **kwargs):
         return self.destroy(request, *args, **kwargs)
 ```
-Here we inherit the core view functionality from the `GenericApiView` (which inherits in its turn from the APIView) but we also inherit 
+Here we inherit the core view functionality from the `GenericApiView` (which inherits from the APIView) but we also inherit 
 additional functionality from the mixin classes. 
 We still have to define the get, put and delete methods but instead of manually writing the logic we just call the 
 retrieve, update and destroy methods provided by the respective mixins. The result is exactly the same as before so we can more or less guess what these 

@@ -66,7 +66,7 @@ And not only that but the most reliable way for my web service to make money, wa
 I make profit from my players' loss!!! There was no way I would go that way. I simply couldn't do this, so for a time I 
 was thinking about modifying the whole concept of my web service to make it more like a game where players could bet 
 with virtual money and have fun with internal competitions and stuff. There were probably ways to make such a service to be 
-profitable, but I just wasn't excited with it and had grow a natural dislike for this industry as a whole. So more than two 
+profitable, but I just wasn't excited with it and had grown a natural dislike for this industry as a whole. So more than two 
 years after starting this endeavor, I decided to abandon zakanda and the betting industry along with it. Or maybe not?    
 
 ## A last try
