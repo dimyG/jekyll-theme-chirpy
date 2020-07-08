@@ -1,8 +1,8 @@
 ---
 title: Understanding HTTP Caching
 date: 2020-05-14 11:30:00 +0200
-categories: [Web]
-tags: [http, web]
+categories: [Django, Caching]
+tags: [django, http]
 toc: true
 ---
 
@@ -62,18 +62,6 @@ like the ISP's cache for example, but only in private caches like the client's b
 use the versatile Cache-Control header with the private directive, `Cache-Control: private`. For very sensitive data 
 like credit card details that you don't want to be stored at all you can use `Cache-Control: no-store`.
 
-# Some Tips
-- Cache headers apply regardless of the Content-Type (json, html, etc.). Any response’s data can be cached if it has 
-the proper HTTP cache headers. 
-- In Single Page Applications the html that dresses the received data can't be cached since it is created on the fly by the client.
-- When you use the history API to update the url, you have to “manually” handle what content gets displayed when the 
-user navigates back and forth. On these operations the browser just changes the url and triggers a `popstate` event. 
-You have to manually handle these cases by listening to the popstate event. This is usually handled automatically by 
-the front end framework
-- The usual pattern in Single Page Applications 
-is that the front-end has its own internal cache that uses in back/forward and only reaches the HTTP cache of the browser 
-when links are visited. 
-
 # Caching in django in a nutshell
 I will probably create a whole new post for this subject but until then, I live this overview of django caching here...
 
@@ -94,9 +82,10 @@ Django gives you full power over caching. First of all it offers different level
 
 ## Caching the entire site
 The simplest way to use caching is to cache your entire site. Basically this is achieved with the use of middleware. 
-A request middleware (`UpdateCacheMiddleware`) that caches GET and HEAD responses with status 200, where the request and response headers allow 
-and a response middleware (`FetchFromCacheMiddleware`) that automatically sets a few headers (Expires and Cache-Control). 
-You just need to add these middleware to your MIDDLEWARE setting.
+The `FetchFromCacheMiddleware` that caches GET and HEAD responses with status 200, where the request and response headers allow 
+and the `UpdateCacheMiddleware` that automatically sets the Expires and Cache-Control (with max-age directive) headers 
+in each response. You just need to add these middleware to your MIDDLEWARE setting in the django settings file 
+and define the default cache options. 
 
 > ***Note***: You can disable caching for a view using the `@never_cache()` decorator. This decorator adds a 
 "Cache-Control: max-age=0, no-cache, no-store, must-revalidate, private" header to a response to indicate that a page 
@@ -140,7 +129,8 @@ def my_view(request):
 Sometimes, caching an entire page like the per-site or per-view cache strategies do, is not the best approach. 
 For example you might have a view whose results depend on several expensive queries, the results of which change at different intervals. 
 In this case you don't want to cache the entire page but you still want to cache those expensive results. To do so you 
-can use django's low level cache API. Using it you can cache any Python object that can be pickled safely, like strings, dictionaries, lists of model objects. 
+can use django's low level cache API. Using it you can cache any Python object that can be [pickled](https://docs.python.org/3/library/pickle.html#module-pickle) 
+safely, like strings, dictionaries, lists of model objects. 
 You first access your configured caches defined in the CACHES setting through django.core.cache.caches 
 and then externally store and retrieve things from it. 
 ```python

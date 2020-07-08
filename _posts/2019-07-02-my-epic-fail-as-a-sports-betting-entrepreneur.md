@@ -2,8 +2,8 @@
 title: My epic fail as a sports betting entrepreneur
 author: Dimitris Georgoulas
 date: 2019-07-02 11:30:00 +0200
-categories: [Sports Betting, zakanda]
-tags: [sports-betting, zakanda]
+categories: [Career, Choices]
+tags: [sports betting, zakanda]
 toc: true
 comments: false
 ---
