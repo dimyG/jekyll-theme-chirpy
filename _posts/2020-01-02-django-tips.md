@@ -1,11 +1,94 @@
 ---
-title: Random Django Tips 
+title: Django Random Tips 
 author: Dimitris Georgoulas
 date: 2020-01-02 11:33:00 +0800
 categories: [Django, Miscellaneous]
 tags: [django]
 toc: true
 ---
+
+# Avoiding race conditions in django
+- Use an `F() expression` when updating a model field’s value relatively to its previous value. For example:
+```python
+from django.db.models import F
+product = Product.objects.get(name='Numenor stone')
+# don't do this:
+product.number_sold += 1
+product.save()
+```
+We want to avoid loading the _number_sold_ value in memory, doing the calculation (in this case adding 1) and then saving back to the 
+database, because while the value is in memory, the actual value in the database might be modified by another application 
+instance. This would mean that the first application instance will use an outdated value for the calculation. 
+```python
+# do this instead
+product.number_sold = F('number_sold') + 1
+product.save()
+```
+The F() object generates an SQL expression that describes the required operation at the database level, so you avoid 
+loading the value in memory. When product.save() is executed the operation will use the database's value. 
+
+- If we use `get_or_create()` or `update_or_create()` methods, we must enforce **uniqueness** in database level for the given keyword arguments. 
+This is a get_or_create() example but the reasoning is identical for update_or_create() too. 
+```python
+highlander, created = Immortal.objects.get_or_create(
+    first_name='Connor', last_name='MacLeod'
+)
+# get_or_create is equivalent to the following:
+try:
+    highlander = Immortal.objects.get(first_name='Connor', last_name='MacLeod')
+except Immortal.DoesNotExist:
+    highlander = Immortal(first_name='Connor', last_name='MacLeod')
+    highlander.save()
+```
+If highlander does not exist and two different application instances run this code at the same time then they will 
+both try to create him. If there is nothing to ensure that there can be only one highlander we can end up with two. 
+To avoid this we must enforce uniqueness at the database level.    
+```python
+class Immortal(models.Model):
+    first_name = models.Charfield(max_length=42)
+    last_name = models.Charfield(max_length=42)
+
+    class Meta:
+        # enforce uniqueness to avoid duplicate entries
+        unique_together = ('first_name', 'last_name')
+```
+Now only the faster application instance will actually create the highlander. The second one will just raise 
+an IntegrityError. 
+
+- If you want to update an existing model instance, use the `update()` method instead of loading it in memory and then calling save() 
+on it, in order to avoid the possibility that the entry is modified (for example deleted) in the short period of time between loading and saving. 
+The update() method creates a raw SQL expression to update the model directly in the database. 
+```python
+# instead of doing this:
+captain = Person.objects.get(id=1)
+captain.last_name = 'Adama'
+captain.save()
+# do this:
+Person.objects.filter(id=1).update(last_name='Adama')
+```
+> ***Note***: The update() method does an update at the SQL level and thus, does not call any save() methods on 
+>your models. This means that the pre_save() and post_save() signals which are a consequence of calling Model.save() 
+>are also not called. If executing the model's save() method or its related signals is necessary then you can't use update(). In this case 
+you have to use the select_for_update() queryset method in combination with database transactions. See below.
+
+- Using the `select_for_update()` queryset method in combination with **database transactions**. 
+```python
+from django.db import transaction
+wandering_hobbits = Hobbit.objects.select_for_update().filter(location='Bree')
+with transaction.atomic():
+    for hobbit in wandering_hobbits:
+        hobbit.location = 'Lothlorien'
+        hobbit.save()
+```
+When the queryset is evaluated (for hobbit in wandering_hobbits in this case), all matched hobbits will be locked until the end 
+of the transaction block, meaning that other transactions will be prevented from changing or acquiring locks on them. 
+> ***Note***: The select_for_update() method locks rows by using a _SELECT ... FOR UPDATE_ SQL statement on supported databases. This 
+is not a table level lock, it is a row level lock, so the rest of table's rows can be normally accessed by other 
+application instances which means that the overall performance of your service is not reduced.   
+
+- And a small bonus. A post describing the cumbersome process of 
+[Fixing a race condition](https://medium.com/in-the-weeds/fixing-a-race-condition-c8b475fbb994). It does it in a 
+ruby on rails context but the fundamentals are identical. 
 
 # select_related() and prefetch_related()
 select_related() and prefetch_related() can greatly improve the performance of 
@@ -54,50 +137,10 @@ many times during the for loop, we hit it only once, performing some super expen
 greatly improving the performance.
 
 > ***Note***: The difference between select_related and prefetch_related lies in how they work under the hood.  
->The result is, that select_related is limited to single-valued relationships (foreign key and one-to-one) 
+>The result is, that select_related() is limited to single-valued relationships (foreign key and one-to-one) 
 >while prefetch_related() on the other hand, can prefetch many-to-many and many-to-one objects.
 
-# Avoiding race conditions in django
-- Use an `F() expression` when updating a model field’s value relatively to its previous value. For example:
-```python
-from django.db.models import F
-product = Product.objects.get(name='Numenor stone')
-# don't do this:
-# product.number_sold += 1
-# do this instead
-product.number_sold = F('number_sold') + 1
-product.save()
-```
-- Using the `select_for_update()` queryset method in combination with database transactions. 
-```python
-from django.db import transaction
-wanderer_hobbits = Hobbit.objects.select_for_update().filter(location='Bree')
-with transaction.atomic():
-    for hobbit in wanderer_hobbits:
-        ...
-```
-When the queryset is evaluated (for hobbit in wanderer_hobbits in this case), all matched hobbits will be locked until the end 
-of the transaction block, meaning that other transactions will be prevented from changing or acquiring locks on them.
-- If you want to modify an existing model instance, use update methods instead of loading it in memory and then calling save() 
-on it. Update methods create a raw SQL expression to update the model directly in the database.  
-The `update_or_create()` queryset method tries to fetch an object from database based on the given kwargs. 
-If a match is found, it updates the fields passed in the defaults dictionary.
-```python
-hobbit, created = Hobbit.objects.update_or_create(
-    first_name='Frodo', last_name='Baggins',
-    defaults={'Samwise': 'Gamgee'},
-)
-```
-You can also do it with the save() method but using its `update_fields` keyword argument. It will force an update 
-(similarly to the force_update argument) which means that you avoid saving after first loading to memory.
-```python
-hobbit = Hobbit.objects.get(first_name='Frodo', last_name='Baggins')
-hobbit.first_name = 'Samwise'
-hobbit.last_name = 'Gamgee'
-hobbit.save(update_fields=['first_name', 'last_name'])
-```
-
-# Form validation in a nutshell
+# Django forms validation in a nutshell
 Form validation is normally executed when you call the `Form.is_valid()` method. 
 There are other things that can also trigger cleaning and validation (accessing the errors attribute 
 or calling full_clean() directly), but normally they won’t be needed. During Form validation the following 
@@ -110,7 +153,7 @@ It runs for each field of the form and invokes the following three methods:
 - `run_validators()`: It runs all of the field’s validators and aggregates all the errors into a single ValidationError. 
 A validator is merely a callable object or function that takes a value and simply returns nothing if the value is 
 valid or raises a ValidationError if not. You pass them to the form’s field in the form class definition. 
-> ***Note***: The Field.clean() method returns the clean data, which is then inserted into the _cleaned_data_ dictionary of the form.   
+> ***Note***: The Field.clean() method returns the clean data, which is then inserted into the `Form.cleaned_data` dictionary.   
 
 2. Field.clean_\<fieldname\>()  
 It runs for each field of the form and does any cleaning that is specific to that particular field, unrelated to the type 
@@ -119,7 +162,27 @@ of field that it is. For example check if the value of a charfield is unique.
 3. Form.clean()  
 It runs after the individual field methods have run, so it has access to their errors too, available in `Form.errors` attribute. 
 It can perform validation that requires access to multiple form fields. Errors raised by this method are accessed by 
-the `Form.non_field_errors` method. 
+the `Form.non_field_errors` attribute. 
+
+# Clearing the session store
+In general you can use sessions in four ways:
+- Using database-backed sessions (the session data is stored in the database)
+- Using cached sessions (the session data is stored in the cache but also in the database if you want)
+- Using file-based sessions (the session data is stored in a filesystem)
+- Using cookie-based sessions (the session data is stored in a cookie)
+
+As users create new sessions on your website, session data can accumulate in your session store. 
+If you’re using the database backend, the django_session database table will grow. If you’re using the file backend, 
+your temporary directory will contain an increasing number of files.
+To understand this problem, consider what happens with the database backend. When a user logs in, Django adds a row 
+to the django_session database table. Django updates this row each time the session data changes. If the user logs 
+out manually, Django deletes the row. But if the user does not log out, the row never gets deleted. A similar process 
+happens with the file backend.
+Django does not provide automatic purging of expired sessions. Therefore, it’s your job to purge expired sessions 
+on a regular basis. Django provides a clean-up management command for this purpose: `clearsessions`. It’s recommended 
+to call this command on a regular basis, for example as a **daily cron job**.
+> ***Note***: The cache backend (without persistence to the database) isn’t vulnerable to this problem, because caches automatically delete stale data. 
+Neither is the cookie backend, because the session data is stored by the users’ browsers.
 
 # Signals
 - Signals are not executed asynchronously. This means that the `post_save` signal will have to wait for the `pre_save` signal to finish.
@@ -138,34 +201,17 @@ with queryset.update().
 - If you want to avoid these side effects of the queryset.update() then loop over the entries of the queryset and call 
 save() on each one of them.  
 ```python
-elfs = Elf.objects.all()
+elves = Elf.objects.all()
 # instead of doing this:
-elfs.update(weapon='Elven Sword')
+elves.update(weapon='Elven Sword')
 # do this:
-for elf in elfs:
+for elf in elves:
     elf.weapon = 'Elven Sword'
     elf.save()
 ```
-
-# Clearing the session store
-In general you can use sessions in four ways:
-- Using database-backed sessions (the session data are stored in the database)
-- Using cached sessions (the session data are stored in the cache but also in the database if you want)
-- Using file-based sessions (the session data are stored in a filesystem)
-- Using cookie-based sessions (the session data are stored in a cookie)
-
-As users create new sessions on your website, session data can accumulate in your session store. 
-If you’re using the database backend, the django_session database table will grow. If you’re using the file backend, 
-your temporary directory will contain an increasing number of files.
-To understand this problem, consider what happens with the database backend. When a user logs in, Django adds a row 
-to the django_session database table. Django updates this row each time the session data changes. If the user logs 
-out manually, Django deletes the row. But if the user does not log out, the row never gets deleted. A similar process 
-happens with the file backend.
-Django does not provide automatic purging of expired sessions. Therefore, it’s your job to purge expired sessions 
-on a regular basis. Django provides a clean-up management command for this purpose: `clearsessions`. It’s recommended 
-to call this command on a regular basis, for example as a **daily cron job**.
-> ***Note***: The cache backend (without persistence to the database) isn’t vulnerable to this problem, because caches automatically delete stale data. 
-Neither is the cookie backend, because the session data is stored by the users’ browsers.
+> ***Note***: If your service uses concurrent application instances, then looping through entries, loading in 
+>memory and then saving might cause race conditions. To avoid them see
+> [avoiding race conditions in django](http://127.0.0.1:4000/posts/django-tips/#avoiding-race-conditions-in-django).  
 
 # Url design  
 When deciding whether to use the URL path or the query parameters for passing information, the following may help:

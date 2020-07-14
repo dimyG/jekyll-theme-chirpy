@@ -10,12 +10,13 @@
 
 title: Dimitris Georgoulas                          # the main title
 
-tagline: Passionate about learning, excited with technology  # it will display as the sub-title
+tagline: Full stack web developer, Passionate about learning, Excited with technology,
+  Located in Thessaloniki, Greece  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   The personal blog of Dimitris Georgoulas.
   It contains posts about programming, web development and technology in general.
-  Python, django, javascript, react, mathematics, artificial intelligence
+  Focused on python, django, javascript, react.js, artificial intelligence, mathematics
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://dimyg.github.io'

@@ -25,7 +25,7 @@ publicly available if he so desires. The best players will stand out and anyone 
 too. They would even be able to charge for their advices and my web service would get a commission from the monthly 
 subscriptions. It seemed a pretty solid business model to me at the time. I couldn't be more wrong.. 
 
-## Writing code with the head buried in the sand
+## Coding wearing blinkers
 With no prior web development experience but armed with a ton of will, energy, persistence and an ever growing thirst 
 for knowledge, I started designing the system which would later become [zakanda](https://www.zakanda.com/). Such was my 
 desire to apply my new web development skills that I didn't even thought about creating a [lean canvas](https://leanstack.com/leancanvas) for my business. 
@@ -33,7 +33,7 @@ Not only that but I didn't event do a proper market research before starting thi
  
  ![Desktop View]({{ "/assets/img/sample/matrix02.png" | relative_url }})  
  
-Anything else was a waste of time. I leave the technical details for another post, but in a few words I can say that 
+Anything else was a waste of time. I leave the technical details for [another post](http://127.0.0.1:4000/posts/zakanda_technical_overview/), but in a few words I can say that 
 as a complete beginner as I was at the time, I made both good and bad technical decisions. The most immature decision though 
 and one that cost me a lot of time down the line, 
 was to to make zakanda a single page application. This choice would be amazing if it wasn't the fact that I 
