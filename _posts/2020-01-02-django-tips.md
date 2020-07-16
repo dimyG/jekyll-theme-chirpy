@@ -3,7 +3,7 @@ title: Django Random Tips
 author: Dimitris Georgoulas
 date: 2020-01-02 11:33:00 +0800
 categories: [Django, Miscellaneous]
-tags: [django]
+tags: [django, tips]
 toc: true
 ---
 

@@ -103,7 +103,8 @@ the current version of the code.
 The scheduler process which must always be up and running, checks periodically a specific queue for any 
 task that has been scheduled for execution at a specific point in time. If it is the time for a task, the scheduler 
 puts this task in the workers queue to be executed by the available worker processes. Examples of scheduled periodic tasks 
-are: Getting from the data source API, the sports schedule of the next days, the bookmaker odds for sport events, the results of the latest events etc.     
+are calls to the data source API for specific data: Getting the sports schedule of the next days, the bookmaker odds 
+for sport events, the results of the latest events etc.     
 
 ## Deployment
 zakanda was initially deployed in Heroku where each process was a dyno. Later though it was containerized and deployed to AWS Elastic Container Service (ECS). 
@@ -177,5 +178,7 @@ The sports data is retrieved from [sportmonks](https://www.sportmonks.com/) but 
 supports more than one data sources. There is a mapping functionality that matches objects between the 
 different data sources. 
 
+# Source code
 The source code is stored in a Github private repository. I will probably open source it soon. I'm not sure why I 
-haven't already. Maybe I wait for someone to come and offer a couple of millions for it. It will happen from day to day, for sure. 
+haven't already. Maybe I wait for someone to come and offer a small fortune for it. Strangely enough, no one came yet. 
+It will happen from day to day, for sure...
