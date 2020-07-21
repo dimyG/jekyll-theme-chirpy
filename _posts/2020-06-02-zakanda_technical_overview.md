@@ -1,8 +1,8 @@
 ---
 title: Zakanda technical overview 
 author: Dimitris Georgoulas
-date: 2019-10-02 11:33:00 +0300
-categories: [Career, Portfolio]
+date: 2020-06-02 11:33:00 +0300
+categories: [Career, Experience]
 tags: [zakanda, django]
 toc: true
 ---
@@ -156,7 +156,7 @@ simply using jquery. These things make the whole front end codebase prone to bug
 frameworks weren't invented without good reasons after all... 
 
 The interactive dashboard is made using [dc.js](https://dc-js.github.io/dc.js/) and [crossfilter.js](https://github.com/crossfilter/crossfilter). 
-The data is processed in the server with [pandas](https://github.com/pandas-dev/pandas), served to the web client as json objects which are then processed  
+The data is processed in the server with [pandas](https://github.com/pandas-dev/pandas), served to the web client as json objects which are then processed 
 by crossfilter.js and transformed to interactive charts by dc.js. 
 
 [Metronic](https://keenthemes.com/metronic/) is the used theme. It is highly customized to become a dark theme. 

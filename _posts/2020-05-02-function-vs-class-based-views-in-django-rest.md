@@ -1,8 +1,8 @@
 ---
 title: Function vs Class based views in Django Rest Framework 
 author: Dimitris Georgoulas
-date: 2019-08-08 11:33:00 +0800
-categories: [Django, django rest]
+date: 2020-05-02 11:33:00 +0800
+categories: [Web-Development, Django]
 tags: [django, django-rest-framework]
 toc: true
 ---

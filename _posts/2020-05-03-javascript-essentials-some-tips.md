@@ -1,8 +1,8 @@
 ---
-title: Javascript Random Tips 
+title: Javascript Essentials, some tips 
 author: Dimitris Georgoulas
-date: 2020-01-03 11:33:00 +0800
-categories: [Javascript, Miscellaneous]
+date: 2020-05-03 11:33:00 +0800
+categories: [Web-Development, Javascript]
 tags: [javascript, tips]
 toc: true
 ---
@@ -68,6 +68,65 @@ words that the declaration of the variable is done in the initialization phase s
 to its value, is also called **hoisting** (the declaration of the variable is hoisted to the top). 
  
 # Function declaration and function expression
+There are two ways to define a javascript function. Either using a function declaration or a function expression. 
+The big difference between the two is that with function declaration the function is stored in the scope during the 
+initialization phase while with function expression it doesn't (so you can't call it before its definition in the code). 
+
+**Function declaration**  
+We have a function declaration whenever the definition of a function starts with the _function_ keyword.
+```javascript
+// function declaration
+function meaning(){
+    console.log(42);
+}
+```
+During the initialization phase a variable which has the same name with the function will be automatically defined. 
+This variable will reference the declared function object and is the variable that is stored in the scope. So, in this example 
+the scope would be _{ meaning: function }_.    
+
+**Function expression**  
+A function expression creates a new function at runtime. The big difference with the function declaration method is that 
+during the initialization phase, the function defined with a function expression is not stored in the scope. 
+It is created directly at runtime. 
+In this method, a function is defined as a part of a larger expression syntax, typically a variable assignment. 
+
+Functions defined via function expressions can be either named or anonymous. 
+```javascript
+// named function expression
+var yo = function meaning(){
+    console.log(42);
+}
+
+// anonymous function expression
+var yo = function() {
+    console.log(42);
+}
+```
+Another implementation of a function expression is the self invoking anonymous function expression.
+```javascript
+// self invoking function expression
+(function meaning() {
+    console.log(42);  
+})();
+```
+Since a function expression can't start with the _function_ keyword, we must surround it with parentheses. 
+These surrounding parentheses are called the _Grouping operator_ and force the function to be an expression. 
+The trailing initiating braces at the end _();_ make the function self executable. At runtime phase, it will be 
+defined and then immediately executed.
+
+> ***Note***: There are alternative ways for defining self invoking function expressions. If you come 
+>across them rest assured that they are just self invoking function expressions.
+>```javascript
+>// alternative syntax for a self invoking function expression
+>(function meaning(){
+>     console.log(42);
+>());
+>
+>// alternative syntax for a self invoking function expression
+>+function meaning(){
+>     console.log(42);
+>}();
+>```
 
 # Arguments are passed by value
 In JavaScript, all function arguments are always passed by value. This means that changes to the value of an argument 
@@ -91,33 +150,20 @@ console.log(counter)  // prints 0
 >and modify the value of a property of the object (and not the object itself) inside the function, then this change will persist in the object 
 >outside of the function.   
 ```javascript
-function increment_object_property(object){
+function increment(object){
   object.counter += 1
 }
 var object = {"counter": 0}
-increment_object_property(object)
+increment(object)
 console.log(object)  // prints {counter: 1}
 ```
 But, if you change the value of the object as a whole, then the outer object is not affected at all since as we said, 
 arguments are passed by value, not by reference.  
 ```javascript
-function increment_with_new_object(object){
+function increment(object){
   object = {"counter": object.counter + 1}
 }
-var another_object = {"counter": 0}
-increment_with_new_object(another_object)
-console.log(another_object)  // prints {counter: 0}
+var object = {"counter": 0}
+increment(object)
+console.log(object)  // prints {counter: 0}
 ```
-
-# Loop through object’s properties
-
-# Arguments default values
-
-# var vs let vs const
-The common rule is to use const for everything except if the variable needs to be reassigned with a new value, in 
-which case use let. You never need to use var again.
- 
-# ES6 modules
-
-# Storing in client 
- 

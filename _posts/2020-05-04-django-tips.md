@@ -1,8 +1,8 @@
 ---
 title: Django Random Tips 
 author: Dimitris Georgoulas
-date: 2020-01-02 11:33:00 +0800
-categories: [Django, Miscellaneous]
+date: 2020-05-04 08:30:00 +0800
+categories: [Web-Development, Django]
 tags: [django, tips]
 toc: true
 ---
@@ -136,7 +136,7 @@ The related data is stored in prefetched querysets, so instead of hitting the da
 many times during the for loop, we hit it only once, performing some super expensive queries but in one batch 
 greatly improving the performance.
 
-> ***Note***: The difference between select_related and prefetch_related lies in how they work under the hood.  
+> ***Note***: The difference between select_related and prefetch_related lies in how they work under the hood. 
 >The result is, that select_related() is limited to single-valued relationships (foreign key and one-to-one) 
 >while prefetch_related() on the other hand, can prefetch many-to-many and many-to-one objects.
 
