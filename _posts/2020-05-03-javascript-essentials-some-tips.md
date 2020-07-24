@@ -120,7 +120,7 @@ defined and then immediately executed.
 >// alternative syntax for a self invoking function expression
 >(function meaning(){
 >     console.log(42);
->());
+>}());
 >
 >// alternative syntax for a self invoking function expression
 >+function meaning(){

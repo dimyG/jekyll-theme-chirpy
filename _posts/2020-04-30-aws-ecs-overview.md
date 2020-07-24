@@ -1,7 +1,7 @@
 ---
 title: AWS Elastic Container Service overview 
 author: Dimitris Georgoulas
-date: 2019-10-01 11:33:00 +0300
+date: 2020-04-30 11:30:00 +0200
 categories: [Web-Development, Miscellaneous]
 tags: [aws]
 toc: true
