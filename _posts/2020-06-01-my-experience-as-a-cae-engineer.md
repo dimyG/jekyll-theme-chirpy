@@ -8,7 +8,7 @@ toc: true
 comments: false
 ---
 
-# Computer Aided Engineering 
+## Computer Aided Engineering 
 CAE is probably an unknown term for most people coming from the web development world. It might say something to people 
 with a pure computer science background but generally this is not the case. So, what is it? 
 CAE stands for "computer aided engineering". It is a wide term that encompasses a lot of things. As per Wikipedia: 
@@ -66,7 +66,7 @@ and another one its aerodynamic properties (CFD analysis). This whole process of
 using finite element analysis is the job of a CAE engineer. The application of these methods and the use of the 
 specialized software can be found in all major manufacturing industries (automotive, heavy machinery, aerospace, maritime, energy, etc.).
 
-# My role at BETA CAE Systems
+## My role at BETA CAE Systems
 After graduating as a mechanical engineer from the polytechnic school of Aristotle University of Thessaloniki and 
 finishing the obligatory in Greece, military service, I joined [BETA CAE Systems](https://www.beta-cae.com/) at 2009. BETA, based in my home city Thessaloniki, 
 is one of the biggest software houses in the country, developing CAE software since the 90s. It is an amazing company 
@@ -100,7 +100,7 @@ But, about 5 years later, I felt that was time for me to move on to a different 
 opportunity to combine two of my passions, programming and entrepreneurship, in what later became 
 [my epic fail as a sports betting entrepreneur](http://127.0.0.1:4000/posts/my-epic-fail-as-a-sports-betting-entrepreneur/).  
 
-# A small showcase
+## A small showcase
 The following video is a small showcase of my work at BETA, back at 2012. It is a ships collision simulation and 
 might be interesting to watch. Both ships are deformable, meshed with three zones of mesh refinement giving a total 
 of 1.3 million finite elements. The simulated time is about 2 seconds, until the start of the spring-back effect. 

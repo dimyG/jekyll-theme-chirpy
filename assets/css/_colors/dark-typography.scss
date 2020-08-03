@@ -130,6 +130,17 @@
   }
 
   // -- My styling -- //
-  --link-color: #2fb817;
+  --link-color: #e6db74b8;
+  --toc-highlight: #e6db74b8;
+
+  #access-tags {
+  .post-tag {
+    &:hover {
+      background-color: #008080;
+      border-color: #008080;
+      //color: #fff;
+    }
+  }
+}
 
 } // dark-scheme

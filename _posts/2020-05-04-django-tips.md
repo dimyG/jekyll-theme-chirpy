@@ -7,7 +7,7 @@ tags: [django, tips]
 toc: true
 ---
 
-# Avoiding race conditions in django
+## Avoiding race conditions in django
 - Use an `F() expression` when updating a model field’s value relatively to its previous value. For example:
 ```python
 from django.db.models import F
@@ -90,7 +90,7 @@ application instances which means that the overall performance of your service i
 [Fixing a race condition](https://medium.com/in-the-weeds/fixing-a-race-condition-c8b475fbb994). It does it in a 
 ruby on rails context but the fundamentals are identical. 
 
-# select_related() and prefetch_related()
+## select_related() and prefetch_related()
 select_related() and prefetch_related() can greatly improve the performance of 
 your code. They return a QuerySet that will automatically retrieve, in a single batch, 
 related objects for each of the specified lookups. This would become more clear with an example 
@@ -140,7 +140,7 @@ greatly improving the performance.
 >The result is, that select_related() is limited to single-valued relationships (foreign key and one-to-one) 
 >while prefetch_related() on the other hand, can prefetch many-to-many and many-to-one objects.
 
-# Django forms validation in a nutshell
+## Django forms validation in a nutshell
 Form validation is normally executed when you call the `Form.is_valid()` method. 
 There are other things that can also trigger cleaning and validation (accessing the errors attribute 
 or calling full_clean() directly), but normally they won’t be needed. During Form validation the following 
@@ -164,7 +164,7 @@ It runs after the individual field methods have run, so it has access to their e
 It can perform validation that requires access to multiple form fields. Errors raised by this method are accessed by 
 the `Form.non_field_errors` attribute. 
 
-# Clearing the session store
+## Clearing the session store
 In general you can use sessions in four ways:
 - Using database-backed sessions (the session data is stored in the database)
 - Using cached sessions (the session data is stored in the cache but also in the database if you want)
@@ -184,7 +184,7 @@ to call this command on a regular basis, for example as a **daily cron job**.
 > ***Note***: The cache backend (without persistence to the database) isn’t vulnerable to this problem, because caches automatically delete stale data. 
 Neither is the cookie backend, because the session data is stored by the users’ browsers.
 
-# Signals
+## Signals
 - Signals are not executed asynchronously. This means that the `post_save` signal will have to wait for the `pre_save` signal to finish.
 - Signals are part of Transactions. If there is an exception in the functions executed in the signal the transaction is rolled back. 
 The signal is considered part of the transaction block.
@@ -192,7 +192,7 @@ The signal is considered part of the transaction block.
 - Many of django signals are sent by various model methods like \_\_init\_\_() or save() that you can override in your own code. 
 If you override these methods on your model, you must call the parent class’ methods for these signals to be sent.
 
-# Queryset.update() and Model.save()
+## Queryset.update() and Model.save()
 - The queryset.update() method does an update at the SQL level and thus, does not call any save() methods on your models 
 nor does it emit the pre_save or post_save signals (which are a consequence of calling Model.save()). 
 - Model DateFields with auto_now argument (used for tracking when was the latest update of a model) are not updated 
@@ -213,7 +213,7 @@ for elf in elves:
 >memory and then saving might cause race conditions. To avoid them see
 > [avoiding race conditions in django](http://127.0.0.1:4000/posts/django-tips/#avoiding-race-conditions-in-django).  
 
-# Url design  
+## Url design  
 When deciding whether to use the URL path or the query parameters for passing information, the following may help:
 1. use the URL path for uniquely identifying resources, for example /blog/post/15/ not /blog/posts/?id=15
 2. use query parameters for changing the way the resource is displayed, for example /blog/django/2020/?sort_by=date&direction=desc
@@ -221,7 +221,7 @@ When deciding whether to use the URL path or the query parameters for passing in
 
 > ***Note***: The url query parameters are available in request.GET dictionary, for example: request.GET.get(“sort_by”). 
 
-# Number of entries in a queryset   
+## Number of entries in a queryset   
 When you only want the number of entries in a queryset use the queryset's count() method `queryset.count()` instead of the len 
 function `len(queryset)`. The len function will evaluate the queryset, which means that it will fetch all the entries from the 
 database and store them in memory, while the count method will just return the number of entries without returning the 
@@ -229,7 +229,7 @@ actual entries. Under the hood you have a `SELECT * FROM table` vs a `SELECT COU
 to iterate over the entries though, you better use the len() function in order to avoid the double hit to the database (one for 
 the count operation and one for the select all operation). 
 
-# Callable as a model field’s default value
+## Callable as a model field’s default value
 The default value of a field can be a callable object. In that case it will be called every time a new object is created.
 ```python
 from datetime import datetime, timedelta
@@ -242,7 +242,7 @@ class Bill(models.Model):
 ```
 > ***Note***: lambdas can’t be used for field options like default because they can’t be serialized by migrations.
 
-# Extendable views  
+## Extendable views  
 If you intent to build a django app for other developers, you would like to make it as customizable as possible. One way 
 to customize a 3rd party django app is to override its views. You can make your app views easier to customize by adding some 
 standard arguments to them, arguments like extra_context or upload_form and of course *args and **kwargs. For example 
@@ -270,7 +270,7 @@ def my_override_view(request):
     return response
 ```
 
-# Miscellaneous
+## Miscellaneous
 - List of ids   
 When you want a list of the ids or a list of any other field of a django model you can use the values_list() method.
 ```python

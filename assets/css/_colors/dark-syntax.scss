@@ -75,7 +75,7 @@
   .highlight .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
 
 
-  /*-----  My styles ------*/
+  /*-----  My styling ------*/
 
   --highlight-bg-color: #272822;
   --highlighter-rouge-color: #de6b18;
@@ -91,10 +91,19 @@
 
 
   // -- My styling -- //
+  --my_green: #008080;
   --highlighter-rouge-color: rgba(138, 248, 228, 0.41);
-  --text-color: #75715e;  // rgba(248, 194, 138, 0.4)
+  --text-color: #999999;  //#75715e;  // rgba(248, 194, 138, 0.4)
   //--link-color: #2fb817
   --footnote-target-bg: var(--highlight-bg-color);
+
+  // this is from post.css
+  .post-navigation .btn:hover {
+      background: var(--my_green);
+      color: #fff;
+      border-color: var(--my_green);
+  }
+  //
 
   .highlighter-rouge {
     background: #27282278;
@@ -105,14 +114,14 @@
   }
 
   .post h3 {
-    color: #008080;
-  }
-
-  .post h2 {
     color: #e6db74b8;
   }
 
+  .post h2 {
+    color: var(--my_green);
+  }
+
   .post h1 {
-    color: #de6b18e0;  // #e6db74c7; // rgba(138, 180, 248, 0.55);
+    color: #e6db74b8;  // #de6b18e0;  // #e6db74c7; // rgba(138, 180, 248, 0.55);
   }
 }

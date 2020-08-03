@@ -6,7 +6,7 @@ tags: [django, http]
 toc: true
 ---
 
-# Server caches and Downstream caches
+## Server caches and Downstream caches
 HTTP caching mechanisms can be a bit confusing at first so let's start clarifying them a bit. I would like to start by noting 
 that in a typical client web server architecture there isn't only one cache, there are many. There are server side caches and downstream caches. 
 A server side cache can be a key-value store like redis or memcached for example. Apart from that there are also the so called downstream 
@@ -18,7 +18,7 @@ In any case, you have the power to control the behaviour of these caches or in o
 and retrieved from them, using HTTP headers. Headers like `Cache-Control`, `Expires`, `ETag`, `Last-Modified` and `Vary`. 
 Let's dig into them...
 
-# Cache-Control max-age and Expires
+## Cache-Control max-age and Expires
 `Cache-Control` has many directives one of which is the `max-age` with which you can define for how many seconds after the first request, you
 want the response to be stored in a cache. If a request for the same resource is done within this time frame then the cached response will be used no matter what.
 `Expires` on the other hand does the same thing, with the difference that you define a specific date and time until which the cached response is valid. 
@@ -27,7 +27,7 @@ will expire at the same time and all clients might request the new resource at t
 the `Cache-Control` header is newer, more versatile and takes precedence over `Expires` if both are present. So the only reason you might want
 to still use the Expires header is for outdated downstream caches which might not support the `Cache-Control` header yet.  
 
-# ETag and Last-Modified
+## ETag and Last-Modified
 At first the browser checks the `Cache-Control` or `Expires` headers to determine whether or not to make a request to the server. 
 If it has to make a request, then there are some additional headers that control what happens next. Meet `Etag` and `Last-Modified` response headers.
 `ETag` is usually a checksum of the response which means that it changes whenever the response changes while `Last-Modified` 
@@ -39,14 +39,14 @@ If the response has changed, then the ETag value calculated by the server will b
 `Last-Modified` works in a similar way but instead of calculating and comparing a checksum value it calculates and compares a datetime value. 
 The browser sends an `If-Modified-Since: <date and time>` request header. You can choose to use whichever of the two best suits you.
  
-# ETag example
+## ETag example
 - Browser_A makes a GET request for page_1
 - Page_1 doesn’t exist in browser’s_A cache. The request reaches the server. It doesn’t exist in the server cache. It is calculated. The response is added in the server cache along with its ETag value written as a response header. The response reaches the browser, is stored in its own cache and is presented to the user. 
 - Browser_B requests the same page_1. It is not in its cache. The request reaches the server but the response is not calculated again since it exists in the server cache from where is retrieved and returned to the browser.
 - Browser_A requests the page_1 again. Since there is no Expires or Cache-Control max age headers, only an ETag, it doesn’t get the page from ts cache but sends a request to the server along with its cached ETag value. The server calculates the current ETag value for that page. If it hasn’t changed then it responds with a simple 304 not modified response. The response reaches the browser which serves the user with its cached page.
 - The database is updated which means that page_1 changes and a new ETag value must be generated for it. Browser_A requests page_1. The server calculates the ETag value and sees that it doesn’t match with the request's ETag value. It runs its business logic to calculate the new response and sends it to the browser. The browser serves it to the user and updates its cache with the new page_1 that has a new ETag header
 
-# Caching variable and private data
+## Caching variable and private data
 Caching is an excellent efficiency boost, but there’s a danger to it. Cached data is stored as key-value pairs and many 
 systems create the key for a web page from its url. The problem is that the same url might return different content 
 based on which user sees the page or based on any other variable like if the client is a mobile device or not. 
@@ -62,7 +62,7 @@ like the ISP's cache for example, but only in private caches like the client's b
 use the versatile Cache-Control header with the private directive, `Cache-Control: private`. For very sensitive data 
 like credit card details that you don't want to be stored at all you can use `Cache-Control: no-store`.
 
-# Caching in django in a nutshell
+## Caching in django in a nutshell
 I will probably create a whole new post for this subject but until then, I live this overview of django caching here...
 
 As we said, the cached responses might be stored in more than one caches, for example in the server's cache and in the 
@@ -80,7 +80,7 @@ Django gives you full power over caching. First of all it offers different level
 2. You can cache specific views
 3. You can cache only the pieces that are difficult to produce
 
-## Caching the entire site
+### Caching the entire site
 The simplest way to use caching is to cache your entire site. Basically this is achieved with the use of middleware. 
 The `FetchFromCacheMiddleware` that caches GET and HEAD responses with status 200, where the request and response headers allow 
 and the `UpdateCacheMiddleware` that automatically sets the Expires and Cache-Control (with max-age directive) headers 
@@ -113,7 +113,7 @@ def my_view(request):
 >Luckily, in this case (where the session middleware is used and session is accessed in a view), 
 >django will automatically add `Vary:Cookie` header to the response so you don't have to do it yourself.
 
-## Caching specific views
+### Caching specific views
 In the previous approach we cache the entire site by default and externally specify what we don't want to cache (or we want to cache differently). 
 This is not always the best approach since you might end up caching things that shouldn't be cached. 
 Another approach is to cache nothing by default and externally define what pages you want to cache and how. This is achieved 
@@ -125,7 +125,7 @@ def my_view(request):
 ```
 > ***Note***: The per-view cache, like the per-site cache, is keyed off of the URL.
 
-## Caching specific pieces
+### Caching specific pieces
 Sometimes, caching an entire page like the per-site or per-view cache strategies do, is not the best approach. 
 For example you might have a view whose results depend on several expensive queries, the results of which change at different intervals. 
 In this case you don't want to cache the entire page but you still want to cache those expensive results. To do so you 

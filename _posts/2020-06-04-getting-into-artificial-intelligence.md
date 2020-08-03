@@ -7,7 +7,7 @@ tags: [career, artificial intelligence]
 toc: true
 ---  
 
-# Investigating my intuitions
+## Investigating my intuitions
 Motivated by the mysterious nature of human reasoning, during 2019, I found the time to start exploring 
 the world of artificial intelligence, 
 choosing though a rather unconventional approach. Instead of digging right into machine and deep learning courses, 
@@ -19,22 +19,24 @@ I knew that it is always much easier to understand the fundamentals if you have
 first tried to explain them by yourself. During this period and as some things were starting to crystallized, I kind of 
 cheated. I started watching talks of three of the most influential people of modern AI, 
 [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio) 
-and [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun). (It would be unfair though not to mention 
-[Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) and [HTM theory](https://www.youtube.com/watch?v=XMB0ri4qgwc&list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9) too. 
+and [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), so my thought process has been influenced by them. (It would be unfair though not to mention 
+[Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) and his [HTM theory](https://www.youtube.com/watch?v=XMB0ri4qgwc&list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9). 
 He is not considered mainstream but I gained a lot of useful insights from his talks too). 
 Some things made perfect sense to me, others were completely 
-new and some others are yet beyond my comprehension. As I discovered in the process, my thinking led to a 
+new and some others are yet beyond my comprehension. As I discovered in the process though, my thinking led to a 
 [self supervised learning](https://ai.stackexchange.com/questions/10623/what-is-self-supervised-learning-in-machine-learning) model 
-that uses [autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8) (among others).
+that uses [autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8) (among other things).
 
-> ***Note***: In the rest of this post I try to describe the thought process that led to some initial conclusions. 
->It probably contains inaccuracies and errors, so it might be misguiding. It's just an earlier version of myself, 
->investigating his intuitions, nothing more, 
->so take what you read with a grain of salt. Having said that, I think that some of these concepts are really interesting 
-> and can provide some short of inspiration. They most definitely though, need to be tested with actual implementations of 
->well established deep learning models and techniques so to be verified or discarded. 
+> ***Note***: In the rest of this post I try to describe the thought process that led to some of my initial conclusions. 
+>They might contain inaccuracies or errors, so if you are new to the field, have in mind that you could be misguided by them. 
+>If you are experienced on the other hand, try not to be too strict on them. 
+>They are just the untested ideas of a curious person who explores his intuitions. Until they are verified or discarded 
+>by actual implementations and testing, they remain ideas that might be useful just as some short of inspiration. 
+>In matter of fact I believe that some of these concepts are really promising and might lead to interesting paths, 
+>so I have every intention to test them by myself, once I find the time to do so. In any case I will keep this post updated.
+>Take what you read with a grain of salt. 
 
-# Concepts correlation
+## Concepts correlation
 My main intuitions come from observing my own brain and the way I reason about things. 
 One very obvious phenomenon that caught my attention and was the starting point of my journey, is what I called _concepts correlation_. 
 A typical example of this phenomenon is this: When we hear dog barking, a visual representation of a dog can be 
@@ -48,37 +50,48 @@ and replace the barking sound with the sound of the word "dog". Fundamentally, t
 The word dog is just a specific sound that is related with an object, in this case the dog and the mechanism that relates 
 them could be identical with the one that relates the barking sound with the sight of the dog. 
 
-# Encoders
+## Encoders
 The way I approached this issue was by thinking in terms of neural networks that process the seemingly random input 
 signals and produce simple compact representations of the main patterns find in them.  
 
-The high-dimensional sensory input signals are narrowed down 
-to low-dimensional output signals which represent higher level concepts (or patterns). 
-This transformation between the input and output space, is achieved 
-by multi layer neural networks the input layer of which, contains a larger number of neurons than the output layer. 
-Let's not focus on what drives this transformation and how is achieved, let's focus on the result. An 
+A typical multi layer neural network is composed by many layers of neurons, each one of which process the output of the previous layer.
+Usually the input layer has far more neurons than the output layer. This way the input layer can represent 
+signals that contain a lot of details (high-dimensional signals) while the output layer can only 
+represent "rough" signals with not much detail (low-dimensional signals). 
+We say that a neural network _learns_ to identify a pattern in the input signal, when it produces the same output every time 
+it receives signals that contain this pattern. 
+Let's not focus on what drives this learning process, let's focus on the result. An 
 input signal represented by a large number of firing neurons in the input layer, is transformed to a small set of 
-of firing neurons in the output layer. This set represents a high-level concept, which I call the **_representation set_** 
-of this concept. Every distinct sound and every distinct object is represented by its own 
-representation set. Every time we see a dog, the same representation set is activated. 
+of firing neurons in the output layer. This set of firing neurons of the output layer, represents a pattern of the input 
+signal, or using a more generic term, it represents a "concept". For this reason I call this set of firing neurons, the `representation set` 
+of this concept. 
+Every distinct sound and every distinct object corresponds to an input 
+signal which is processed by a neural network and 
+is eventually represented by a specific 
+representation set in the output neurons of the network. Through this prism, every time we see a dog, the same representation set is activated. 
 This representation set can be thought of as an encoding of the semantics of the input signal or a compressed 
 representation of it, so the neural network that creates it can be called _Encoder_. 
+
 This basic process can be easily depicted with a very simple diagram that also shows the 
-notation I use for this type of diagrams.  
+notation I use.  
 
 <img src="/assets/img/sample/ai_notation.PNG" alt="shell_mesh" width="400"/>
 
+> ***Note***: The transformation of an input signal to an output one, performed by a neural network, can be thought 
+of as the transformation of a vector between an input and an output space where the input space has more dimensions 
+from the output space. The output space is usually called **latent space**. 
+
 In the context of the previous example, when we see a dog, the visual field which is a collection of colors and shapes 
 is transformed to an electrical signal, is processed by the visual system and is narrowed down to a specific set of 
-firing neurons that collectively, they represent the high-level pattern of a dog. (Let's not focus on what type of neural networks 
-are good for visual signal processing nor the exact methods they do it). 
+firing neurons that collectively, they represent the pattern of a dog and can be called the dog's _latent vector_. 
+(Let's not focus on what type of neural networks are good for visual signal processing nor the exact methods they do it). 
 The same process takes place in the auditory system too. The word "dog" which fundamentally is 
 a sequence of air vibrations, is transformed to an electrical signal, processed by the auditory system and narrowed down 
-to a specific set of firing neurons that represent the high-level pattern of the word "dog". If this is the case, then 
-how these two representation sets are correlated with each other so that one can be generated by the other?
+to a specific set of firing neurons that represent the pattern of the word "dog". If this is the case, then 
+how these two representation sets (or latent vectors) are correlated with each other so that one can be generated by the other?
 
-# Correlators
-Another obvious phenomenon is that in order for two concepts (as previously defined) to be correlated with each other, 
+## Correlators
+Another obvious phenomenon is that in order for two "concepts" (representation sets or latent vectors) to be correlated with each other, 
 they must be active at the same time. For example when we stand next to a barking dog, the sight of the dog and 
 the sound of the barking are processed simultaneously and both representation sets are active at the same time. 
 Similarly when we learn the word "dog" the visual and auditory signals must be received at the same time in order to learn 
@@ -113,27 +126,26 @@ signals are the other way around. Eventually, this correlator will receive the r
 representation of the image of a dog, or more formally it will output an _audibly generated representation set of a 
 visual concept_. 
 
-Some notes: 
-- The sensory processing units (the encoders) transform a high dimensional input space to a low dimensional output space so the 
-input and output signals can also be though of as vectors. 
-- The low-dimensional output space is known as _latent space_. 
-- **The correlation is achieved in the latent space**, at representation set level, between low-dimensional high-level concepts.
-- The latent space must be low dimensional enough so that the latent vectors are simple enough to facilitate 
-the processes that work with them (like the correlation process). They must also be rich enough so that they 
-contain the fundamental semantics of the input space and so that their correlated vectors can be generated by them.
-- In the described system, the training of the sensory units is independent of the correlators training. The 
-correction signal is only received by the generator. In an alternative scenario, the correction signal produced by the 
-classifier, apart from the generator's training might contribute to the sensory units training too. This might be 
-necessary so that they produce slightly different representation sets that are easier to correlate. Although, intuitively 
-I would say that this is not the case. Imagine that you have seen many dogs and have learned to recognize them, but 
-you have never stand next to a barking dog. You have heard barking many times but you have no idea that its a dog's voice. 
-At this point the representation sets are well established but not correlated. If you finally see and hear a dog barking 
-I think that you would easily correlate the two without much effort. By correlation I mean that you could imagine a dog 
-by hearing barking and vice versa. So, I would argue that in this scenario the training is only applied to the correlator 
-and not to the sensory units that produce the two representation sets.
-- The classifier's correction signal is like a loss function. There might be different types of classifiers.
+What's important to remember, is that according to this model **the correlation is achieved in the latent space**, 
+at representation set level, between low-dimensional high-level concepts.
 
-# Decoders
+> ***Some notes*** 
+> - The latent space must be low dimensional enough so that the latent vectors are simple to facilitate 
+> the processes that work with them (like the correlation process). They must also be rich enough so that they 
+> contain the fundamental semantics of the input space and so that their correlated vectors can be generated by them.
+> - In this model, the training of the sensory units is independent of the correlators training. The 
+> correction signal is only received by the generator. In an alternative scenario, the correction signal produced by the 
+> classifier, apart from the generator's training might contribute to the sensory units training too. This might be 
+> necessary so that they produce slightly different representation sets that are easier to correlate. Although, intuitively 
+> I would say that this is not the case. Imagine that you have seen many dogs and have learned to recognize them, but 
+> you have never stand next to a barking dog. You have heard barking many times but you have no idea that its a dog's voice. 
+> At this point the representation sets are well established but not correlated. If you finally see and hear a dog barking 
+> I think that you would easily correlate the two without much effort. By correlation I mean that you could imagine a dog 
+> by hearing barking and vice versa. So, I would argue that in this scenario the training is only applied to the correlator 
+> and not to the sensory units that produce the two representation sets.
+> - The classifier's correction signal is like a loss function. There might be different types of classifiers.
+
+## Decoders
 The _Decoder_ is a unit that does the opposite job of the encoder. It transforms from the latent space to the input space. 
 It receives a representation set and generates an approximation of the input signal that created this representation set 
 in the first place. The input to a decoder can be either the representation set produced directly by the encoder or 
@@ -160,7 +172,7 @@ of a visual rectangle, which can be decoded back to the lower level visual input
 > ***Note***: The lower level supervisory signal can be further decomposed to even lower level signals. 
 >Decoders have a crucial role in the structure of a hierarchical system.  
  
-# Hierarchies
+## Hierarchies
 One of the reasons that deep neural networks are good at processing sensory signals (say pictures, which are snapshots
 of the real world), is the fact that the input data is _compositional_. A rectangle for example is 
 composed of lower level patterns, the lines and the corners. Similarly every object is composed of simpler lower level 
@@ -175,11 +187,11 @@ First, let's see a diagram, without correlators, that describes the basic compos
 
 There are three simultaneous input signals that are processed and recognized, meaning that a representation set is 
 activated for each one of them. The three representation sets, that are active at the same time, can be thought of as 
-a single unified signal, a composed signal or composed representation set, which is the input to an encoder in the next level, 
+a single unified signal, a **composed signal** or composed representation set, which is the input to an encoder in the next level, 
 that process it and encodes it to a higher level representation set. 
 This set is an encoded version of the composed representation set and represents a high concept which is composed of the 
 lower level component concepts that were activated 
-simultaneously at a previous level. As an example, if the composed concept is a rectangle, the lower level components 
+simultaneously at a previous level. As an example, if the higher composed concept is a rectangle, the lower level components 
 could be lines and corners. 
 
 The opposite process can also be achieved. If the composed concept is activated first (for example by a correlated high concept), 
@@ -189,7 +201,7 @@ representation sets that compose it, with one "decomposer" per component. This p
 _decoding_ (which inverts the encoder's process). Then each 
 individual representation set is decoded back to an approximation of the component's input signal. 
 
-# Correlation trees
+## Correlation trees
 Apart from being convenient for processing compositional data, a hierarchical system constructed by distinct basic components, 
 is also a mechanism that can be used to construct an associative thought process. 
 Since each component is a distinct representation set, a distinct concept, it can be correlated with others not only to generate higher composed concepts, 
@@ -197,7 +209,7 @@ but to generate a chain of activation of correlated representation sets. For exa
 remind a specific place, that might remind a specific face, that might remind a specific feeling (associative memory). 
 The smell's representation set has been correlated with the place's representation 
 set, which has been correlated with the face's representation set, which has been correlated with the feeling's 
-representation set. This propagation of activations of correlated representation sets, is an correlation chain. 
+representation set. This propagation of activations of correlated representation sets, is a correlation chain. 
 As this chain evolves, each individual representation set could be decomposed to its components through its hierarchical structure. 
 An example can be shown in the following diagram. It adds the correlators into the mix. 
 
@@ -215,7 +227,7 @@ the correlation chain, of which, two links (the two correlated representations s
 can form a tree of activity, with many branches. For this reason the term _correlation tree_ as a more generic one, 
 is probably more appropriate.
 
-# Reconstruction chains
+## Reconstruction chains
 The reconstruction chains is an idea that arose during the investigation of the correlation chains. It's something that adds 
 a few nice properties to the system, but as anything that is untested and with no references, might be just a nonsense. 
 In any case the rest of this exploration doesn't require their existence. 
@@ -248,8 +260,8 @@ following diagram:
 
 <img src="/assets/img/sample/chains_notation_4.png" alt="chains_notation_4" width="300"/>
 
-# Active State
-A system that processes continuous sensory inputs, correlates concepts, decomposes them and generates new ones in an 
+## Active State
+A system that processes continuous sensory inputs, correlates concepts, decomposes them and generates new ones in a 
 continuous flow, must be teeming with activity. 
 If we try to think about it in terms of the previously defined framework (representation sets, correlations, chains) then 
 this activity is a collection of correlation trees and can be referred to as the current active state of the system. 
@@ -263,7 +275,7 @@ then we can think of the active state as a collection of representation sets of 
 to contemplate that any new thought, which is itself represented by certain representation sets, must be 
 generated by the current active state. 
 
-# Selection system
+## Selection system
 In order to avoid the chaos which might arise from a huge number of simultaneous active concepts propagating their 
 chains and decomposing their concepts all over the active state, it seems 
 reasonable to think that there must be some kind of mechanism that selects which of the current active concepts 
@@ -275,6 +287,7 @@ of its concepts? One idea is a _switch mechanism_. According to this idea, there
 concepts and a _decoding switch_ in the connections between the components of a hierarchy. The first type controls the propagation 
 of the correlations while the second one the decomposition to components. There can be various implementations of such a switch mechanism. 
 One approach is with a bypass to an external "selection system" (or attention system). The connections are routed to this system which "decides" 
+(in a reward based process) 
 if it will send back the received signal or not. By "blocking" the incoming signal it stops the propagation of correlations 
 or the decomposition process. 
 
@@ -295,9 +308,9 @@ This is where a reward system might be necessary. Whenever the system pays atten
 that reinforces its current settings. What things are the right things in each situation is a big issue and the reward mechanism 
 is of great importance for such a system.
 
-# Further exploration
+## Further exploration
 There is so much room for exploration in all of the concepts described in this post. There is also a group of fundamental 
-issues which I haven't touched yet much, things like the reward mechanism and how is related with the concept of prediction, 
+issues which I haven't explored yet much, things like the reward mechanism and how is related with the concept of prediction, 
 or how language and motion are generated by sequence processors that are fed with selected representation sets from the active state. 
 And eventually how all these concepts can be combined to an autonomous agent which can interact with the environment and 
 learn from it. What a luring challenge. 
@@ -314,7 +327,7 @@ The requirement for a reward system which seems to be fundamental in humans is a
 representation sets that represent concepts of the environment. 
 I have yet though no idea about how difficult would be to train a 
 system that combines so many networks with each other or how such a system would perform.    
-   
+
 We must also have in mind that there is a trap when we try to mimic the behaviour of biological systems. This trap can become obvious 
 with the famous birds and planes example. You can 
 understand the basic principles of flight by studying birds, but once you understand them you can create artificial implementations 

@@ -1519,6 +1519,6 @@ table {
 }
 
 // -- My styling -- //
-.post-content > p {
+#post-wrapper p, #post-wrapper ul > li, #post-wrapper ol > li {
   text-align: justify;
 }

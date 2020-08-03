@@ -7,7 +7,7 @@ tags: [javascript, tips]
 toc: true
 ---
 
-# Javascript engine and runtime environment
+## Javascript engine and runtime environment
 JavaScript is an interpreted language. This means that the source code isn’t compiled into binary code prior to execution. 
 Instead, it needs a special program, the interpreter, which reads over the JavaScript code, interprets each line in machine instructions, and executes them. 
 
@@ -24,7 +24,7 @@ provide the _window_ object, the _DOM_ objects etc. while node.js provides _req
 These objects are not part of the core javascript library. They are exposed by the runtime environment and javascript code 
 can use them.
 
-# Scope
+## Scope
 The "scope" is a special internal javascript object called LexicalEnvironment, to which variables and functions are added as properties. 
 The top-level LexicalEnvironment in a web browser is the window object. It is also called the global object or the global scope. 
 Functions have their own local scope, their own LexicalEnvironment object. Blocks on the other hand, do not have a 
@@ -35,7 +35,7 @@ scope, it is “stored” in its containing function's scope or in the global sc
 property which references the scope in which they live (not their own local scope). This property is added during the 
 initialization phase. You can access it with **_function_name.[[Scope]]_**. 
 
-# Initialization and running phase
+## Initialization and running phase
 Running a javascript file is a two step process. In the first phase, the **initialization phase**, the engine 
 parses the code, checks the syntax, collects function and variable definitions and adds them to the global scope. 
 The code is not executed in this phase but 
@@ -67,7 +67,7 @@ _undefined_.
 words that the declaration of the variable is done in the initialization phase separately of the assignment 
 to its value, is also called **hoisting** (the declaration of the variable is hoisted to the top). 
  
-# Function declaration and function expression
+## Function declaration and function expression
 There are two ways to define a javascript function. Either using a function declaration or a function expression. 
 The big difference between the two is that with function declaration the function is stored in the scope during the 
 initialization phase while with function expression it doesn't (so you can't call it before its definition in the code). 
@@ -128,7 +128,7 @@ defined and then immediately executed.
 >}();
 >```
 
-# Arguments are passed by value
+## Arguments are passed by value
 In JavaScript, all function arguments are always passed by value. This means that changes to the value of an argument 
 inside the function, are not reflected to the variable (that is the argument) outside of the function. The reason is 
 that the arguments are added to the function's scope as new local variables. Whatever happens to the arguments happens 

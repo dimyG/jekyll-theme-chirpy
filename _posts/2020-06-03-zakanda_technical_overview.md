@@ -7,7 +7,7 @@ tags: [zakanda, django]
 toc: true
 ---
 
-# Introduction 
+## Introduction 
 [zakanda](https://www.zakanda.com/) is my first entrepreneurial endeavor which... failed miserably. You can read the juicy details in 
 [my epic fail as a sports betting entrepreneur](http://127.0.0.1:4000/posts/my-epic-fail-as-a-sports-betting-entrepreneur/) story. 
 
@@ -25,8 +25,8 @@ bet in your zakanda account (with virtual money). Your zakanda followers receive
 If your account is premium, only the followers that are subscribed to your paid service are notified. 
 The wider term that describes services similar to zakanda is _tipping services_. 
 
-# Main features
-## Virtual money
+## Main features
+### Virtual money
 (No, this has nothing to do with blockchain, digital currencies or ICOs...)  
 Let's begin with a standard convention of tipping services which is to use 
 units instead of virtual money. This means that instead of betting a 
@@ -36,7 +36,7 @@ account then you would have 2000 virtual euros in your zakanda account too. If y
 that bet in zakanda using 50 virtual euros. This means that you have a very clear overview of your overall performance through 
 the years.
 
-## Bet Groups
+### Bet Groups
 The main organization unit in zakanda is the Bet Group. Each bet group has its own balance, bets and settings. 
 Every deposit and every bet that you make, must be assigned to a specific bet group. 
 When a user is registered, a bet group is automatically created for him and everything he does happens within this 
@@ -49,7 +49,7 @@ they will be notified and by what means.
 
 ![Desktop View]({{ "/assets/img/sample/bet_group_types4.PNG" | relative_url }}) 
 
-## Private bets and Premium services
+### Private bets and Premium services
 A bet group can be of one of three types: _Free_, _Private_ or _Premium_. When you bet using a free bet group, then all your 
 followers would be notified for your bet while your open bets (bets that don't have a result yet) would be 
 visible by everyone. This is the default type for a bet group. 
@@ -61,7 +61,7 @@ monthly subscription. You can modify the type of a bet group whenever you want.
 
 ![Desktop View]({{ "/assets/img/sample/private_example2.png" | relative_url }}) 
 
-## Performance dashboard
+### Performance dashboard
 Every user has a dashboard which contains a lot of valuable information about his overall performance like ROI and yield. 
 What makes the zakanda dashboard unique though, is the fact that the charts are interactive. Each chart is automatically filtered 
 by your active selection on another chart. Using this interactivity 
@@ -73,7 +73,7 @@ you can extract a lot of valuable information about them, like their average ret
 
 ![Desktop View]({{ "/assets/img/sample/dashboard3.gif" | relative_url }}) 
 
-## Hidden amounts
+### Hidden amounts
 As we already said, zakanda tries to mirror a user's bookmaker account with the use of virtual money. This feature is 
 excellent for long term performance tracking but imposes another challenge: Privacy. Having the 
 bet balance visible by everyone might make some users feel a bit uncomfortably. This is not a small issue and to 
@@ -87,8 +87,8 @@ account the way others see it (with units and percentages) simply with the press
  
 ![Desktop View]({{ "/assets/img/sample/cash_on_off_3_forever.gif" | relative_url }})
 
-# System design and deployment
-## System design
+## System design and deployment
+### System design
 zakanda is composed of at least three different processes: A _web_ process, a _worker_ process and a _scheduler_ process. 
 The web process is responsible for handling the http request - response cycle. It receives the client's request and 
 generates the response. 
@@ -106,7 +106,7 @@ puts this task in the workers queue to be executed by the available worker proce
 are calls to the data source API for specific data: Getting the sports schedule of the next days, the bookmaker odds 
 for sport events, the results of the latest events etc.     
 
-## Deployment
+### Deployment
 zakanda was initially deployed in Heroku where each process was a dyno. Later though it was containerized and deployed to AWS Elastic Container Service (ECS). 
 In the containerized version the web "process" which in the context of ECS is called web task, is composed of two containers: 
 a gunicorn service (with synchronous workers) which runs behind an nginx service that acts as a buffering reverse proxy. 
@@ -114,8 +114,8 @@ There are a lot of good reasons for such a configuration but they are out this p
 contain the worker and scheduler containers respectively. Currently there is no automated deployment pipeline in place, but if 
 zakanda was to become open to users again, such an automated pipeline would be more than necessary.  
 
-# Tech stack
-## Introduction
+## Tech stack
+### Introduction
 As a web application, zakanda has of course both a client and a server part. The server part, the back end of the application, 
 is written in django. The front end is a typical web client composed of html rendered in the server using django templates, css and javascript. 
 Notice though the catch:
@@ -127,7 +127,7 @@ I just did it using [pjax.js](https://github.com/defunkt/jquery-pjax),
 AMD modules and [require.js](https://requirejs.org/). This is not how single page applications are made nowadays, so 
 some additional information regarding the front end part of the codebase might be necessary. 
 
-## The front end
+### The front end
 So, pjax.js is a jQuery plugin that uses ajax and pushState to deliver a fast browsing experience by asynchronously updating 
 a web page without the need to fully load the entire page from the server. 
 All links are pjax enabled links, which means that they use ajax to communicate with the server. When a link is pressed 
@@ -162,7 +162,7 @@ by crossfilter.js and transformed to interactive charts by dc.js.
 [Metronic](https://keenthemes.com/metronic/) is the used theme. It is highly customized to become a dark theme. 
 The static files are stored and served by an AWS S3 bucket. 
  
-## The back end
+### The back end
 The server side is written in django, with Postgresql database and Redis as cache store and message broker. 
 
 Some of the libraries used:
@@ -178,7 +178,7 @@ The sports data is retrieved from [sportmonks](https://www.sportmonks.com/) but 
 supports more than one data sources. There is a mapping functionality that matches objects between the 
 different data sources. 
 
-# Source code
+## Source code
 The source code is stored in a Github private repository. I will probably open source it soon. I'm not sure why I 
 haven't already. Maybe I wait for someone to come and offer a small fortune for it. Strangely enough, no one came yet. 
 It will happen from day to day, for sure...

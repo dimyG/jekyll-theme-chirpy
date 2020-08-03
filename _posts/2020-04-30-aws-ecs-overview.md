@@ -7,7 +7,7 @@ tags: [aws]
 toc: true
 ---
 
-# Containers in AWS
+## Containers in AWS
 Let's begin with some context. When it comes to deploying your containerized service to AWS, you can choose between a variety of different services, each 
 one with its own strengths and weaknesses. 
 
@@ -49,7 +49,7 @@ focus on the desired state of the application. Here is a very informative series
 - [aws-fargate-through-the-lens-of-kubernetes](https://thenewstack.io/aws-fargate-through-the-lens-of-kubernetes/)
 - [how-aws-fargate-turned-amazon-eks-into-serverless-container-platform](https://thenewstack.io/how-aws-fargate-turned-amazon-eks-into-serverless-container-platform/)
 
-# ECS in a nutshell 
+## ECS in a nutshell 
 **Launch types**  
 You can run it either on EC2 launch type or in Fargate. In the first case you have to manage the underlying infrastructure 
 yourself, while in the later case the underlying resources the cluster runs in, are managed by amazon.
