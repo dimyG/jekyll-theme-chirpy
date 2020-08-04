@@ -33,7 +33,7 @@ Not only that but I didn't event do a proper market research before starting thi
  
  ![Desktop View]({{ "/assets/img/sample/matrix02.png" | relative_url }})  
  
-Anything else was a waste of time. I leave the technical details for [another post](http://127.0.0.1:4000/posts/zakanda_technical_overview/), but in a few words I can say that 
+Anything else was a waste of time. I leave the technical details for [another post]({% post_url 2020-06-03-zakanda_technical_overview %}), but in a few words I can say that 
 as a complete beginner as I was at the time, I made both good and bad technical decisions. The most immature decision though 
 and one that cost me a lot of time down the line, 
 was to to make zakanda a single page application. This choice would be amazing if it wasn't the fact that I 

@@ -98,7 +98,7 @@ Conclusively, I would say that my time in BETA was invaluable. I was able to con
 goals while having plenty of room for personal development too, especially as a junior engineer as I was when I first joined. 
 But, about 5 years later, I felt that was time for me to move on to a different path. I would at last had the 
 opportunity to combine two of my passions, programming and entrepreneurship, in what later became 
-[my epic fail as a sports betting entrepreneur](http://127.0.0.1:4000/posts/my-epic-fail-as-a-sports-betting-entrepreneur/).  
+[my epic fail as a sports betting entrepreneur]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %}).  
 
 ## A small showcase
 The following video is a small showcase of my work at BETA, back at 2012. It is a ships collision simulation and 

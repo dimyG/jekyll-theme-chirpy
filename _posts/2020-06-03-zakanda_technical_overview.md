@@ -9,7 +9,7 @@ toc: true
 
 ## Introduction 
 [zakanda](https://www.zakanda.com/) is my first entrepreneurial endeavor which... failed miserably. You can read the juicy details in 
-[my epic fail as a sports betting entrepreneur](http://127.0.0.1:4000/posts/my-epic-fail-as-a-sports-betting-entrepreneur/) story. 
+[my epic fail as a sports betting entrepreneur]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %}) story. 
 
 It was aspired to be a sports betting community where anyone could bet with virtual money, track their performance, 
 compete with their friends, follow others players. The betting experts which would stand out, would be able to create 
