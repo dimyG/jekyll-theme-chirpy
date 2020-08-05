@@ -47,7 +47,7 @@ assign it to the bet group of his choice. A typical use case would be to create 
 strategies and monitor the performance of each strategy individually. Your followers could choose for which bet groups 
 they will be notified and by what means.  
 
-![Desktop View]({{ "/assets/img/sample/bet_group_types4.PNG" | relative_url }}) 
+![Desktop View]({{ "/assets/img/sample/bet_group_types4.png" | relative_url }}) 
 
 ### Private bets and Premium services
 A bet group can be of one of three types: _Free_, _Private_ or _Premium_. When you bet using a free bet group, then all your 

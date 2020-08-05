@@ -34,6 +34,6 @@ from which I acquired extensive experience in all aspects of web development. Wh
 application developer, I'm less confident about the devops side of things, but I consider myself an eternal student and a competent problem solver
 who can tackle any issues that might arise in the course of a project, across the whole stack.
 
-Currently I'm available for hiring at a rate of _45€ per hour_. If you are considering to outsource one of your projects and you feel
+Currently I'm available for hiring at a rate of _40€ per hour_. If you are considering to outsource one of your projects and you feel
 that I would be a suitable candidate for the job, feel free to reach me at **dimgeows@gmail.com**. I would be happy to
 discuss with you about your goals and the ways I could help you to achieve them.
