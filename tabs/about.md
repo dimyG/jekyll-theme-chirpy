@@ -10,7 +10,7 @@ title: About
 
 Welcome dear visitor. My name is Dimitris Georgoulas. I'm a full stack web developer and mechanical engineer.
 This is my personal blog which I intent to use both as a showcase of
-[my professional experience]({% post_url categories/experience/ %}) and as
+[my professional experience]({% link categories/experience.html %}) and as
 a means by which I can express myself, writing for anything I consider interesting or important.
 
 As one of my passions is understanding the technological background of our world, of which the backbone is software,
@@ -36,4 +36,4 @@ who can tackle any issues that might arise in the course of a project, across th
 
 Currently I'm available for hiring at a rate of _45€ per hour_. If you are considering to outsource one of your projects and you feel
 that I would be a suitable candidate for the job, feel free to reach me at **dimgeows@gmail.com**. I would be happy to
-discuss with you the possibility of a cooperation that would lead to the successful achievement of your goals.
+discuss with you about your goals and the ways I could help you to achieve them.

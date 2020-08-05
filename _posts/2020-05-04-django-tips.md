@@ -211,7 +211,7 @@ for elf in elves:
 ```
 > ***Note***: If your service uses concurrent application instances, then looping through entries, loading in 
 >memory and then saving might cause race conditions. To avoid them see
-> [avoiding race conditions in django]({% post_url 2020-05-04-django-tips #avoiding-race-conditions-in-django %}).  
+> [avoiding race conditions in django]({% post_url 2020-05-04-django-tips %}#avoiding-race-conditions-in-django).  
 
 ## Url design  
 When deciding whether to use the URL path or the query parameters for passing information, the following may help:
