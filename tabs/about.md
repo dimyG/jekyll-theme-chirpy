@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-Welcome dear visitor. My name is Dimitris Georgoulas. I'm a full stack web developer and mechanical engineer.
+Welcome dear visitor. My name is Dimitris Georgoulas. I'm a full stack web developer and mechanical engineer, working as a freelancer.
 This is my personal blog which I intent to use both as a showcase of
 [my professional experience]({% link categories/experience.html %}) and as
 a means by which I can express myself, writing for anything I consider interesting or important.
@@ -30,9 +30,11 @@ I currently work as a freelance web developer, focused on **django** and **react
 
 Apart from my involvement in the CAE software industry and the many years of coding experience in python, I have one large
 [web project]({% post_url 2020-06-03-zakanda_technical_overview %}) under my belt,
-from which I acquired extensive experience in all aspects of web development. While I'm pretty confident about my skills as a full stack web
-application developer, I'm less confident about the devops side of things, but I consider myself an eternal student and a competent problem solver
-who can tackle any issues that might arise in the course of a project, across the whole stack.
+from which I acquired extensive experience in all aspects of web development. While I'm very confident about my skills,
+I'm aware of the fact that web development is a very broad and fast moving field and mastering it, is a years long effort
+that requires perseverance and constant improvement. I'm also aware of my weaknesses, for example in the devops side of things,
+but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
+the course of a project, across the whole stack.
 
 Currently I'm available for hiring at a rate of _40€ per hour_. If you are considering to outsource one of your projects and you feel
 that I would be a suitable candidate for the job, feel free to reach me at **dimgeows@gmail.com**. I would be happy to
