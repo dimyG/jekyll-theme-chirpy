@@ -179,6 +179,15 @@ supports more than one data sources. There is a mapping functionality that match
 different data sources. 
 
 ## Source code
-The source code is stored in a Github private repository. I will probably open source it soon. I'm not sure why I 
-haven't already. Maybe I wait for someone to come and offer a small fortune for it. Strangely enough, no one came yet. 
-It will happen from day to day, for sure...
+The source code is stored in [this](https://github.com/dimyG/zakanda_public) Github repository. It was private for a long time 
+but I finally decided that there was little meaning in keeping it that way. 
+
+The code was written in a span of two years and as I was fairly 
+inexperienced with web development when I started, some parts that haven't been refactored since, reflect that initial 
+inexperience. A typical bad code example is the part that collects the upcoming events, triggered by the "Pick Bets" page. 
+What a [mesh](https://github.com/dimyG/zakanda_public/blob/a311f3070fa02b1e8a231ddddd7e8e43c924e464/games/views.py#L313). 
+The data needed by the django template, is collected in a number of complex dictionaries in a long chain of 
+function calls. I always wanted to throw this part away and completely rewrite it, adding additional functionality like 
+search, but other things had priority at the time and eventually this mesh remained. The more recent parts are 
+clearly better, for example the data source mapping and data validation [code](https://github.com/dimyG/zakanda_public/blob/master/data_sources/pre_models.py) 
+or the Bet Groups and Subscription [code](https://github.com/dimyG/zakanda_public/blob/master/bet_tagging/models.py). 
