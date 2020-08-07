@@ -2,8 +2,8 @@
 title: Getting into artificial intelligence 
 author: Dimitris Georgoulas
 date: 2020-06-04 11:33:00 +0200
-categories: [Career, Experience]
-tags: [career, artificial intelligence]
+categories: [Misc, Work Experience]
+tags: [artificial intelligence, work experience]
 toc: true
 ---  
 

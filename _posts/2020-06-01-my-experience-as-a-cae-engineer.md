@@ -2,8 +2,8 @@
 title: My experience as a CAE engineer
 author: Dimitris Georgoulas
 date: 2020-06-01 11:30:00 +0200
-categories: [Career, Experience]
-tags: [cae, career]
+categories: [Misc, Work Experience]
+tags: [cae, work experience]
 toc: true
 comments: false
 ---

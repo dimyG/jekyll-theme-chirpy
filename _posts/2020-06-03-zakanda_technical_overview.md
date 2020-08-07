@@ -2,8 +2,8 @@
 title: Zakanda technical overview 
 author: Dimitris Georgoulas
 date: 2020-06-03 11:33:00 +0200
-categories: [Career, Experience]
-tags: [zakanda, django]
+categories: [Misc, Work Experience]
+tags: [zakanda, django, work experience]
 toc: true
 ---
 
