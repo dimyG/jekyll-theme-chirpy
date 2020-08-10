@@ -83,7 +83,7 @@ from the output space. The output space is usually called **latent space**.
 
 In the context of the previous example, when we see a dog, the visual field which is a collection of colors and shapes 
 is transformed to an electrical signal, is processed by the visual system and is narrowed down to a specific set of 
-firing neurons that collectively, they represent the pattern of a dog and can be called the dog's _latent vector_. 
+firing neurons that collectively, they represent the pattern of a dog and can be called the dog's representation set or dog's _latent vector_. 
 (Let's not focus on what type of neural networks are good for visual signal processing nor the exact methods they do it). 
 The same process takes place in the auditory system too. The word "dog" which fundamentally is 
 a sequence of air vibrations, is transformed to an electrical signal, processed by the auditory system and narrowed down 
@@ -233,8 +233,8 @@ a few nice properties to the system, but as anything that is untested and with n
 In any case the rest of this exploration doesn't require their existence. 
 
 Having said that, let's see what is it about. A reconstruction chain is _a series of composition and decomposition cycles_ 
-of a representation set's hierarchy. The previous diagram describes in detail two links of a correlation chain, the correlated sets _x_ and _y_. 
-This detailed diagram can be simplified further with the following diagram. A representation set _x_ activates its correlated representation set _y_ 
+of a representation set's hierarchy. The previous diagram which describes in detail two links of a correlation chain, the correlated sets _x_ and _y_ 
+can be further simplified with the following diagram. A representation set _x_ activates its correlated representation set _y_ 
 which is decomposed to its components. These components are the input to another hierarchical system that process them and 
 regenerates a new instance _y'_ of the composed representation set y. This instance is decomposed to its components too 
 and these regenerate yet another instance, _y"_. This cycle of compositions and decompositions can propagate further until it 
