@@ -17,7 +17,7 @@ As one of my passions is understanding the technological background of our world
 I regularly dedicate time to learn new things, usually starting with a broad exploration and then selecting where to go deep.
 My method of learning involves a rigorous process of note keeping and as a result I have stacked through the years
 a large collection of technical notes, for topics ranging from computer science to web
-development to artificial intelligence, blockchain and mathematics, parts of which I plan to publish in this blog on a regular basis.
+development to artificial intelligence and mathematics, blockchain and fintech, parts of which I plan to publish in this blog on a regular basis.
 I have to admit though, that the process of bringing raw notes in a form suitable for publishing is rather a time consuming task...
 
 Going to my background, I studied mechanical engineering in the polytechnic school of the [Aristotle University of
@@ -36,6 +36,6 @@ that requires perseverance and constant improvement. I'm also aware of my weakne
 but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
 the course of a project, across the whole stack.
 
-Currently I'm available for hiring at a rate of _40€ per hour_. If you are considering to outsource one of your projects and you feel
+Currently I'm available for hiring at a rate of _45€ per hour_. If you are considering to outsource one of your projects and you feel
 that I would be a suitable candidate for the job, feel free to reach me at **dimgeows@gmail.com**. I would be happy to
 discuss with you about your goals and the ways I could help you to achieve them.

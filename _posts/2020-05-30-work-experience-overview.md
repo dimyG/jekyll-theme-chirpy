@@ -33,7 +33,7 @@ in technical, entrepreneurial and in personal level.
 **2019 - 2020**  
 After the previous failure, I initially tried to go for another entrepreneurial endeavor, broadly researching a lot of industries in an attempt 
 to identify possible opportunities, always within the software space, without ultimately proceeding. I instead decided to 
-invest in personal development, improving my skills in web development and mathematics while also starting my journey to 
+invest in personal development, improving my technical skills while also starting my journey to 
 the world of artificial intelligence. 
 - [getting into artificial intelligence]({% post_url 2020-06-04-getting-into-artificial-intelligence %})
 
