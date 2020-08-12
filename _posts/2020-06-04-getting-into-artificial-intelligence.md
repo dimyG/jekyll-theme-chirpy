@@ -115,6 +115,10 @@ signal. This signal tries to modify the generator so that it generates a set tha
 with the supervisory set. This is the training of the system. After a certain training period the generator will output 
 a set that approximates the supervisory set. The generator's output, is also the correlator's output. 
 
+> ***Note***: This is just one of the possible architectures of a correlation mechanism. There might be alternative 
+>architectures that achieve the same result in a different way. What's important is to achieve the goal of correlating two 
+>representation sets with each other in a way that when one of them is activated, it generates a representation of the other. 
+
 When the seed signal is the visual representation set and the supervisory signal 
 is the auditory representation set, what is output from the correlator is a 
 _visually generated representation set of an auditory concept_. In the context of the dog example, this output 
