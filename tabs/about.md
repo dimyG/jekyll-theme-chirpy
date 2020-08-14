@@ -26,7 +26,7 @@ from which I graduated at 2008. After finishing the obligatory in Greece militar
 one of the larger software houses in Greece, to which I stayed until 2015, working as a [CAE engineer]({% post_url 2020-06-01-my-experience-as-a-cae-engineer %}).
 2015 was the starting point of the next chapter in my professional life, as I switched focus to web development and after a
 [failed entrepreneurial endeavor]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %}),
-I currently work as a freelance web developer, focused on python and javascript and more specifically on **django** and **react** ecosystems.
+I currently work as a freelance web developer, focused on python and javascript ecosystems with a preference for **django** and **react**.
 
 Apart from my involvement in the CAE software industry and the many years of coding experience in python, I have one large
 [web project]({% post_url 2020-06-03-zakanda_technical_overview %}) under my belt,
