@@ -69,10 +69,12 @@ def snippet_detail(request, pk):
 Nothing fancy here, the logic flow is straightforward. We select the object from the database and then just use an 
 `if` block to check the request's method and proceed accordingly. 
 
-> ***Note***: We wrap our function based view with the 
-`@api_view` decorator to ensure it receives an instance of the django rest framework's `Request` object 
-(instead of the the standard Django `HttpRequest` object) 
-and return a `Response` (instead of a Django `HttpResponse` object)
+> ***Note***: The 
+`@api_view` decorator ensures that the view receives an instance of the django rest framework's `Request` object 
+(instead of the standard Django `HttpRequest` object)
+and returns an instance of the django rest framework's `Response` object (instead of the standard Django `HttpResponse` object). 
+It also provides behaviour such as returning 405 Method Not Allowed responses when appropriate, and handling any ParseError 
+exception that occurs when accessing request.data with malformed input.
 
 ## The APIView class
 ```python

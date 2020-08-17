@@ -32,7 +32,7 @@ Apart from my involvement in the CAE software industry and the many years of cod
 [web project]({% post_url 2020-06-03-zakanda_technical_overview %}) under my belt,
 from which I acquired extensive experience in all aspects of web development. While I'm very confident about my skills,
 I'm aware of the fact that web development is a very broad and fast moving field and mastering it, is a years long effort
-that requires perseverance and constant improvement. I'm also aware of my weaknesses, for example in the devops side of things,
+that requires perseverance and constant improvement. I'm also aware of my weaknesses, for example in managing infrastructure,
 but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
 the course of a project, across the whole stack.
 
