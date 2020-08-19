@@ -24,8 +24,9 @@ since it is easier to follow the sequence of actions they describe. Class based 
 give you the possibility to achieve a typical behaviour without much code, almost with no code at all, as will become obvious in a moment. 
 This doesn't mean that you can't customize a class based view to any degree of complexity, but someone must be familiar with 
 how class based views work behind the scenes, for example which methods are called in what order, in order to fully follow the view's logic. 
-By the way, a very useful place to start familiarizing yourself with django class based views is the [Classy Class-Based Views](https://ccbv.co.uk/). 
-I highly recommend it. 
+By the way, a very useful place to start familiarizing yourself with django class based views is the [Classy Class-Based Views](https://ccbv.co.uk/) 
+and the [Classy Django REST Framework](http://www.cdrf.co/) for Django REST framework class based views respectively. 
+I highly recommend them. 
 
 In the rest of this post we will show how we can achieve the same result with each one of the four different view styles. 
 Our example will focus on the simple `detail` view of an object. In this case the object is a Code Snippet as used in 
