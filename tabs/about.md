@@ -23,7 +23,7 @@ I have to admit though, that the process of bringing raw notes in a form suitabl
 Going to my background, I studied mechanical engineering in the polytechnic school of the [Aristotle University of
 Thessaloniki](https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki)
 from which I graduated at 2008. After finishing the obligatory in Greece military service, I joined [BETA CAE Systems](https://www.beta-cae.com/),
-one of the larger software houses in Greece, to which I stayed until 2015, working as a [CAE engineer]({% post_url 2020-06-01-my-experience-as-a-cae-engineer %}).
+one of the most successful software houses in Greece, to which I stayed until 2015, working as a [CAE engineer]({% post_url 2020-06-01-my-experience-as-a-cae-engineer %}).
 2015 was the starting point of the next chapter in my professional life, as I switched focus to web development and after a
 [failed entrepreneurial endeavor]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %}),
 I currently work as a freelance web developer, focused on python and javascript ecosystems with a preference for **django** and **react**.
