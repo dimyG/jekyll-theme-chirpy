@@ -170,3 +170,99 @@ we want to implement. It can
 properly retrieve, update and delete a specific object. We only need to define the 
 queryset from which the object will be selected and the object's serializer. Everything else is handled by the build in 
 functionality of the class. Not bad at all!
+
+> ***Note***: The RetrieveUpdateDestroyAPIView can also handle PATCH requests for partially updating a model instance
+
+## A standard approach
+### Views
+The previous example was dealing with retrieving, updating and destroying a model instance. There is another 
+mixed generic class, the `ListCreateApiView`, that deals with listing model instances and also creating a new one. By combining 
+RetrieveUpdateDestroyAPIView and ListCreateApiView we implement all possible actions for our Model. 
+```python
+from snippets.models import Snippet
+from snippets.serializers import SnippetSerializer
+from rest_framework import generics
+
+class SnippetList(generics.ListCreateAPIView):
+    queryset = Snippet.objects.all()
+    serializer_class = SnippetSerializer
+
+class SnippetDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Snippet.objects.all()
+    serializer_class = SnippetSerializer
+``` 
+With this code we have created the logic for listing all snippets, creating a new one and getting, updating or deleting 
+an existing one. 
+ 
+Since the customization code for both views is identical, it can be placed in a custom mixin class.
+```python
+class SnippetMixin(object):
+    queryset = Snippet.objects.all()
+    serializer_class = SnippetSerializer
+
+class SnippetList(SnippetMixin, ListCreateAPIView):
+    pass
+
+class SnippetDetail(SnippetMixin, RetrieveUpdateDestroyAPIView):
+    pass
+```  
+
+Notice that we can further abstract this code! This typical logic, can be replaced by the `ModelViewSet` which implements 
+by default all methods of RetrieveUpdateDestroyAPIView and ListCreateApiView. A whole bunch of functionality can be 
+implemented with a few lines of code. Class based views in all their glory.
+```python
+class SnippetMixin(object):
+    queryset = Snippet.objects.all()
+    serializer_class = SnippetSerializer
+
+class SnippetViewSet(SnippetMixin, viewsets.ModelViewSet):
+    pass
+```
+
+### Urls
+To complete the implementation we have to set up the urls. We can do this manually:
+```python
+from snippets.views import SnippetViewSet, api_root
+
+snippet_list = SnippetViewSet.as_view({
+    'get': 'list',
+    'post': 'create'
+})
+snippet_detail = SnippetViewSet.as_view({
+    'get': 'retrieve',
+    'put': 'update',
+    'patch': 'partial_update',
+    'delete': 'destroy'
+})
+
+urlpatterns = format_suffix_patterns([
+    path('', api_root),
+    path('snippets/', snippet_list, name='snippet-list'),
+    path('snippets/<int:pk>/', snippet_detail, name='snippet-detail')
+])
+```
+
+But since we use a ViewSet (the ModelViewSet) instead of Views, we can use a django rest framework `Router` class to handle 
+the conventions for wiring up resources into views and urls and create the previously defined urls automatically.
+```python
+from django.urls import path, include
+from rest_framework.routers import DefaultRouter
+from snippets import views
+
+# Create a router and register our viewsets with it.
+router = DefaultRouter()
+router.register(r'snippets', views.SnippetViewSet)
+
+# The API URLs are now determined automatically by the router.
+urlpatterns = [
+    path('', include(router.urls)),
+]
+```
+
+This way we have created an implementation that can handle the following requests:
+- GET request to .../snippets/    -->    Lists all snippets
+- POST request to .../snippets/   -->   Create a new one
+- GET request to .../snippet/{snippet-pk}/   -->   Get all snippets
+- PUT request to .../snippet/{snippet-pk}/   -->   Update this snippet
+- PATCH request to .../snippet/{snippet-pk}/   --->   Partially update this snippet
+- DELETE request to .../snippet/{snippet-pk}/   -->   Delete this snippet
