@@ -36,6 +36,6 @@ that requires perseverance and constant improvement. I'm also aware of my weakne
 but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
 the course of a project, across the whole stack.
 
-Currently I'm available for hiring at a rate of _45€ per hour_. If you are considering to outsource one of your projects and you feel
+If you are considering to outsource one of your projects and you feel
 that I would be a suitable candidate for the job, feel free to reach me at **dimgeows@gmail.com**. I would be happy to
 discuss with you about your goals and the ways I could help you to achieve them.
