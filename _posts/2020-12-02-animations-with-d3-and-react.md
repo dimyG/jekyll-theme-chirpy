@@ -30,8 +30,12 @@ I used Redux to store global state and as I wanted to follow best practices and 
 I also used the [Devias Kit Pro](https://material-ui.com/store/items/devias-kit-pro/) for the layout and that was a 
 wonderful choice since not only it supports a lot of things out of the box, but most importantly, it is very well written. 
 I highly recommend it. JWT authentication was also added so that users can register and login to empower themselves 
-with create, delete and update rights. The back end is a small api built with django rest framework. The project is hosted in heroku. 
-You can see the source code visiting its [github](https://github.com/dimyG/algorithms_project) repository. 
+with create, delete and update rights. The back end is a small api built with django rest framework.
+You can see the source code in its [github](https://github.com/dimyG/algorithms_project) repository. 
+
+> ***Note***: Algozoom is currently hosted on heroku under a free tier and this means that the application goes
+> to sleep if doesn't receive any traffic for 30 minutes. Awaking from sleep takes some time, so if you experience a delay 
+> of a few seconds when you try to visit the website, know that you are awaking it. 
 
 
 

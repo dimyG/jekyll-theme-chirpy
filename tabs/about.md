@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-Welcome dear visitor. My name is Dimitris Georgoulas. I'm a full stack web developer and mechanical engineer, working as a freelancer.
+Welcome dear visitor. My name is Dimitris Georgoulas. I'm a full stack web developer and mechanical engineer.
 This is my personal blog which I intent to use both as a showcase of
 [my work experience]({% link categories/work-experience.html %}) and as
 a means by which I can express myself, writing for anything I consider interesting or important.
