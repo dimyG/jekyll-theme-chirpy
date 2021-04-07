@@ -24,9 +24,11 @@ Going to my background, I studied mechanical engineering in the polytechnic scho
 Thessaloniki](https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki)
 from which I graduated at 2008. After finishing the obligatory in Greece military service, I joined [BETA CAE Systems](https://www.beta-cae.com/),
 one of the most successful software houses in Greece, to which I stayed until 2015, working as a [CAE engineer]({% post_url 2020-06-01-my-experience-as-a-cae-engineer %}).
-2015 was the starting point of the next chapter in my professional life, as I switched focus to web development and after a
+2015 was the starting point of the next chapter in my professional life, as I switched focus to web development
+focused on python and javascript ecosystems with a preference for **django** and **react**. After a
 [failed entrepreneurial endeavor]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %}),
-I currently work as a freelance web developer, focused on python and javascript ecosystems with a preference for **django** and **react**.
+I had the opportunity to invest in personal development improving my technical skills and expanding my knowledge width.
+Within 2016 I dived to the bitcoin and decentralization rabbit hole and I closely watch this space ever since.
 
 Apart from my involvement in the CAE software industry and the many years of coding experience in python, I have one large
 [web project]({% post_url 2020-06-03-zakanda_technical_overview %}) under my belt,
@@ -36,6 +38,4 @@ that requires perseverance and constant improvement. I'm also aware of my weakne
 but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
 the course of a project, across the whole stack.
 
-If you are considering to outsource one of your projects and you feel that I would be a suitable candidate for the job,
-feel free to reach me at **dimgeows@gmail.com**. I would be happy to
-discuss with you about your goals and the ways I could help you to achieve them.
+Find me on [twitter](https://twitter.com/DimiGeorgoulas) or contact me at **dimgeows@gmail.com**.

@@ -30,13 +30,9 @@ in technical, entrepreneurial and in personal level.
 - [my epic fail as a sports betting entrepreneur]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %})
 - [zakanda technical overview]({% post_url 2020-06-03-zakanda_technical_overview %})   
 
-**2019 - 2020**  
+**2019 - now**  
 After the previous failure, I initially tried to go for another entrepreneurial endeavor, broadly researching a lot of industries in an attempt 
 to identify possible opportunities, always within the software space, without ultimately proceeding. I instead decided to 
-invest in personal development, improving my technical skills while also starting my journey to 
-the world of artificial intelligence. 
+invest in personal development, improving my technical skills, expanding my knowledge on blockchains and decentralization,
+while starting my journey to the world of artificial intelligence 
 - [getting into artificial intelligence]({% post_url 2020-06-04-getting-into-artificial-intelligence %})
-
-**2020 - now**  
-Actively searching for a full stack web development role, either working οn a contract basis or, if there is a good match, 
-as a full time employee. 
