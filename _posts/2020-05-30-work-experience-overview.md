@@ -35,4 +35,4 @@ After the previous failure, I initially tried to go for another entrepreneurial 
 to identify possible opportunities, always within the software space, without ultimately proceeding. I instead decided to 
 invest in personal development, improving my technical skills, expanding my knowledge on blockchains and decentralization,
 while starting my journey to the world of artificial intelligence 
-- [getting into artificial intelligence]({% post_url 2020-06-04-getting-into-artificial-intelligence %})
+- [thinking about intelligence]({% post_url 2020-06-04-thinking-about-intelligence %})

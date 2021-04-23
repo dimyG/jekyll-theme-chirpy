@@ -31,7 +31,7 @@ I had the opportunity to invest in personal development improving my technical s
 Within 2016 I dived into the bitcoin and decentralization rabbit hole and I closely watch this space ever since while managing
 a small personal investment portfolio.
 
-My goal is to gain the means to [continue]({% post_url 2020-06-04-getting-into-artificial-intelligence %})
+My goal is to gain the means to [continue]({% post_url 2020-06-04-thinking-about-intelligence %})
 the mythical journey of understanding intelligence, building interesting and useful stuff along the way.
 
 [comment]: <> Apart from my involvement in the CAE software industry and the many years of coding experience in python, I have one large

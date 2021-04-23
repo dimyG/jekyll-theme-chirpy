@@ -1,8 +1,8 @@
 ---
 title: Maximizing wealth creation 
 author: Dimitris Georgoulas
-date: 2021-04-12 11:30:00 +0200
-categories: [Economics]
+date: 2021-04-23 11:30:00 +0200
+categories: [Economics, economics]
 tags: [economics]
 toc: true
 ---
