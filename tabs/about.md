@@ -32,7 +32,7 @@ Within 2016 I dived into the bitcoin and decentralization rabbit hole and I clos
 a small personal investment portfolio.
 
 My goal is to gain the means to [continue]({% post_url 2020-06-04-getting-into-artificial-intelligence %})
-the mythical journey of understanding intelligence, building autonomous agents along the way.
+the mythical journey of understanding intelligence, building interesting and useful stuff along the way.
 
 [comment]: <> Apart from my involvement in the CAE software industry and the many years of coding experience in python, I have one large
 [comment]: <> [web project]({% post_url 2020-06-03-zakanda_technical_overview %}) under my belt,
