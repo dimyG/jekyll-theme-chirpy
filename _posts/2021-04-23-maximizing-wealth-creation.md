@@ -130,7 +130,7 @@ that will transform these promises to reality.
 
 ## Some proposals
 Having said that, lets have a look at some possible ways with which we can increase the wealth creation rate by empowering 
-as many people as possible. I'm pretty sure that there are more and better ways I haven't thought of yet. 
+as many people as possible. I'm pretty sure that there are more and better ways I haven't heard or thought of yet. 
 Chances are that proposals like these seem awkward and unrealistic when you first hear about them.
 This is normal. This is the nature of new things. 
 
@@ -180,12 +180,12 @@ contributors the bigger the extra funding. I think that there are some wealth cr
 that could be improved and accelerated by using funding from such a pool. 
 
 ## Epilogue
-These proposals might be inadequate or incomplete and I'm pretty sure there are more and 
-better solutions I haven't thought of. Don't forget that the main goal is to use the collected funds to maximize the wealth creation rate by empowering as many people 
-as possible. Have also in mind that a very common theme in startup investing is that most of them fail, but the ones that succeed 
+Don't forget that the main goal is to use the collected funds to maximize the wealth creation rate by empowering as many people 
+as possible and any proposal that contributes to that goal should be discussed. Have also in mind that a very common 
+theme in startup investing is that most of them fail, but the ones that succeed 
 compensate for the others many times over. I have a sense that this theme will apply to people empowerment too.
-Most people will not succeed in producing more wealth, but the ones that will do, will 
-compensate for the rest, many times over. 
+Most people will not succeed in producing more wealth, but the ones that will, will 
+compensate for the rest many times over. 
 
 In any case, I argue that we shouldn't take future growth for granted. We should strive to achieve an efficient and 
 sustainable system that maximizes the wealth creation rate and minimizes the risk of revolution, by empowering as many 
