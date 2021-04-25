@@ -42,21 +42,21 @@ Not yet. We must strive to make it and protect its glorious achievements and all
 of abundance, freedom, peace, happiness, eternal youth and unlimited potential.  
 
 ## Enlarging and improving the pie, upgrades money
-If we can agree that this is a fair goal to pursue, we would probably also agree that if the collected money 
-is used to increase the wealth creation rate, then this artificial wealth limit might be something positive. 
-Not only for humanity as a whole, but for the taxed individuals too despite the fact that they will possess a lower part of the 
-total wealth in the new wealth state (percentage wise and/or in absolute terms). The reason is that the remaining of their money 
-will have been magically upgraded, or in conventional terms, the purchasing power of the money would have been increased. 
+If we can agree that this is a fair goal to pursue, we would probably also agree that if the collected funds 
+are used in a way that increases the wealth creation rate more than not collecting them at all, then this artificial limit to the top might be something positive. 
+Not only for humanity as a whole, but for the taxed individuals too despite the fact that they will possess a smaller slice of the 
+total wealth in the new wealth state. The reason is that the remaining of their money 
+will have been magically upgraded, or in conventional terms, the purchasing power of money would have been increased. 
 
 This can become more clear if we think of an extreme example. Let's compare a Pharaoh of ancient 
 Egypt with a humble modern day millionaire. Which one would you prefer to be? The Pharaoh might own half the world's wealth, 
 but his wealth, represented by the money he owns, can't purchase a car, air conditioning, 
 antibiotics, not even sunglasses. You get the point. Despite the fact that the modern day millionaire owns just a tiny fraction 
-of our world's wealth, his money are vastly superior from the Pharaoh's money. 
+of our world's wealth, his money is vastly superior in comparison with the Pharaoh's money. 
 We compare two wealth states with thousands of years of distance with each other, and the humongous wealth difference makes 
 the point clear. I think that nowadays we can make meaningful wealth comparisons between let's say, 10 or 15 year checkpoints. 
 No matter how much money you had 15 years ago at 2005, you couldn't buy a smartphone because there was none. And 15 years before that 
-you wouldn't know what the internet is let alone using it. 
+you wouldn't know what the internet is let alone using it. These new products and services are the result of a wealth creation process. 
 
 [comment]: <> (To understand this, let's assume )
 [comment]: <> (for simplicity, that the monetary base is constant, meaning that the total wealth is )
@@ -68,7 +68,7 @@ you wouldn't know what the internet is let alone using it.
 [comment]: <> (increases. )
 
 ## Full potential
-But how can we use the collected funds to accelerate wealth creation? Let's examine first how wealth is created. 
+But how can we use the collected funds to accelerate wealth creation? Let's first examine how wealth is created. 
 Wealth is created by human activity. It is mostly created by people with dreams and the characteristics, skills and means needed to make those dreams reality. 
 Scientists exploring unsolved mysteries, engineers working on smart solutions, artists writing poems, entrepreneurs getting in new ventures, 
 are all examples of humans who create wealth.
@@ -92,7 +92,7 @@ wealth creating activities, but also minimizes the risk of revolution by giving 
 
 ## Optimize boundaries, protecting incentives
 If we still agree, then assume for a moment that we have found out how we can use the collected funds to empower as many people as possible. 
-Then the question becomes, how much money do we have to use for that purpose? Or in other words, how much wealth of the top should be redistributed 
+Then the question becomes, how much money we must allocate to this purpose? Or in other words, how much wealth of the top should be redistributed 
 to wealth rate increasing activities? 
 The answer to this question could be given by the solution of an optimization problem.
 > Maximize the wealth creation rate by modifying the wealth redistribution degree. The redistribution degree should
@@ -100,7 +100,7 @@ be small enough so that it doesn't destroy the system's incentives
 
 - Objective function: wealth creation rate, maximize
 - Design variable: redistribution degree
-- Design constraint: the redistribution degree must be smaller than the incentives destroying value 
+- Design constraint: the redistribution degree must be smaller than an incentives critical value 
 
 The redistribution degree constraint protects a fundamental property of the system, which is the incentives of people who create wealth.
 This optimization problem would be useful until the point where the total available wealth is so large that the redistributed amount 
@@ -130,13 +130,13 @@ that will transform these promises to reality.
 
 ## Some proposals
 Having said that, lets have a look at some possible ways with which we can increase the wealth creation rate by empowering 
-as many people as possible. I'm pretty sure that there are more and better ways that I haven't thought of yet. 
+as many people as possible. I'm pretty sure that there are more and better ways I haven't thought of yet. 
 Chances are that proposals like these seem awkward and unrealistic when you first hear about them.
 This is normal. This is the nature of new things. 
 
 ### Universal basic income fund
 This proposal is more suitable as a replacement for the typical social benefits and less focused on maximizing the wealth creation rate, 
-but it worths mentioning it because it can empower people massively. The proposal has certain advantages but significant risks too.
+but worths mentioning it because it can empower people massively. The proposal has certain advantages but significant risks too.
 The collected money could fund a part of the universal basic income. Essentially 
 all citizens receive a monthly income large enough to cover their basic needs, no matter what. This policy is usually proposed
 as a solution in case of massive technological unemployment, where most jobs are replaced by intelligent automation.
