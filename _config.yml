@@ -14,9 +14,9 @@ tagline: Full stack web developer, Mechanical engineer, Father, Husband, Passion
   Located in Thessaloniki, Greece  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  The personal blog of Dimitris Georgoulas.
-  It contains posts about programming, web development and technology in general.
-  Focused on python, django, javascript, react.js, artificial intelligence, mathematics
+  This is my personal blog which I intent to use both as a showcase of my work experience and as a means by
+  which I can express myself, writing for anything I consider interesting or important.
+  You will find posts on python, django, javascript, react.js, computer science, artificial intelligence and economics.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://dimyg.github.io'
