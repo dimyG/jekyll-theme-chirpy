@@ -1,5 +1,5 @@
 ---
-title: Maximizing wealth creation 
+title: Pies, slices and wealth
 author: Dimitris Georgoulas
 date: 2021-04-23 11:30:00 +0200
 categories: [Economics, economics]
@@ -7,7 +7,7 @@ tags: [economics]
 toc: true
 ---
 
-## A limit to the top
+## A dynamic limit to the top
 A few weeks ago as I was scrolling on twitter, I came across this tweet from [naval](https://twitter.com/naval), a person that I greatly respect.
 
 [comment]: <> ( ![Desktop View]&#40;{{ "/assets/img/sample/naval_confiscation.png" | relative_url }}&#41; )
@@ -41,7 +41,7 @@ of stagnation and human misery. Yes, it's not that easy for our modern era to be
 Not yet. We must strive to make it and protect its glorious achievements and all of its mythical promises. Promises 
 of abundance, freedom, peace, happiness, eternal youth and unlimited potential.  
 
-## Enlarging and improving the pie, upgrades money
+## Pharaohs and millionaires 
 If we can agree that this is a fair goal to pursue, we would probably also agree that if the collected funds 
 are used in a way that increases the wealth creation rate more than not collecting them at all, then this artificial limit to the top might be something positive. 
 Not only for humanity as a whole, but for the taxed individuals too despite the fact that they will possess a smaller slice of the 
@@ -90,7 +90,7 @@ My answer to this question is this:
 Which is remarkable if it is true. It would mean that **a process that empowers as many people as possible, not only maximizes 
 wealth creating activities, but also minimizes the risk of revolution by giving people the opportunity to get what they deserve in life.**
 
-## Optimize boundaries, protecting incentives
+## Empowerment versus incentives 
 If we still agree, then assume for a moment that we have found out how we can use the collected funds to empower as many people as possible. 
 Then the question becomes, how much money we must allocate to this purpose? Or in other words, how much wealth of the top should be redistributed 
 to wealth rate increasing activities? 
