@@ -41,7 +41,7 @@ of stagnation and human misery. Yes, it's not that easy for our modern era to be
 Not yet. We must strive to make it and protect its glorious achievements and all of its mythical promises. Promises 
 of abundance, freedom, peace, happiness, eternal youth and unlimited potential.  
 
-## Pharaohs and millionaires 
+## The Pharaoh and the millionaire 
 If we can agree that this is a fair goal to pursue, we would probably also agree that if the collected funds 
 are used in a way that increases the wealth creation rate more than not collecting them at all, then this artificial limit to the top might be something positive. 
 Not only for humanity as a whole, but for the taxed individuals too despite the fact that they will possess a smaller slice of the 
@@ -54,9 +54,12 @@ but his wealth, represented by the money he owns, can't purchase a car, air cond
 antibiotics, not even sunglasses. You get the point. Despite the fact that the modern day millionaire owns just a tiny fraction 
 of our world's wealth, his money is vastly superior in comparison with the Pharaoh's money. 
 We compare two wealth states with thousands of years of distance with each other, and the humongous wealth difference makes 
-the point clear. I think that nowadays we can make meaningful wealth comparisons between let's say, 10 or 15 year checkpoints. 
+the point clear. I think that nowadays we can make meaningful wealth comparisons between let's say, 20 or 15 year checkpoints. 
 No matter how much money you had 15 years ago at 2005, you couldn't buy a smartphone because there was none. And 15 years before that 
 you wouldn't know what the internet is let alone using it. These new products and services are the result of a wealth creation process. 
+
+If you want to read more of my thoughts about measuring wealth and comparing wealth states visit 
+[this]({% post_url 2021-05-13-satisfaction-unit-parity %}) one.
 
 [comment]: <> (To understand this, let's assume )
 [comment]: <> (for simplicity, that the monetary base is constant, meaning that the total wealth is )
