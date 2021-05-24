@@ -1,5 +1,5 @@
 ---
-title: Pies, slices and wealth
+title: The pharaoh and the millionaire
 author: Dimitris Georgoulas
 date: 2021-04-23 11:30:00 +0200
 categories: [Economics, economics]
@@ -41,7 +41,7 @@ of stagnation and human misery. Yes, it's not that easy for our modern era to be
 Not yet. We must strive to make it and protect its glorious achievements and all of its mythical promises. Promises 
 of abundance, freedom, peace, happiness, eternal youth and unlimited potential.  
 
-## The Pharaoh and the millionaire 
+## Upgrading money
 If we can agree that this is a fair goal to pursue, we would probably also agree that if the collected funds 
 are used in a way that increases the wealth creation rate more than not collecting them at all, then this artificial limit to the top might be something positive. 
 Not only for humanity as a whole, but for the taxed individuals too despite the fact that they will possess a smaller slice of the 

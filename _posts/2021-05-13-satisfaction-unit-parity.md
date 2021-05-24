@@ -8,7 +8,7 @@ toc: true
 ---
 
 ## Purchasing power parity 
-While I was thinking about [pies slices and wealth]({% post_url 2021-04-23-pies-slices-and-wealth %}), 
+While I was thinking about [the pharaoh and the millionaire]({% post_url 2021-04-23-the-pharaoh-and-the-millionaire %}), 
 a major issue that troubled me, was to fundamentally understand a way to measure and compare wealth across time or 
 between vastly different civilizations. The most common method to do such comparisons, is using the traditional 
 purchasing power parity but as I was exploring it with various thought experiments, I started to realize that this 
