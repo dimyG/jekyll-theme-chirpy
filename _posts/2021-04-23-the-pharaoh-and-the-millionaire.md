@@ -59,7 +59,7 @@ No matter how much money you had 15 years ago at 2005, you couldn't buy a smartp
 you wouldn't know what the internet is let alone using it. These new products and services are the result of a wealth creation process. 
 
 If you want to read more of my thoughts about measuring wealth and comparing wealth states visit 
-[this]({% post_url 2021-05-13-satisfaction-unit-parity %}) one.
+[this]({% post_url 2021-05-26-satisfaction-unit-parity %}) one.
 
 [comment]: <> (To understand this, let's assume )
 [comment]: <> (for simplicity, that the monetary base is constant, meaning that the total wealth is )

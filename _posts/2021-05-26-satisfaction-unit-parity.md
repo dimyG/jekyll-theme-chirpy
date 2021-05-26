@@ -1,7 +1,7 @@
 ---
-title: Satisfaction Unit Parity, a way to measure wealth
+title: Satisfaction Unit Parity
 author: Dimitris Georgoulas
-date: 2021-05-13 11:30:00 +0200
+date: 2021-05-26 11:30:00 +0200
 categories: [Economics, economics]
 tags: [economics]
 toc: true 
