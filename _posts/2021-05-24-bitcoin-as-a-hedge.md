@@ -28,7 +28,7 @@ On the other hand, I think it's very challenging if not impossible, for a system
 the growth rate or deal with crises. When the value of the currency increases to reflect a growing economy, spending and crediting 
 mechanisms are greatly affected. People have an incentive not to spend, something that in theory could damage the economic activity. 
 Credit would certainly be a challenge too. People should familiarize themselves with the idea that 
-[having a smaller slice of the future pie doesn't mean they are getting poorer]({% post_url 2021-04-23-the-pharaoh-and-the-millionaire #comparing-wealth-states %}) 
+[having a smaller slice of the future pie doesn't mean they are getting poorer]({% post_url 2021-04-23-the-pharaoh-and-the-millionaire %}#comparing-wealth-states)
 and that they should lend their money with negative interest.
 Furthermore, what happens in cases of major crises like the
 covid one, where many people are in desperate need for cash in order to feed their families? Would we have to rely on the 
