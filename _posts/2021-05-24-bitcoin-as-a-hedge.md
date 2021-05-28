@@ -75,8 +75,8 @@ neutral, would have a crucial role to play.
 # Counterarguments
 The counterarguments are that these same networks will be used by criminals, hostile sanctioned states or 
 authoritarian regimes themselves. They could threaten the dominance of western democracies by replacing the dollar as the
-global reserve currency, and they consume huge amounts of energy. Some of these arguments are fair. 
-There is indeed a price we have to pay. But how high is that price really?
+global reserve currency, and that they contribute to environmental pollution by consuming huge amounts of energy. 
+Some of these arguments are fair. There is indeed a price we have to pay. But how high is that price really?
 
 Let’s examine the criminals case first. There is a fundamental truth about us humans. Under "normal" circumstances, 
 we are naturally good. Almost all of us. How many of us are murderers, rapists, or torturers? A tiny, tiny fraction. 
@@ -101,7 +101,7 @@ reducing the power of western democracies. This though, can only happen if the d
 result of mismanagement. Using bitcoin as a small part of portfolios (since it is just supposed to be a hedge), 
 shouldn’t greatly affect the trust on the dollar. 
 
-Bitcoin consumes of a lot of energy. Indeed, the neutrality of the bitcoin network is secured by a consensus mechanism 
+Bitcoin consumes of a lot of energy polluting the environment. Indeed, the neutrality of the bitcoin network is secured by a consensus mechanism 
 that is based on a huge number of computing nodes which consume a lot of energy. 
 A lot of our modern day activities are energy hungry though. Take televisions for example. They collectively consume a lot of energy, but 
 we don't condemn them because of that. We weigh in the benefits with the costs and decide that we want to use them. So the 
