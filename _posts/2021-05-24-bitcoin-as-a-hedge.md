@@ -28,8 +28,8 @@ On the other hand, I think it's very challenging if not impossible, for a system
 the growth rate or deal with crises. When the value of the currency increases to reflect a growing economy, spending and crediting 
 mechanisms are greatly affected. People have an incentive not to spend, something that in theory could damage the economic activity. 
 Credit would certainly be a challenge too. People should familiarize themselves with the idea that 
-[having a smaller slice of the future pie doesn't mean they are getting poorer]({% post_url 2021-04-23-the-pharaoh-and-the-millionaire %}#comparing-wealth-states)
-and that they should lend their money with negative interest.
+[having less money in the future, doesn't necessarily mean they are getting poorer]({% post_url 2021-04-23-the-pharaoh-and-the-millionaire %}#comparing-wealth-states)
+and with the idea of lending with negative interest.
 Furthermore, what happens in cases of major crises like the
 covid one, where many people are in desperate need for cash in order to feed their families? Would we have to rely on the 
 merciful rich to lend them money? These are serious issues which can't be just ignored. I don't say there are no solutions, 
@@ -81,8 +81,9 @@ There is indeed a price we have to pay. But how high is that price really?
 Let’s examine the criminals case first. There is a fundamental truth about us humans. Under "normal" circumstances, 
 we are naturally good. Almost all of us. How many of us are murderers, rapists, or torturers? A tiny, tiny fraction. 
 Yes, there are more people inclined to do major financial crimes, but they are still a small part of the global population. 
-The average person just wants to live a peaceful and fulfilling life. I argue thus, that we shouldn’t sacrifice an 
-important defence against a potential future enemy for the vast majority of people, for the sake of a small improvement 
+The average person just wants to live a peaceful and fulfilling life. Criminals are very resourceful in finding ways to overcome obstacles,
+so I argue, that we shouldn’t sacrifice an 
+important defence against a potential future pitfall for the vast majority of people, for the sake of a small improvement 
 in fighting crime. We have and should find more but different ways to fight it. 
 
 A neutral network of value like bitcoin, could be used by hostile entities to evade economic sanctions. Indeed it could,
@@ -110,5 +111,5 @@ Besides, there is a global shift towards renewable sources of energy, and it is 
 the curve in terms of renewables adoption. Not only that, but it could even improve the efficiency of renewables 
 as the buyer of unused energy that can't be stored.
 
-Through this prism, I believe that western authorities should nurture this new and rapidly evolving space since its 
-benefits outweigh the cost.
+Through this prism, I believe that western authorities should continue nurturing this new and rapidly evolving space since its 
+benefits outweigh the costs.
