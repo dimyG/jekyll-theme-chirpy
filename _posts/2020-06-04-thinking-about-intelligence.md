@@ -1,5 +1,4 @@
 ---
-image: /assets/img/sample/ai_notation.PNG
 title: Thinking about intelligence 
 author: Dimitris Georgoulas
 date: 2020-06-04 11:33:00 +0200
