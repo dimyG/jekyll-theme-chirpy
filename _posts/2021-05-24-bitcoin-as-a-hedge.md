@@ -113,3 +113,4 @@ as the buyer of unused energy that can't be stored.
 
 Through this prism, I believe that western authorities should continue nurturing this new and rapidly evolving space since its 
 benefits outweigh the costs.
+
