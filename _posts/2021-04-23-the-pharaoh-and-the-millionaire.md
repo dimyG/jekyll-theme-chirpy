@@ -55,12 +55,14 @@ but his wealth, represented by the money he owns, can't purchase a car, air cond
 antibiotics, not even sunglasses. You get the point. Despite the fact that the modern day millionaire owns just a tiny fraction 
 of our world's wealth, his money is vastly superior in comparison with the Pharaoh's money. 
 We compare two wealth states with thousands of years of distance with each other, and the humongous wealth difference makes 
-the point clear. I think that nowadays we can make meaningful wealth comparisons between let's say, 20 or 15 year checkpoints. 
+the point clear. I think that in the modern environment of exponential growth, we can make meaningful wealth comparisons between let's say, 20 or 15 year checkpoints. 
 No matter how much money you had 15 years ago at 2005, you couldn't buy a smartphone because there was none. And 15 years before that 
-you wouldn't know what the internet is let alone using it. These new products and services are the result of a wealth creation process. 
+you wouldn't know what the internet is let alone using it. These new products and services are the result of a wealth creation process.
 
-If you want to read more of my thoughts about measuring wealth and comparing wealth states check the 
-[satisfaction unit parity]({% post_url 2021-05-26-satisfaction-unit-parity %}).
+This wealth creation process constantly increases the potential of the monetary unit, enhancing its ability to satisfy human needs
+by making more and better products and services available as time passes. (This could be a nice introduction to the 
+[satisfaction unit parity]({% post_url 2021-05-26-satisfaction-unit-parity %}), a method for measuring wealth and comparing wealth states)
+
 
 [comment]: <> (To understand this, let's assume )
 [comment]: <> (for simplicity, that the monetary base is constant, meaning that the total wealth is )

@@ -24,7 +24,7 @@ and unlimited potential. I agree that our western governments and central
 banks aren’t perfect by no means, but I do believe that they genuinely care about the prosperity of their people. 
 They are part of our societies success, and more or less they support the evolution path towards a more prosperous society. 
 
-On the other hand, I think it's very challenging if not impossible, for a system with a constant monetary base (bitcoin standard) to improve 
+Besides, I think it's very challenging if not impossible, for a system with a constant monetary base (bitcoin standard) to improve 
 the growth rate or deal with crises. When the value of the currency increases to reflect a growing economy, spending and crediting 
 mechanisms are greatly affected. People have an incentive not to spend, something that in theory could damage the economic activity. 
 Credit would certainly be a challenge too. People should familiarize themselves with the idea that 
@@ -33,31 +33,38 @@ and with the idea of lending with negative interest.
 Furthermore, what happens in cases of major crises like the
 covid one, where many people are in desperate need for cash in order to feed their families? Would we have to rely on the 
 merciful rich to lend them money? These are serious issues which can't be just ignored. I don't say there are no solutions, 
-but that there are major challenges which should be considered.  
-
+but that there are major challenges which should be considered. 
 Of course all systems have weaknesses, and I can’t neglect the possibility of a catastrophic fiat debt crisis that 
 could spiral down to hyperinflation. 
 I don’t think the chances for such a collapse are high, but just in case, wouldn't be wise to have some kind of 
 insurance against it? I think it is. 
 
 Apart from this, I would like to address a different kind of hedging that is discussed much less. A hedge against 
-authoritarianism or tyranny of any form. Someone might ask, why is this important? 
+authoritarianism or tyranny of any form. Someone might ask, why is this important?
+
 Well, the reason is that in my opinion liberal environments are better than authoritarian ones, when measured against 
-their capacity to fulfill the modern promises. Even in the best 
-authoritarian regime, a human benevolent dictator can only last for so long, and can’t have much control on what happens 
+their capacity to fulfill the modern promises. Promises that are gradually transformed from the space of ideas to the space of reality by 
+becoming more and more technologically and financially attainable, while keep being instilled in the minds of pioneers and thinkers across societies
+and cultures. This natural expansion process will force them to emerge in the surface of intellectual common sense, 
+which will be eventually expressed in the political order of liberal environments. On the other hand, even in the "best" 
+authoritarian regime, a human benevolent dictator can only last for so long, without having much control on what happens 
 after him. Apart from that, liberal environments can be more sustainable in the long term by offering decompression 
-valves to societies. In order for bitcoin to be such a hedge, it must absolutely preserve this mesmerizing property: **Neutrality**.
-A property that arises from decentralization. 
+valves to societies. 
+
+In this context, I would argue that any sufficiently neutral network could act as 
+a hedge against authoritarianism by putting barriers to its expansion and by opposing its presence. 
+In order for bitcoin to play that role, it must absolutely preserve the mesmerizing property 
+that arises from decentralization: **Neutrality**. 
 
 In bitcoin’s short history, people have some times proposed the creation of bitcoin committees or councils to deal with various 
 issues that arise along the way. Most of these proposals are made in good faith, in an attempt to overcome the current 
-problems or misconceptions. Any such action though could hurt these bitcoin’s properties that make it so unique 
+problems or misconceptions. Any such action though could hurt the bitcoin’s properties that make it so unique 
 and valuable, increasing the risk of failure.
 
-Bitcoin needs no council, no committee, no central point of any kind or form. Bitcoin just needs to be. Neutral, apolitical, 
-indifferent to opinions and strategies. 
+Bitcoin needs no council, no committee, no central point of any kind or form. 
+Bitcoin just needs to be. Neutral, apolitical, indifferent to opinions and strategies. 
 
-The reason that neutrality is important even in the west, is simple but very well hidden under a few generations of 
+The reason that neutrality is important even in the liberal west, is simple but very well hidden under a few generations of 
 freedoms and prosperity. We must not take the current evolution path for granted. Our democracies are not as solid 
 as we like to think. They are still fragile and there are no guarantees for the future. 
 There is a tendency to believe that societies keep moving forward by default. This is nothing but an illusion. 
