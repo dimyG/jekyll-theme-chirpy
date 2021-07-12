@@ -74,7 +74,7 @@ Nothing fancy here, the logic flow is straightforward. We select the object from
 `@api_view` decorator ensures that the view receives an instance of the django rest framework's `Request` object 
 (instead of the standard Django `HttpRequest` object)
 and returns an instance of the django rest framework's `Response` object (instead of the standard Django `HttpResponse` object). 
-It also provides behaviour such as returning 405 Method Not Allowed responses when appropriate, and handling any ParseError 
+It also provides some conveniences like returning 405 Method Not Allowed responses when appropriate, and handling any ParseError 
 exception that occurs when accessing request.data with malformed input.
 
 ## The APIView class
@@ -260,9 +260,9 @@ urlpatterns = [
 ```
 
 This way we have created an implementation that can handle the following requests:
-- GET request to .../snippets/    -->    Lists all snippets
+- GET request to .../snippets/    -->    Get all snippets
 - POST request to .../snippets/   -->   Create a new one
-- GET request to .../snippet/{snippet-pk}/   -->   Get all snippets
+- GET request to .../snippet/{snippet-pk}/   -->   Get this snippet
 - PUT request to .../snippet/{snippet-pk}/   -->   Update this snippet
 - PATCH request to .../snippet/{snippet-pk}/   --->   Partially update this snippet
 - DELETE request to .../snippet/{snippet-pk}/   -->   Delete this snippet
