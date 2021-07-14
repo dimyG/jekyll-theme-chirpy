@@ -124,8 +124,9 @@ Let's begin by noting something. At this point, opportunity is scarce. The syste
 of it can be used to give people the opportunity to reach their full potential. 
 Apart from that, not everyone has the same potential and this implies that not everyone deserves the same opportunities. 
 This might seem initially unfair, but it actually isn't. 
-If you have the opportunity to reach your full potential, you have no need for additional opportunity that 
-could be used by someone else that is still ascending. 
+If you have the opportunity to reach your full potential, you would feel satisfied chasing your goals 
+and fulfilled if you achieve them. Therefore, you probably won't care 
+much if someone else is receiving more of it, the same way that you don't probably care to receive additional food if you are already full. 
 **Matching opportunity with potential** is an extremely difficult task. 
 In contrast to the typical social benefits that have another goal, the policies that increase the wealth creation rate should be focused on
 the people with the biggest unused potential.
@@ -143,7 +144,7 @@ This is normal. This is the nature of new things.
 
 ### Universal basic income fund
 This proposal is more suitable as a replacement for the typical social benefits and less focused on maximizing the wealth creation rate, 
-but worths mentioning it because it can empower people massively. The proposal has certain advantages but significant risks too.
+but deserves a mention because it can empower people massively. The proposal has certain advantages but significant risks too.
 The collected money could fund a part of the universal basic income. Essentially 
 all citizens receive a monthly income large enough to cover their basic needs, no matter what. This policy is usually proposed
 as a solution in case of massive technological unemployment, where most jobs are replaced by intelligent automation.
