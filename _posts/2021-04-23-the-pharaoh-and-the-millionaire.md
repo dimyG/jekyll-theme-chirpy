@@ -111,7 +111,7 @@ be small enough so that it doesn't destroy the system's incentives
 
 The redistribution degree constraint protects a fundamental property of the system, which is the incentives of people who create wealth.
 This optimization problem would be useful until the point where the total available wealth is so large that the redistributed amount 
-is enough to empower all people to their maximum potential. From that point on, no more gains 
+is enough to **empower all people to their maximum potential**. From that point on, no more gains 
 could be extracted by increasing it further and all new wealth could be used as incentives. This process 
 means that the wealthiest people of our society will be losing a part of their wealth within the following decades, 
 but in return the wealth creation will be accelerated and as a result their money will be upgrading faster, 
@@ -128,8 +128,8 @@ If you have the opportunity to reach your full potential, you would feel satisfi
 and fulfilled if you achieve them. Therefore, you probably won't care 
 much if someone else is receiving more of it, the same way that you don't probably care to receive additional food if you are already full. 
 Matching opportunity with potential is an extremely difficult task. 
-In contrast to the typical social benefits that have another goal, the policies that increase the wealth creation rate should be focused on
-the people with the biggest unused potential.
+In contrast to the typical social benefits that have another goal, **the policies that increase the wealth creation rate should be focused on
+the people with the biggest unused potential**.
 
 I also believe that all human beings should have at least access to shelter, food, medical care and education by default,
 but at this point, our system can't provide these to everyone without destroying the incentives that 
@@ -156,8 +156,8 @@ can backfire if implemented too early. A sustainable universal basic income assu
 wealth is produced by automation instead of human labor. Essentially it is an achievement of a society that has reached 
 or is close to reaching to abundance, freeing up humans of the necessity to produce their wealth with labor. If it is
 implemented too early though, it might make people to withdraw themselves from unfulfilling but essential jobs that can't be automated yet, 
-slowing down the wealth creation process. We are clearly in the path of automated abundance, but there is still a long way ahead.
-For this reason I think we should be very careful with such a policy. 
+slowing down the wealth creation process. **We are clearly in the path of automated abundance, but there is still a long way ahead.
+For this reason I think we should be very careful with such a policy**. 
 
 ### Opportunity fund
 The idea is to give more people the opportunity to take risk. Risk taking is more common for people with few responsibilities. 
