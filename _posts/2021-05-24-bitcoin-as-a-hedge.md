@@ -43,11 +43,11 @@ Apart from this, I would like to address a different kind of hedging that is dis
 authoritarianism or tyranny of any form. Someone might ask, why is this important?
 
 Well, the reason is that in my opinion liberal environments are better than authoritarian ones, when measured against 
-their capacity to fulfill the modern promises. Promises that are gradually transformed from the space of ideas to the space of reality by 
-becoming more and more technologically and financially attainable, while keep being instilled in the minds of pioneers and thinkers across societies
-and cultures. This natural expansion process will force them to emerge in the surface of intellectual common sense, 
+their capacity to fulfill the modern promises. Promises that gradually 
+become more and more technologically and financially attainable, while keep being instilled in the minds of pioneers and thinkers across societies
+and cultures. This natural expansion process will force these ideas to emerge in the surface of common sense, 
 which will be eventually expressed in the political order of liberal environments. On the other hand, even in the "best" 
-authoritarian regime, a human benevolent dictator can only last for so long, without having much control on what happens 
+authoritarian regime, a human benevolent dictator can only last for so long, not having much control on what happens 
 after him. Apart from that, liberal environments can be more sustainable in the long term by offering decompression 
 valves to societies. 
 
@@ -64,8 +64,8 @@ and valuable, increasing the risk of failure.
 Bitcoin needs no council, no committee, no central point of any kind or form. 
 Bitcoin just needs to be. Neutral, apolitical, indifferent to opinions and strategies. 
 
-The reason that neutrality is important even in the liberal west, is simple but very well hidden under a few generations of 
-freedoms and prosperity. We must not take the current evolution path for granted. Our democracies are not as solid 
+**The reason that neutrality is important even in the liberal west, is simple but very well hidden under a few generations of 
+freedoms and prosperity**. We must not take the current evolution path for granted. Our democracies are not as solid 
 as we like to think. They are still fragile and there are no guarantees for the future. 
 There is a tendency to believe that societies keep moving forward by default. This is nothing but an illusion. 
 It just takes a series of unfortunate events, and we could very well find ourselves under a very different reality. 

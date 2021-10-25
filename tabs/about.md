@@ -28,19 +28,18 @@ one of the most successful software houses in Greece, to which I stayed until 20
 focused on python and javascript ecosystems with a preference for django and react. After a
 [failed entrepreneurial endeavor]({% post_url 2020-06-02-my-epic-fail-as-a-sports-betting-entrepreneur %}),
 I had the opportunity to invest in personal development improving my technical skills and expanding the width of my knowledge.
-Within 2016 I dived into the bitcoin and decentralization rabbit hole and I closely watch this space ever since while managing
-a small personal investment portfolio.
+Within 2016 I dived into the bitcoin and decentralization rabbit hole and I closely watch this space ever since.
+
+Apart from my involvement in the CAE software industry and the years of coding experience in python, I have created a fairly sophisticated
+[web application]({% post_url 2020-06-03-zakanda_technical_overview %}) from scratch,
+from which I acquired extensive experience in all aspects of web development, both in the back and in the front end. While I'm very confident about my skills,
+I'm aware of the fact that web development is a very broad and fast moving field and mastering it, is a years long effort
+that requires perseverance and constant improvement. I'm also aware of my weaknesses, for example in managing infrastructure,
+but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
+the course of a project, across the whole stack.
 
 My goal is to gain the means to continue the mythical journey of
 [understanding intelligence]({% post_url 2020-06-04-thinking-about-intelligence %}), building interesting and useful stuff along the way.
-
-[comment]: <> Apart from my involvement in the CAE software industry and the many years of coding experience in python, I have one large
-[comment]: <> [web project]({% post_url 2020-06-03-zakanda_technical_overview %}) under my belt,
-[comment]: <> from which I acquired extensive experience in all aspects of web development. While I'm very confident about my skills,
-[comment]: <> I'm aware of the fact that web development is a very broad and fast moving field and mastering it, is a years long effort
-[comment]: <> that requires perseverance and constant improvement. I'm also aware of my weaknesses, for example in managing infrastructure,
-[comment]: <> but I consider myself an eternal student and a competent problem solver who can tackle any issues that might arise in
-[comment]: <> the course of a project, across the whole stack.
 
 The best way to contact me is on [twitter](https://twitter.com/DimiGeorgoulas).
 

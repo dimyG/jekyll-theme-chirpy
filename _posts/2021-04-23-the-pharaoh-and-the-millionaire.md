@@ -122,12 +122,12 @@ At least, there will be no reason to restrain it as far as this goal is concerne
 ## Matching opportunity with potential
 Let's begin by noting something. At this point, opportunity is scarce. The system has limited wealth and only a portion 
 of it can be used to give people the opportunity to reach their full potential. 
-Apart from that, not everyone has the same potential and this implies that not everyone deserves the same opportunities. 
+Apart from that, **not everyone has the same potential and this implies that not everyone deserves the same opportunities**. 
 This might seem initially unfair, but it actually isn't. 
 If you have the opportunity to reach your full potential, you would feel satisfied chasing your goals 
 and fulfilled if you achieve them. Therefore, you probably won't care 
 much if someone else is receiving more of it, the same way that you don't probably care to receive additional food if you are already full. 
-**Matching opportunity with potential** is an extremely difficult task. 
+Matching opportunity with potential is an extremely difficult task. 
 In contrast to the typical social benefits that have another goal, the policies that increase the wealth creation rate should be focused on
 the people with the biggest unused potential.
 

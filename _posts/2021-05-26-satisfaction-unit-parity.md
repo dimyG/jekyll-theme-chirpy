@@ -64,8 +64,8 @@ is an achievement of a wealthier society and we should find a way to take this i
 
 
 ## Satisfaction unit parity
-This brings us to the satisfaction unit. The main idea is that instead of comparing the price of goods, we compare the 
-price of satisfying the underlying fundamental need at the same degree. Instead of using a basket of goods, we use a 
+This brings us to the satisfaction unit. The main idea is that **instead of comparing the price of goods, we compare the 
+price of satisfying the underlying fundamental need at the same degree**. Instead of using a basket of goods, we use a 
 basket of needs. We create a scale between 0 and 100 for every need, where 100 means that this need is satisfied 
 at the maximum degree, and 0 that it is not satisfied at all. Then we use that scale to grade any good that satisfies this need. 
 
@@ -85,7 +85,7 @@ account the quality of goods, we would calculate a parity of 1 drachma to 20 eur
 euros which means that modern day Athens with its 200 billion euros, is 10 times wealthier. 
 
 If we take into account the quality of goods though, then we get a different result which is much closer to reality. 
-The horse with a price of 500 drachmas, satisfies the transportaion need with a score of 2. This means that 1 unit of 
+**The horse with a price of 500 drachmas, satisfies the transportation need with a score of 2**. This means that 1 unit of 
 satisfaction costs 250 drachmas. On the other hand, the car with a price of 10000 euros, satisfies the transportaion 
 need with a score of 20 which means that 1 unit of satisfaction costs 500 euros. We can understand, that using this 
 method we have something common to compare. The unit of satisfaction. We can satisfy our need for transportation at 
