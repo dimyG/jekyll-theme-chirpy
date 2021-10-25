@@ -187,7 +187,7 @@ The number of contributors is an important factor for determining the amount tha
 contributors the bigger the extra funding. I think that there are some wealth creating activities like the development and maintenance of open source software,
 that could be improved and accelerated by using funding from such a pool. 
 
-## Epilogue
+## Synopsis
 Don't forget that the main goal is to use the collected funds to maximize the wealth creation rate by empowering as many people 
 as possible and any proposal that contributes to that goal should be discussed. Have also in mind that a very common 
 theme in startup investing is that most of them fail, but the ones that succeed 
