@@ -1,5 +1,5 @@
 ---
-title: Bitcoin as a hedge
+title: Bitcoin in the west
 author: Dimitris Georgoulas
 date: 2021-05-24 11:30:00 +0200
 categories: [Economics, economics]
@@ -7,8 +7,8 @@ tags: [economics]
 toc: true 
 ---
 
-# Bitcoin in the west
-Appreciating the value proposition of bitcoin is much easier if you are a citizen of what we call, failed states. 
+# Hedging against hyperinflation and authoritarianism 
+Appreciating the value proposition of bitcoin is much easier if you are a citizen of a failed state. 
 Environments where the local currency is constantly devalued, or in which certain population groups are excluded from 
 the financial system, or even oppressed and mistreated. In some of these cases, bitcoin could be a possible solution by 
 protecting people's savings from annihilation or offering financial inclusion to everyone.   
@@ -17,14 +17,14 @@ But what about its usefulness for the people in the west?
 
 Well, we usually hear that bitcoin could be used in an investment portfolio as a hedge against fiat money inflation, thanks to its limited supply. 
 This common argument has merit and is based on one of bitcoin’s most indisputable properties. It’s **digital scarcity**. 
-Some people though, go much further than that, claiming that bitcoin should completely replace fiat money and the central banks. 
-On this one, I don't currently agree. I’m not at all convinced that sound money and austrian economics 
+Some people though, go much further than that, claiming that bitcoin should completely replace fiat money and the central banks.
+I should confess that I'm quite sceptical on this view. I’m not convinced that sound money and austrian economics 
 are a better alternative for achieving the promises of our modern era. Promises of abundance, freedom, peace, happiness 
 and unlimited potential. I agree that our western governments and central 
 banks aren’t perfect by no means, but I do believe that they genuinely care about the prosperity of their people. 
-They are part of our societies success, and more or less they support the evolution path towards a more prosperous society. 
+They are part of our societies success, and more or less they support the evolution path towards a more prosperous future. 
 
-Besides, I think it's very challenging if not impossible, for a system with a constant monetary base (bitcoin standard) to improve 
+Besides, I think it's very challenging for a system with a constant monetary base (bitcoin standard) to improve 
 the growth rate or deal with crises. When the value of the currency increases to reflect a growing economy, spending and crediting 
 mechanisms are greatly affected. People have an incentive not to spend, something that in theory could damage the economic activity. 
 Credit would certainly be a challenge too. People should familiarize themselves with the idea that 
@@ -44,7 +44,7 @@ authoritarianism or tyranny of any form. Someone might ask, why is this importan
 
 Well, the reason is that in my opinion liberal environments are better than authoritarian ones, when measured against 
 their capacity to fulfill the modern promises. Promises that gradually 
-become more and more technologically and financially attainable, while keep being instilled in the minds of pioneers and thinkers across societies
+become more and more technologically and financially attainable and continue to spread in the minds of pioneers and thinkers across societies
 and cultures. This natural expansion process will force these ideas to emerge in the surface of common sense, 
 which will be eventually expressed in the political order of liberal environments. On the other hand, even in the "best" 
 authoritarian regime, a human benevolent dictator can only last for so long, not having much control on what happens 
@@ -53,20 +53,25 @@ valves to societies.
 
 In this context, I would argue that any sufficiently neutral network could act as 
 a hedge against authoritarianism by putting barriers to its expansion and by opposing its presence. 
-In order for bitcoin to play that role, it must absolutely preserve the mesmerizing property 
-that arises from decentralization: **Neutrality**. 
+In order for bitcoin to play that role, it must absolutely preserve this mesmerizing property 
+that arises from the decentralized nature of its network: **Neutrality**. 
 
-In bitcoin’s short history, people have some times proposed the creation of bitcoin committees or councils to deal with various 
-issues that arise along the way. Most of these proposals are made in good faith, in an attempt to overcome the current 
-problems or misconceptions. Any such action though could hurt the bitcoin’s properties that make it so unique 
-and valuable, increasing the risk of failure.
+[comment]: <> (In bitcoin’s short history, people have some times proposed the creation of bitcoin committees or councils to deal with various )
 
-Bitcoin needs no council, no committee, no central point of any kind or form. 
-Bitcoin just needs to be. Neutral, apolitical, indifferent to opinions and strategies. 
+[comment]: <> (issues that arise along the way. Most of these proposals are made in good faith, in an attempt to overcome the current )
 
-**The reason that neutrality is important even in the liberal west, is simple but very well hidden under a few generations of 
-freedoms and prosperity**. We must not take the current evolution path for granted. Our democracies are not as solid 
-as we like to think. They are still fragile and there are no guarantees for the future. 
+[comment]: <> (problems or misconceptions. Any such action though could hurt the bitcoin’s properties that make it so unique )
+
+[comment]: <> (and valuable, increasing the risk of failure.)
+
+[comment]: <> (Bitcoin needs no council, no committee, no central point of any kind or form. )
+
+[comment]: <> (Bitcoin just needs to be. Neutral, apolitical, indifferent to opinions and strategies. )
+
+The reason that neutrality is important even in the liberal west, is simple but very well hidden under a few generations of 
+freedoms and prosperity. Our democracies are not as solid 
+as we like to think. They are still fragile and there are no guarantees for the future. We must not fool ourselves into 
+thinking take the current evolution path is for granted. 
 There is a tendency to believe that societies keep moving forward by default. This is nothing but an illusion. 
 It just takes a series of unfortunate events, and we could very well find ourselves under a very different reality. 
 Just remember how easily the Nazis, an extremist movement led by a paranoid individual with extreme hate and anger, 
@@ -76,13 +81,13 @@ Could the modern western democracies be degraded and fall into an authoritarian 
 driven? It is unlikely but not impossible. This is why we should be prepared even if the chances are small. We need to 
 have the means by which we can escape the control of "evil" central actors, not only in the realm of information exchange 
 but most importantly, in the realm of value exchange too. In these fronts, network neutrality is of paramount importance, 
-followed by the property of privacy (in which bitcoin doesn’t excel). Bitcoin and any other network which is sufficiently 
+followed by the property of privacy (in which bitcoin doesn’t excel yet). Bitcoin and any other network which is sufficiently 
 neutral, would have a crucial role to play.  
 
 # Counterarguments
 The counterarguments are that these same networks will be used by criminals, hostile sanctioned states or 
 authoritarian regimes themselves. They could threaten the dominance of western democracies by replacing the dollar as the
-global reserve currency, and that they contribute to environmental pollution by consuming huge amounts of energy. 
+global reserve currency, and that they contribute to global warming by consuming huge amounts of energy. 
 Some of these arguments are fair. There is indeed a price we have to pay. But how high is that price really?
 
 Let’s examine the criminals case first. There is a fundamental truth about us humans. Under "normal" circumstances, 
@@ -105,10 +110,9 @@ them one too? I don’t think so.
 
 Another point of concern is that bitcoin could speed up the dethroning of the dollar as the global reserve currency, 
 reducing the power of western democracies. This though, can only happen if the dollar fails as a 
-result of mismanagement. Using bitcoin as a small part of portfolios (since it is just supposed to be a hedge), 
-shouldn’t greatly affect the trust on the dollar. 
+result of mismanagement. Using bitcoin as a small part of an investment portfolio shouldn’t greatly affect the trust on the dollar. 
 
-Bitcoin consumes of a lot of energy polluting the environment. Indeed, the neutrality of the bitcoin network is secured by a consensus mechanism 
+Bitcoin consumes of a lot of energy. Indeed, the neutrality of the bitcoin network is secured by a consensus mechanism 
 that is based on a huge number of computing nodes which consume a lot of energy. 
 A lot of our modern day activities are energy hungry though. Take televisions for example. They collectively consume a lot of energy, but 
 we don't condemn them because of that. We weigh in the benefits with the costs and decide that we want to use them. So the 
