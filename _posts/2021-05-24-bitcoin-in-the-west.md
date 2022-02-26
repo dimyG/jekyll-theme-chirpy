@@ -19,7 +19,7 @@ Well, we usually hear that bitcoin could be used in an investment portfolio as a
 This common argument has merit and is based on one of bitcoin’s most indisputable properties. It’s **digital scarcity**. 
 Some people though, go much further than that, claiming that bitcoin should completely replace fiat money and the central banks.
 I should confess that I'm quite sceptical on this view. I’m not convinced that sound money and austrian economics 
-are a better alternative for achieving the promises of our modern era. Promises of abundance, freedom, peace, happiness 
+are a better alternative for achieving the  <a name="promises">promises</a> of our modern era. Promises of abundance, freedom, peace, happiness 
 and unlimited potential. I agree that our western governments and central 
 banks aren’t perfect by no means, but I do believe that they genuinely care about the prosperity of their people. 
 They are part of our societies success, and more or less they support the evolution path towards a more prosperous future. 
@@ -43,7 +43,7 @@ Apart from this, I would like to address a different kind of hedging that is dis
 authoritarianism or tyranny of any form. Someone might ask, why is this important?
 
 Well, the reason is that in my opinion liberal environments are better than authoritarian ones, when measured against 
-their capacity to fulfill the modern promises. Promises that gradually 
+their capacity to fulfill the modern [promises](#promises). Promises that gradually 
 become more and more technologically and financially attainable and continue to spread in the minds of pioneers and thinkers across societies
 and cultures. This natural expansion process will force these ideas to emerge in the surface of common sense, 
 which will be eventually expressed in the political order of liberal environments. On the other hand, even in the "best" 
@@ -71,7 +71,7 @@ that arises from the decentralized nature of its network: **Neutrality**.
 The reason that neutrality is important even in the liberal west, is simple but very well hidden under a few generations of 
 freedoms and prosperity. Our democracies are not as solid 
 as we like to think. They are still fragile and there are no guarantees for the future. We must not fool ourselves into 
-thinking take the current evolution path is for granted. 
+thinking that the current evolution path is for granted. 
 There is a tendency to believe that societies keep moving forward by default. This is nothing but an illusion. 
 It just takes a series of unfortunate events, and we could very well find ourselves under a very different reality. 
 Just remember how easily the Nazis, an extremist movement led by a paranoid individual with extreme hate and anger, 

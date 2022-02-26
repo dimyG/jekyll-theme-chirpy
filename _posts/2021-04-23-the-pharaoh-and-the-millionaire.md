@@ -8,7 +8,7 @@ toc: true
 ---
 
 ## A dynamic limit to the top
-A few weeks ago as I was scrolling on twitter, I came across this tweet from [naval](https://twitter.com/naval), a person that I greatly respect.
+A few weeks ago as I was scrolling on twitter, I came across this tweet from [naval](https://twitter.com/naval), a person I greatly respect.
 
 [comment]: <> ( ![Desktop View]&#40;{{ "/assets/img/sample/naval_confiscation.png" | relative_url }}&#41; )
  <img src="/assets/img/sample/naval_confiscation.png" alt="naval_confiscation" width="450"/>
