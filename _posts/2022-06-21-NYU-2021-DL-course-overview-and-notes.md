@@ -1,8 +1,8 @@
 ---
-title: LeCun's 2021 DL course overview and notes 
+title: NYU 2021 Deep Learning course overview and notes 
 author: Dimitris Georgoulas
 date: 2022-06-21 11:30:00 +0200
-categories: [Machine Learning]
+categories: [Machine Learning, Deep Learning]
 tags: [machine learning]
 toc: true 
 ---
