@@ -14,7 +14,7 @@ With one word, did I like it? Absolutely. In my opinion, the most important bene
 You will understand the current state of deep learning especially with regards to self-supervised learning, challenges, 
 proposed solutions and future plans. The main drawback? Maybe LeCun’s teaching style is not so student friendly 
 as Andrew Ng’s, at least for me. But after a while you are getting used to it and the rewards far outweigh the costs. Here are 
-[my notes](https://docs.google.com/document/d/1D6-s02WURolebjSA3qNQcvhIGqYz69jS/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true).
+[my notes](https://docs.google.com/document/d/1F2MtqLlLFmxYcpXRRd-kSz8Csi2VSgmZ/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true).
 (They contain a lot of images so the docx file is quite large...)
 
 # The candidates
@@ -116,7 +116,7 @@ on backpropagation too, where he explains the whole process in a very intuitive 
 
 # My Notes
 I have a lot of notes from the course which you can find [here](https://docs.google.com/document/d/1D6-s02WURolebjSA3qNQcvhIGqYz69jS/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true). 
-Bear in mind that the language is not formal (to put it mildly) and they might contain a few errors. Feel free to comment where you want. 
+Bear in mind that the language is not formal (to put it mildly) and they might contain a few errors. 
 Also notice that I regularly update them. 
 
 That's all for now, thanks for reading!
