@@ -16,7 +16,7 @@ a means by which I can express myself, writing for anything I consider interesti
 As one of my passions is understanding the technological background of our world, of which the backbone is software,
 I regularly dedicate time to learn new things, usually starting with a broad exploration and then selecting where to go deep.
 My method of learning involves a rigorous process of note keeping and as a result I have stacked through the years
-a large collection of technical notes, for topics ranging from computer science to web
+a large collection of [technical notes]({% post_url 2022-05-30-notes-collection %}), for topics ranging from computer science to web
 development to artificial intelligence and mathematics, fintech, blockchain and economics, parts of which I plan to publish in this blog on a regular basis.
 I have to admit though, that the process of bringing raw notes in a form suitable for publishing is rather a time consuming task...
 

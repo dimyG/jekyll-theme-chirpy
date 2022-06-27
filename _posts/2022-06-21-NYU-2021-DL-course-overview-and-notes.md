@@ -66,7 +66,7 @@ the same way animals do, using unlabeled data. This is the reason why self-super
 The labels come from observations. You predict the next state, wait a bit, the next state occurs, and you have your label. 
 Or you hide parts of a sentence, and you try to predict the missing words which act as your labels. And more stuff like this. 
 
->Spoiler alert: According to LeCun the best path towards good predictive world models that can handle uncertainty, 
+>Spoiler alert: According to LeCun (2022) the best path towards good predictive world models that can handle uncertainty, 
 is joint embedding architectures trained with non-contrastive regularized methods (see Barlow Twins and VICReg). 
 If you take the course you will be able to understand why and how. 
 
@@ -88,11 +88,11 @@ It is not an RL case. It is model predictive control where the agent plans for a
 > Another remark not mentioned in the lecture: Hierarchical JEPA models (joint embedding predictive architectures) is 
 > a new proposal from LeCun for creating autonomous agents. They predict in representation space, and they can make 
 > hierarchical action plans which means longer plans into the future. But it is a yet untested approach (as of 2022) 
-> that has a lot of challenges. 
+> with lots of challenges. 
 
-# Challenges
-Bear in mind though, that the course is challenging and not all lectures are of the same quality in terms of clarity, 
-but I think this is expected in such a large course.
+# Course's Challenges
+Bear in mind that the course is challenging and not all lectures are of the same quality in terms of clarity, 
+but I think this is expected from such a large course.
 
 LeCun tries to explain things through his energy-based framework, and this might be a bit confusing, at least in the beginning. 
 There are also parts where he explains things very abstractly, defining them within a formal framework, 
