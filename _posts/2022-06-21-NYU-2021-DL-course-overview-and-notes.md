@@ -115,7 +115,8 @@ has a short but great [list](https://www.youtube.com/watch?v=aircAruvnKk&list=PL
 on backpropagation too, where he explains the whole process in a very intuitive way (as usual).
 
 # My Notes
-I have a lot of notes from the course which you can find [here](https://docs.google.com/document/d/1D6-s02WURolebjSA3qNQcvhIGqYz69jS/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true). 
+I have a lot of notes from the course which you can find [here](https://docs.google.com/document/d/1F2MtqLlLFmxYcpXRRd-kSz8Csi2VSgmZ/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true). 
+Perhaps you won't be able to view them online because the file is quite large for Google Docs (120MB). 
 Bear in mind that the language is not formal (to put it mildly) and they might contain a few errors. 
 Also notice that I regularly update them. 
 
