@@ -5,6 +5,7 @@ date: 2022-06-21 11:30:00 +0200
 categories: [Machine Learning, Deep Learning]
 tags: [machine learning]
 toc: true 
+image: "/assets/img/NYU_2021_DL_course/course01.JPG"
 ---
 
  ![Desktop View]({{ "/assets/img/NYU_2021_DL_course/course01.JPG" | relative_url }})  
