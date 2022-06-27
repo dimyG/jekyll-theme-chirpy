@@ -8,8 +8,6 @@ toc: true
 image: "/assets/img/NYU_2021_DL_course/course01.JPG"
 ---
 
- ![Desktop View]({{ "/assets/img/NYU_2021_DL_course/course01.JPG" | relative_url }})  
-
 # TLDR
 With one word, did I like it? Absolutely. In my opinion, the most important benefit from the course is LeCun’s distilled wisdom. 
 You will understand the current state of deep learning especially with regards to self-supervised learning, challenges, 
