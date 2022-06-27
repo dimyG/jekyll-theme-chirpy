@@ -1,21 +1,19 @@
 ---
 title: NYU 2021 Deep Learning course overview and notes 
-subtitle: "With one word, did I like it? Absolutely. In my opinion, the most important benefit from the course is LeCun’s distilled wisdom. 
-You will understand the current state of deep learning especially with regards to self-supervised learning, challenges, 
-proposed solutions and future plans."
 author: Dimitris Georgoulas
 date: 2022-06-21 11:30:00 +0200
 categories: [Machine Learning, Deep Learning]
 tags: [machine learning]
 toc: true 
-header-img: "/assets/img/NYU_2021_DL_course/course01.JPG"
+header-img: /assets/img/NYU_2021_DL_course/course01.JPG
+description: With one word, did I like it? Absolutely. In my opinion, the most important benefit from the course is LeCun’s distilled wisdom. You will understand the current state of deep learning especially with regard to self-supervised learning, challenges, proposed solutions and future plans.
 ---
 
  ![Desktop View]({{ "/assets/img/NYU_2021_DL_course/course01.JPG" | relative_url }})  
 
 # TLDR
 With one word, did I like it? Absolutely. In my opinion, the most important benefit from the course is LeCun’s distilled wisdom. 
-You will understand the current state of deep learning especially with regards to self-supervised learning, challenges, 
+You will understand the current state of deep learning especially with regard to self-supervised learning, challenges, 
 proposed solutions and future plans. The main drawback? Maybe LeCun’s teaching style is not so student friendly 
 as Andrew Ng’s, at least for me. But after a while you are getting used to it and the rewards far outweigh the costs. Here are 
 [my notes](https://docs.google.com/document/d/1F2MtqLlLFmxYcpXRRd-kSz8Csi2VSgmZ/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true).
