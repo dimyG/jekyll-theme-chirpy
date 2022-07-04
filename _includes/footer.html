@@ -10,10 +10,12 @@
   <div class="d-flex justify-content-between align-items-center">
     <div class="footer-left">
       <p class="mb-0">
-        {% if site.data.wallet %}
-        <span data-toggle="tooltip" data-placement="top"
-          title="{{ site.data.wallet.bitcoin.title }}">{{ site.data.wallet.bitcoin.title }}: {{ site.data.wallet.bitcoin.address }}</span>
-        {% endif %}
+<!--        {% if site.data.wallet %}-->
+<!--        <span data-toggle="tooltip" data-placement="top"-->
+<!--          title="{{ site.data.wallet.bitcoin.title }}">{{ site.data.wallet.bitcoin.title }}: {{ site.data.wallet.bitcoin.address }}-->
+<!--        </span>-->
+<!--        <br>-->
+<!--        {% endif %}-->
         © 2020
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
         {% if site.data.rights.brief %}
@@ -22,6 +24,16 @@
         {% endif %}
       </p>
     </div>
+
+    {% if site.data.wallet %}
+    <div class="footer-left">
+      <p class="mb-0">
+        <span data-toggle="tooltip" data-placement="top"
+          title="{{ site.data.wallet.bitcoin.title }}">{{ site.data.wallet.bitcoin.title }}: {{ site.data.wallet.bitcoin.address }}
+        </span>
+      </p>
+    </div>
+    {% endif %}
 
     <div class="footer-right">
       <p class="mb-0">

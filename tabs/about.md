@@ -41,6 +41,6 @@ the course of a project, across the whole stack.
 My goal is to gain the means to continue the mythical journey of
 [understanding intelligence]({% post_url 2020-06-04-thinking-about-intelligence %}), building interesting and useful stuff along the way.
 
-The best way to contact me is on [twitter](https://twitter.com/DimiGeorgoulas).
+The best way to contact me is via email or on [twitter](https://twitter.com/DimiGeorgoulas).
 
 Have a nice day and thanks for coming by!
