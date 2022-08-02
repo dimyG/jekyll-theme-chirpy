@@ -68,6 +68,7 @@ converting client needs to software requirements being the middle man between cu
 influencing development of new features and improvement of existing ones, automating tasks with python scripts, 
 authoring technical CAE papers, performing technical presentations on international conferences and on customers' sites, 
 participating in customers' projects, offering on-site support and training.
+- CAE stack: ANSA, mETA, Nastran, Abaqus, LS-Dyna, modeFrontier, Optimus
 - Additional information: [my experience as a cae engineer]({% post_url 2020-06-01-my-experience-as-a-cae-engineer %}).
 
 # Publications
