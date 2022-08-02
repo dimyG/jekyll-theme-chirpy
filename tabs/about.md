@@ -17,8 +17,7 @@ As one of my passions is understanding the technological background of our world
 I regularly dedicate time to learn new things, usually starting with a broad exploration and then selecting where to go deep.
 My method of learning involves a rigorous process of note keeping and as a result I have stacked through the years
 a large collection of [technical notes]({% post_url 2022-05-30-notes-collection %}), for topics ranging from computer science to web
-development to artificial intelligence and mathematics, fintech, blockchain and economics, parts of which I plan to publish in this blog on a regular basis.
-I have to admit though, that the process of bringing raw notes in a form suitable for publishing is rather a time consuming task...
+development to artificial intelligence and mathematics, fintech, blockchain and economics, parts of which I publish in this blog on a regular basis.
 
 Going to my background, I studied mechanical engineering in the polytechnic school of the [Aristotle University of
 Thessaloniki](https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki)
