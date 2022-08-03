@@ -10,7 +10,7 @@ title: About
 
 Welcome dear visitor. My name is Dimitris Georgoulas. I'm a full stack web developer and mechanical engineer.
 This is my personal blog which I intent to use both as a showcase of
-[my work experience]({% link categories/work-experience.html %}) and as
+[my work experience]({% post_url 2020-05-30-work-experience-overview %}) and as
 a means by which I can express myself, writing for anything I consider interesting or important.
 
 As one of my passions is understanding the technological background of our world, of which the backbone is software,
