@@ -28,7 +28,7 @@ distributed storage, distributed computation, decentralized finance etc). I lear
 field (smart contracts, execution layers, zero knowledge proofs, chain analysis etc) and financial aspects 
 (derivative markets, financial indicators, technical analysis, automated market makers, impermanent loss etc). 
 - It was an interesting period and for a while I thought about following a software engineering path on this field. 
-After some serious introspection though, I decided to focus on deep learning instead. 
+After some serious introspection though, I decided to explore the world of deep learning instead. 
 
 
 #### **Upgrading my software engineering skills, Self employed** *(January 2020 - January 2021)*  <br/>
