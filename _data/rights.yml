@@ -3,9 +3,10 @@
 #  https://github.com/dimyG/jekyll-theme-chirpy
 #  © 2020 Dimitris Georgoulas
 
-license:
-  name:
-  link: "#"
+# the license attribute is read by other parts of the application. Add a license if you want
+#license:
+#  name:
+#  link: "#"
 
 brief:
 
