@@ -8,7 +8,7 @@ toc: true
 ---  
 
 # Professional Experience
-#### **Studying Machine and Deep Learning, Self employed** *(September 2021 - Present)*  <br/>
+#### **Studying Machine and Deep Learning, Self employed** *(September 2021 - July 2022)*  <br/>
 I was always fascinated by the mysterious nature of the human brain, and a while back I dedicated some time to explore my own 
 [intuitions]({% post_url 2020-06-04-thinking-about-intelligence %}) about intelligence. This thought process laid the groundwork for a dive in the field of deep learning. 
 After refreshing my math skills on linear algebra and calculus, 
