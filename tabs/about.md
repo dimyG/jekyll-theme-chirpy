@@ -20,7 +20,7 @@ if I would start from there...
 - I know I'm not exceptionally smart so, I try to counterbalance that with methodical approaches and persistence.
 - I have built through the years mental world models of decent quality, which I continuously enhance.
 - I embrace the difficulties of becoming a specialized generalist. I have suffered in this path.
-- I understand the importance of simplicity, but sometimes it annoyingly escapes me.
+- I admire the elegance of simplicity, but sometimes it annoyingly escapes me.
 - I'm a restless and risk tolerant soul.
 - I'm rarely not passionate with something, and when I'm passionate, I'm hooked.
 - Achieving and maintaining a state of high focus and alertness while working, is extremely fulfilling for me. I try to be there for a few hours every day.
