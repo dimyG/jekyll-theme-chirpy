@@ -13,12 +13,12 @@ single page web application without using a front-end framework, learning one, w
 the idea of an html template language combined with the full power of javascript (see JSX) I chose React. After watching 
 some introductory tutorials, I dived into React's documentation, which is really good by the way, and as any 
 full stack web developer that respects himself, I looked at how I could combine react with django. 
-Having my homework done, I proceeded to apply and test these new skills by building a small project. The idea
-was to go beyond the basic CRUD functionality and have some additional fun by creating an animation of some sort. 
+Having my homework done, I proceeded to apply and test those skills by building a small project. The idea
+was to go beyond the basic CRUD functionality and have a bit more fun creating an animation of some sort. 
 
 In my search for animation ideas, I found Ben Frederickson's [blog](http://www.benfrederickson.com/blog/) 
-which has some really interesting animations. Since I wanted something simple for my small demo project, I chose to 
-implement his [Min Heap](http://www.benfrederickson.com/heap-visualization/) example. And voila... 
+which contains some interesting animations. Since I wanted something simple for my small demo project, I chose to 
+implement the [Heap Sort](http://www.benfrederickson.com/heap-visualization/) algorithm. And voila... 
 I named this small project [algozoom](http://algozoom.com/).
 
  ![Desktop View]({{ "/assets/img/sample/minHeap_forever_3.gif" | relative_url }}) 

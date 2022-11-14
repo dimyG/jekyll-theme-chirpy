@@ -52,8 +52,8 @@ but I loved programming, and I was learning web development on the side.
 A few years later I left the company to create a web application and even though it wasn’t financially successful,
 I gained valuable software development experience as I architected, designed, and developed the whole system from scratch.
 I dedicated the period that followed to explore the fields of blockchain initially, and deep learning lately.
-Currently, I'm full steam ahead on software engineering and web development again. My expertise lies in the python
-and javascript ecosystems.
+Currently, I have focused my attention to software engineering and web development again.
+My expertise lies in the python and javascript ecosystems.
 
 [zakanda]({% post_url 2020-06-03-zakanda_technical_overview %}) and
 [algozoom]({% post_url 2020-12-02-animations-with-d3-and-react %}) are two projects with which I started in full
