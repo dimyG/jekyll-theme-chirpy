@@ -15,7 +15,7 @@ Since I believe that character and personality are at least as important as the 
 if I would start from there...
 
 - I love to explore and understand the big picture before digging into the details.
-- I love the details too, because they make things work and give me the satisfaction of achievement.
+- I love the details too, because they make things work and offer the satisfaction of accomplishment.
 - Putting the pieces together is one of my most enjoyable experiences.
 - I know I'm not exceptionally smart so, I try to counterbalance that with methodical approaches and persistence.
 - I have built through the years mental world models of decent quality, which I continuously enhance.
@@ -55,20 +55,22 @@ I dedicated the period that followed to explore the fields of blockchain initial
 Currently, I'm full steam ahead on software engineering and web development again. My expertise lies in the python
 and javascript ecosystems.
 
-- I understand the importance of designing a good distributed architecture from the start, with scalability in mind,
+[zakanda]({% post_url 2020-06-03-zakanda_technical_overview %}) and
+[algozoom]({% post_url 2020-12-02-animations-with-d3-and-react %}) are two projects with which I started in full
+stack web development. The first one is much larger in scope and complexity.
+
+Learning is a way of life for me, and in this path I always strive to understand, upskill and improve.
+
+- I now know the significance of designing a good distributed architecture from the start, with scalability in mind,
 implementing microservices with testing, observability and continuous delivery.
 - I have a good understanding of the software development life cycle since I have built things from scratch.
-- I understand the importance of good documentation and small commits.
-- I understand big O notation and have a fundamental understanding of data structures and algorithms.
+- I greatly appreciate good documentation and small commits.
+- I understand big O notation, data structures and algorithms.
 - I wish I had become familiar with design patterns much earlier in my life.
 - I'm comfortable working with
 python, django, django-rest-framework, numpy, pandas, javascript, react, redux, postgresql, redis, linux, docker, git, common aws services.
 - I would love to work with
 serverless, fastAPI, mongodb, kafka, celery, elasticsearch, kubernetes, terraform, prometheus, grafana, typescript.
-
-Two of my projects in the web development field:
-- [zakanda]({% post_url 2020-06-03-zakanda_technical_overview %})
-- [algozoom]({% post_url 2020-12-02-animations-with-d3-and-react %})
 
 The best way to contact me is via email or on [twitter](https://twitter.com/DimiGeorgoulas).
 
