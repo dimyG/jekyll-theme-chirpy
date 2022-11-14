@@ -17,24 +17,24 @@ if I would start from there...
 - I love to explore and understand the big picture before digging into the details.
 - I love the details too, because they make things work and offer the satisfaction of accomplishment.
 - Putting the pieces together is one of my most enjoyable experiences.
-- I know I'm not exceptionally smart so, I try to counterbalance that with methodical approaches and persistence.
-- I have built through the years mental world models of decent quality, which I continuously enhance.
 - I embrace the difficulties of becoming a specialized generalist. I have suffered in this path.
 - I admire the elegance of simplicity, but sometimes it annoyingly escapes me.
+- Achieving and maintaining a state of high focus and alertness while working, is extremely fulfilling for me. I try to be there for a few hours every day.
+- I know I'm not exceptionally smart and I try to counterbalance this with methodical approaches and persistence.
+- I have built through the years mental world models of decent quality, which I continuously enhance.
 - I'm a restless and risk tolerant soul.
 - I'm rarely not passionate with something, and when I'm passionate, I'm hooked.
-- Achieving and maintaining a state of high focus and alertness while working, is extremely fulfilling for me. I try to be there for a few hours every day.
-- I try to treat people with kindness and respect.
 - Sometimes I'm an extrovert, most times I'm an introvert.
 - I communicate better asynchronously.
 - "Listen with the intent to understand, not the intent to reply". I find this motto particularly important.
+- I tend to treat people with kindness and respect.
 - I like to think of myself as a reliable kind person with integrity.
 - I try to be at best shape every day. I don't always succeed.
 - I now know the importance of good sleep, healthy diet, exercise and meaningful relations.
 - I have spent a lot of time and energy on things that didn't matter. I now understand the difference between being busy and being productive.
 - I also understand the importance for me, of doing meaningful work that positively impacts people's lives.
 - As I evolve, the limits of my potential become more obvious to me.
-I'm accepting them, becoming more realistic and humble along the way, trying to embrace delegation and leverage.
+I'm accepting them, becoming more realist and humble along the way, trying to embrace delegation and leverage.
 
 This list is not exhaustive by any means, but is representative and genuine nonetheless.
 
@@ -52,7 +52,7 @@ but I loved programming, and I was learning web development on the side.
 A few years later I left the company to create a web application and even though it wasn’t financially successful,
 I gained valuable software development experience as I architected, designed, and developed the whole system from scratch.
 I dedicated the period that followed to explore the fields of blockchain initially, and deep learning lately.
-Currently, I have focused my attention to software engineering and web development again.
+Currently, I focus my attention back to software engineering and web development.
 My expertise lies in the python and javascript ecosystems.
 
 [zakanda]({% post_url 2020-06-03-zakanda_technical_overview %}) and
