@@ -36,7 +36,7 @@ if I would start from there...
 - As I evolve, the limits of my potential become more obvious to me.
 I'm accepting them, becoming more realistic and humble along the way, trying to embrace delegation and leverage.
 
-This list is not exhaustive by any means, but it is genuine nonetheless.
+This list is not exhaustive by any means, but is representative and genuine nonetheless.
 
 ## Hard Skills
 On to the technical stuff...
@@ -57,9 +57,9 @@ and javascript ecosystems.
 
 [zakanda]({% post_url 2020-06-03-zakanda_technical_overview %}) and
 [algozoom]({% post_url 2020-12-02-animations-with-d3-and-react %}) are two projects with which I started in full
-stack web development. The first one is much larger in scope and complexity.
-
-Learning is a way of life for me, and in this path I always strive to understand, upskill and improve.
+stack web development. The first one is much larger in scope and complexity as it was my first startup,
+but it was naively built. I have evolved a lot since then. Learning is a way of life for me,
+and in this path I always strive to upskill and improve.
 
 - I now know the significance of designing a good distributed architecture from the start, with scalability in mind,
 implementing microservices with testing, observability and continuous delivery.
@@ -72,6 +72,6 @@ python, django, django-rest-framework, numpy, pandas, javascript, react, redux, 
 - I would love to work with
 serverless, fastAPI, mongodb, kafka, celery, elasticsearch, kubernetes, terraform, prometheus, grafana, typescript.
 
-The best way to contact me is via email or on [twitter](https://twitter.com/DimiGeorgoulas).
+Thanks for coming by.
 
-Thanks for coming by. Have a nice day!
+Have a nice day!
