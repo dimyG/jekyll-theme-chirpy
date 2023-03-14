@@ -8,7 +8,6 @@ toc: true
 ---  
 
 # Professional Experience
-
 #### **Software Engineer, Self employed** *(July 2022 - Present)*  <br/>
 [Jinifai](https://www.jinifai.com/) (December 2022 - present)
 - Work in progress. Side project. A scalable web application for generative AI tools. 
@@ -95,7 +94,7 @@ participating in customers' projects, offering on-site support and training.
 It animates algorithms using the amazing d3.js library. It's deployed on a Heroku free tier so there might be a 
 small delay the first time you visit it.
 - [Zakanda](https://www.zakanda.com/) was a Robinhood like service for sport betting.
-- [My notes collection](https://www.korbetis.com/notes-collection/) is a collection of notes I made on various topics.
+- [My notes collection]({% post_url 2022-05-30-notes-collection %}) is a collection of notes I made on various topics.
 - My personal blog is a place where I can express myself, writing for anything I consider interesting or important. 
 I also use it as a showcase of my professional experience.
 

@@ -55,12 +55,6 @@ I dedicated the period that followed to explore the fields of blockchain initial
 Currently, I focus my attention back to software engineering and web development.
 My expertise lies in the python and javascript ecosystems.
 
-[zakanda]({% post_url 2020-06-03-zakanda_technical_overview %}) and
-[algozoom]({% post_url 2020-12-02-animations-with-d3-and-react %}) are two projects with which I started in full
-stack web development. The first one is much larger in scope and complexity as it was my first startup,
-but it was naively built. I have evolved a lot since then. Learning is a way of life for me,
-and in this path I always strive to upskill and improve.
-
 - I now know the significance of designing a good distributed architecture from the start, with scalability in mind,
 implementing microservices with testing, observability and continuous delivery.
 - I have a good understanding of the software development life cycle since I have built things from scratch.
@@ -68,9 +62,8 @@ implementing microservices with testing, observability and continuous delivery.
 - I understand big O notation, data structures and algorithms.
 - I wish I had become familiar with design patterns much earlier in my life.
 - I'm comfortable working with
-python, django, django-rest-framework, numpy, pandas, javascript, react, redux, postgresql, redis, linux, docker, git, common aws services.
-- I would love to work with
-serverless, fastAPI, mongodb, kafka, celery, elasticsearch, kubernetes, terraform, prometheus, grafana, typescript.
+python, django, django-rest-framework, fastAPI, numpy, pandas, javascript, react, redux, postgresql, redis, rabbitmq, linux,
+containers, docker, git, AWS, Heroku, serverless.
 
 Thanks for coming by.
 
