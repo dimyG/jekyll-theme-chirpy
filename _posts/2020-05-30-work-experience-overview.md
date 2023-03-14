@@ -8,6 +8,19 @@ toc: true
 ---  
 
 # Professional Experience
+
+#### **Software Engineer, Self employed** *(July 2022 - Present)*  <br/>
+[Jinifai](https://www.jinifai.com/) (December 2022 - present)
+- Work in progress. Side project. A scalable web application for generative AI tools. 
+- Main tech: python, django, fastAPI, react, redux, hugginface, rabbitMq, redis, postgresql, containers, docker, microservices, serverless inference, AWS, Runpod
+- Inference is serverless. The minimum number of workers is 0 (for cost reasons). This mean that you might experience a cold start and a delay of a few seconds when you first generate an image. 
+- More details on [this]({% post_url 2023-03-13-scalable-generative-ai-tools %}) post.
+
+Asepsuccess, Co-Founder (October 2022 - March 2023)
+- At asepsuccess we created a quality training program for a major nationwide competition, the successful candidates of which will be appointed as public employees. 
+- I was the technical member of the team. I set up the website, the learning management system and digitized the training material. I used mainly no-code tools along with a few python scripts. 
+- Apart from the technical stuff, I dealt with all aspects of running the business (partnerships, customer support, marketing, financials
+
 #### **Studying Machine and Deep Learning, Self employed** *(September 2021 - July 2022)*  <br/>
 I was always fascinated by the mysterious nature of the human brain, and a while back I dedicated some time to explore my own 
 [intuitions]({% post_url 2020-06-04-thinking-about-intelligence %}) about intelligence. This thought process laid the groundwork for a dive in the field of deep learning. 
@@ -77,11 +90,15 @@ participating in customers' projects, offering on-site support and training.
 - [Introducing Highly-Efficient CAE Pre- and Post-Processing Solutions in Maritime Design ](https://www.beta-cae.com/pdf/2011_compit_korbetis_georgoulas.pdf) (COMPIT 2011)
 
 # Projects
-- My personal blog is a place where I can express myself, writing for anything I consider interesting or important. 
-I also use it as a showcase of my professional experience.
+- [Jinifai](https://www.jinifai.com/) is a scalable web application for generative AI tools (side project).
 - [Algozoom](http://algozoom.com/) is a small web application I made while playing with React, Redux and Django rest framework. 
 It animates algorithms using the amazing d3.js library. It's deployed on a Heroku free tier so there might be a 
 small delay the first time you visit it.
+- [Zakanda](https://www.zakanda.com/) was a Robinhood like service for sport betting.
+- [My notes collection](https://www.korbetis.com/notes-collection/) is a collection of notes I made on various topics.
+- My personal blog is a place where I can express myself, writing for anything I consider interesting or important. 
+I also use it as a showcase of my professional experience.
+
 
 # Military Service
 #### **Military Service** *(May 2008 - January 2009)* <br/> 
