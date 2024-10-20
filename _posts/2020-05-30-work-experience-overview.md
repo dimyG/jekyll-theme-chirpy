@@ -8,6 +8,12 @@ toc: true
 ---  
 
 # Professional Experience
+#### **Software Developer, Caemate** *(November 2023 - Present)*  <br/>
+Building infrastructure monitoring tools for digital twins at [Caemate](https://caemate.com/).  
+
+#### **Software Developer, Rotki** *(March 2023 - October 2023)*  <br/>
+Worked remotely in a small distributed team building [rotki](https://rotki.com/), a portfolio manager that protects your privacy.
+
 #### **Software Engineer, Self employed** *(July 2022 - Present)*  <br/>
 [Jinifai](https://www.jinifai.com/) (December 2022 - present)
 - Work in progress. Side project. A scalable web application for generative AI tools. 
