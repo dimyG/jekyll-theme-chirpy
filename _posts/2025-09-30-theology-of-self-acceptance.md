@@ -2,8 +2,8 @@
 title: Theology of self-acceptance
 author: Dimitris Georgoulas
 date: 2025-09-30 11:30:00 +0200
-categories: [Misc, Notes]
-tags: [work experience]
+categories: [Philosophy]
+tags: [philosophy]
 toc: true
 header-img: /assets/img/posts/temple_of_poseidon.png
 description: "It seems then, that in all possible cases the wisest course is to bring your actions into harmony with your values and inclinations.
@@ -59,7 +59,7 @@ with your values and inclinations.
 
 If God does intervene to point us to our purpose, common experience shows that His intervention is still cryptic, coming only in the form of 
 subtle, ambiguous signs. So in the face of such ambiguity we can either delegate our choices to external
-authorities (priests, gurus, teachers etc.) or choose according to our own subjective criteria. In both cases though, would it be 
+authorities (holy men, priests, gurus, your boss god forbidden) or choose according to our own subjective criteria. In both cases though, would it be 
 wise to suffer such a terrible cost, which is to live a life opposite to our values and inclinations 
 based on arbitrary interpretations? With the very real possibility of being wrong anyway due to misinterpretation which
 misses the true meaning of the given message? 
