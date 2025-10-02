@@ -43,10 +43,10 @@ If there is a God and He is omnipotent, then again I do not think there can be a
 for everything has already been fulfilled through God’s omnipotence. There is nothing lacking, no gap that would be 
 essentially useful that humanity could meaningfully fill. This of course, does not mean that a purpose 
 could not still be set. Not a fundamentally significant one, but external and very real nonetheless. 
-
 If there is a God who isn't though omnipotent and there are things that remain beyond His reach, then there is room for some
-"cosmic" significance, for a purpose to which humanity might indeed have something to contribute. In this case the 
-problem is that even if an objective purpose truly exists, we can't really know what it is. For, it is not 
+"cosmic" significance, for a purpose to which humanity might indeed have something to contribute. 
+
+In this case the problem is that even if an objective purpose truly exists, we can't really know what it is. For, it is not 
 revealed to us clearly, or it is not revealed at all (it might be that God doesn't intervene at all in human affairs).
 
 So if God doesn't intervene to point us to a direction, all we are left with, is the natural way humans have to choose their objectives. 

@@ -8,7 +8,7 @@ toc: true
 ---  
 
 # Professional Experience
-#### **Software Developer, Caemate** *(November 2023 - Present)*  <br/>
+#### **Software Developer, Caemate** *(November 2023 - July 2025)*  <br/>
 Building infrastructure monitoring tools for digital twins at [Caemate](https://caemate.com/).  
 
 #### **Software Developer, Rotki** *(March 2023 - October 2023)*  <br/>
