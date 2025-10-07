@@ -10,18 +10,20 @@
   <div class="d-flex justify-content-between align-items-center">
     <div class="footer-left">
       <p class="mb-0">
-<!--        {% if site.data.wallet %}-->
-<!--        <span data-toggle="tooltip" data-placement="top"-->
-<!--          title="{{ site.data.wallet.bitcoin.title }}">{{ site.data.wallet.bitcoin.title }}: {{ site.data.wallet.bitcoin.address }}-->
-<!--        </span>-->
-<!--        <br>-->
-<!--        {% endif %}-->
         © 2020
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
         {% if site.data.rights.brief %}
         <span data-toggle="tooltip" data-placement="top"
           title="{{ site.data.rights.verbose }}">{{ site.data.rights.brief }}</span>
         {% endif %}
+      </p>
+    </div>
+
+    <div class="footer-left">
+      <p class="mb-0">
+        <span data-toggle="tooltip" data-placement="top" title="Donations">
+            <a href="{{ '/donate/' | relative_url }}"><b>Donate</b></a>
+        </span>
       </p>
     </div>
 
