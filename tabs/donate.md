@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donate
-permalink: /donate/
+permalink: tabs/donate/
 ---
 
 # Donations

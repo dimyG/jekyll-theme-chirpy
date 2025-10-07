@@ -26,4 +26,5 @@
 -
   name: "Donate"
   icon: "fas fa-heart"
-  path: donate
+  path: tabs
+  url: donate
