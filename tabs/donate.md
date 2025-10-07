@@ -3,9 +3,7 @@ layout: page
 title: Donate
 permalink: tabs/donate/
 ---
-
-# Donations
-If you like my work, consider making a donation.
+If you find something of value here, consider offering your support.
 
 ## Zcash
 
