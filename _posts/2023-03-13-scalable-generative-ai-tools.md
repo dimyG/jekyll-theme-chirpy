@@ -12,7 +12,7 @@ description: "Jinifai MVP is a scalable web application offering generative AI t
  ![Desktop View]({{ "/assets/img/posts/jinifai_showcase.png" | relative_url }})  
 
 # Jinifai MVP
-[Jinifai](https://www.jinifai.com/) is a side project I'm working on, to play with diffusion models and microservices. It is a scalable web 
+Jinifai is a side project I worked on, to play with diffusion models and microservices. It is a scalable web 
 application offering generative AI tools for creating images. It is build with a microservices architecture. The MVP is 
 really minimal but the main backbone of the system is in place, and it is easy to enhance it with additional features and services.
 Given enough time and resources, it can become a full-fledged, scalable generative AI platform that implements all the features of 

@@ -15,7 +15,7 @@ Building infrastructure monitoring tools for digital twins at [Caemate](https://
 Worked remotely in a small distributed team building [rotki](https://rotki.com/), a portfolio manager that protects your privacy.
 
 #### **Software Engineer, Self employed** *(July 2022 - Present)*  <br/>
-[Jinifai](https://www.jinifai.com/) (December 2022 - present)
+Jinifai (December 2022)
 - Work in progress. Side project. A scalable web application for generative AI tools. 
 - Main tech: python, django, fastAPI, react, redux, hugginface, rabbitMq, redis, postgresql, containers, docker, microservices, serverless inference, AWS, Runpod
 - Inference is serverless. The minimum number of workers is 0 (for cost reasons). This mean that you might experience a cold start and a delay of a few seconds when you first generate an image. 
