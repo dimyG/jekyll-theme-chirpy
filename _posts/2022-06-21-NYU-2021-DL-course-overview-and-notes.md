@@ -15,9 +15,7 @@ description: With one word, did I like it? Absolutely. In my opinion, the most i
 With one word, did I like it? Absolutely. In my opinion, the most important benefit from the course is LeCun’s distilled wisdom. 
 You will understand the current state of deep learning especially with regard to self-supervised learning, challenges, 
 proposed solutions and future plans. The main drawback? Maybe LeCun’s teaching style is not so student friendly 
-as Andrew Ng’s, at least for me. But after a while you are getting used to it and the rewards far outweigh the costs. Here are 
-[my notes](https://docs.google.com/document/d/1F2MtqLlLFmxYcpXRRd-kSz8Csi2VSgmZ/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true).
-(They contain a lot of images so the docx file is quite large...)
+as Andrew Ng’s, at least for me. But after a while you are getting used to it and the rewards far outweigh the costs.
 
 # The candidates
 Well, this year I made at last the decision to focus to AI, and I’m so grateful for this opportunity. A while back, 
@@ -117,9 +115,6 @@ has a short but great [list](https://www.youtube.com/watch?v=aircAruvnKk&list=PL
 on backpropagation too, where he explains the whole process in a very intuitive way (as usual).
 
 # My Notes
-I have a lot of notes from the course which you can find [here](https://docs.google.com/document/d/1F2MtqLlLFmxYcpXRRd-kSz8Csi2VSgmZ/edit?usp=sharing&ouid=101182743259035030658&rtpof=true&sd=true). 
-Perhaps you won't be able to view them online because the file is quite large for Google Docs (120MB). 
-Bear in mind that the language is not formal (to put it mildly) and they might contain a few errors. 
-Also notice that I regularly update them. 
-
-That's all for now, thanks for reading!
+I have a lot of notes from the course which you can find 
+<a href="{{ '/assets/files/deep_learning.pdf' | relative_url }}" target="_blank" rel="noopener">my notes</a>. 
+Bear in mind that the language is not formal (to put it mildly) and they might contain a few errors.
