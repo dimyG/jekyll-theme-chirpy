@@ -71,9 +71,6 @@ Not ignoring the signs but choosing to interpret them in a way that aligns with 
 And even beyond that, I argue that this isn't just the wisest course but your life's purpose.
 
 Schopenhauer wrote: "A man can do what he wills, but cannot will what he wills". And in this context what he wills would be his purpose.
-Or more dramatically, Hollywood put it in the mouth of Achilles: “I chose nothing. I was born and this is what I am”.
-
- ![Desktop View]({{ "/assets/img/posts/I_chose_nothing_1.png" | relative_url }})
 
 Notice that this concept of purpose is not a hedonistic one. It doesn't mean “I like it, therefore it's meaningful” neither does it mean the opposite. 
 An action in harmony with your values is not necessarily a pleasant one. When you help your elderly father to get 
@@ -93,11 +90,11 @@ bound to act in accordance with them.
 
 It could very well be, that your core values are not commonly accepted. You should not be intimidated by that because 
 you can't be meaningfully accused of being wrong or being against the way things should be. There is no objective moral 
-scale to judge you by. We cannot accuse a Nazi of not being faithful to his values or of not “following his calling", 
-or even of being objectively wrong. What we can do is accuse him of not having values similar to ours, fight him, 
+scale to judge you by. We cannot accuse a Nazi of being objectively wrong, and certainly not of being unfaithful 
+to his values or of not “following his calling”. What we can do is accuse him of not having values similar to ours, fight him, 
 defeat him, punish him for it and try to alter the environment that created him. You are therefore 
 "morally" free to follow your purpose, but so are others. So be prepared to face their judge and to
-receive the consequences of your actions (in this world or, who knows for sure, even in the other).
+receive the consequences of your actions (in this world or, who knows for sure, even in another).
 
 # Sidenotes
 ## Good and evil
