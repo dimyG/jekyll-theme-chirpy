@@ -10,6 +10,11 @@ description: "It seems then, that in all possible cases the wisest course is to 
 And even beyond that, I argue that this isn't just the wisest course but your life's purpose."
 ---
 
+> What if my value system is completely “wrong”? This post offers a way of thinking about grading values. It doesn’t by 
+any means commit the hubris of defining the right ones. It rather offers rational justification for collapsing this 
+question completely and encouraging you to trust your own. Keep in mind, that as any freedom brings heavy 
+responsibilities with it, the ethical one does so in the most life-defining way. 
+
 # The conflict between self and "right"
 For some time I had been searching for an opportunity to explore a hitherto unsolved but hugely important question, 
 without the answer to which I did not feel the certainty to make fully meaningful decisions when steering my life. The question 
