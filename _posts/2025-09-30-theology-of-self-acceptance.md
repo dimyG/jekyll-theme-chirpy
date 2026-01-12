@@ -10,33 +10,33 @@ description: "It seems then, that in all possible cases the wisest course is to 
 And even beyond that, I argue that this isn't just the wisest course but your life's purpose."
 ---
 
-> What if my value system is completely “wrong”? This post offers a way of thinking about grading values. It doesn’t by 
-any means commit the hubris of defining the right ones. It rather offers rational justification for collapsing this 
-question completely and encouraging you to trust your own. Keep in mind, that as any freedom brings heavy 
-responsibilities with it, the ethical one does so in the most life-defining way. 
-
 # The conflict between self and "right"
-For some time I had been searching for an opportunity to explore a hitherto unsolved but hugely important question, 
-without the answer to which I did not feel the certainty to make fully meaningful decisions when steering my life. The question 
+For some time I had been searching for an opportunity to explore a hitherto unsolved but very important question, 
+without the answer to which I couldn't fully feel the joy of conviction when steering my life. The question 
 that tormented me was this: Is there an objective purpose to human existence? Do we possess any cosmic significance, 
 any cosmic purpose? Are we called to serve some higher plan unknown to us? Or are we obliged to create our own 
-subjective goals, naming them important—even sacred—while relying entirely on our own subjective criteria ignoring
-completely the possibility of a higher, objective, external purpose?
+subjective goals, naming them important, even sacred, while relying entirely on our own subjective criteria ignoring
+completely the possibility of a higher, objective, external purpose? 
 
-I might have felt that my purpose was truly important to me, but could there nevertheless exist some higher cosmic 
-plan to which my values and trajectory are opposed? Merely entertaining that thought, was enough to shake the faith 
-in myself and I can't think of many worse things for one's wellbeing than constant self-doubt. This persistent, underlying feeling 
-deprived me of the joy of certainty, of full conviction and acceptance of my values and of myself. It took one more 
-internal exploration to resolve this issue and this is what this post is all about.
+I might feel that my purpose is truly important to me, but what if there is some higher cosmic 
+plan to which my values and trajectory are opposed? Merely entertaining that thought, is enough to shake faith 
+in myself, fueling an undercurrent self-doubt that can become life-draining. This post is an overview of the internal 
+exploration and conclusion that seems to provide some relief. 
+
+> At the end it's a rationalization try of a common attitude that many people have as a default, which is 
+something like "you don't know what's going on, so do it your way" and maybe claiming some enhancement by adding that 
+"doing so, increases the chances of fulfilling your purpose if one exists".
 
 # God and "human choice"
-When I characterize a purpose as "objective", I mean something that is not set by humanity itself but by 
-an external agent, something that we could call God. Thus, the existence of objectivity depends on whether such an agent exists. 
+When I characterize a purpose as "objective", I mean something that is not set by humans but by 
+an external agent, for example something like God. Thus, the existence of objectivity depends on whether such an agent exists. 
 Here the discussion often collapses into deadlock but luckily in this case, we can move beyond it: 
-Whether a divine plan exists, our behavior should remain the same.
+Whether a divine plan exists or not, our behavior should remain the same.
 
-If there is no God, there is neither an external purpose. The only thing a human can do is to create purposes
-for himself, both individual and collective, without any hesitation in devoting himself fully to them. 
+<img src="/assets/img/posts/havi.png" alt="havi framework" width="500"/>
+
+If there is no God, there is neither an external purpose. The only thing humans can do is to create purposes
+for themselves, both individual and collective, without any hesitation in devoting themselves fully to them. 
 Because if no objective purpose exists, the solution is simple: the most natural decision (provided there is no other 
 constraint) is to choose in alignment with your values and natural inclinations. Not only because the harmony of 
 actions, values, and inclinations brings with it a sense of fulfillment in itself, but also because such harmony 
@@ -44,13 +44,14 @@ is essential for any long-term path and for overcoming the obstacles and hardshi
 In this case, nothing stands against the formulation that your purpose is to bring your actions into harmony 
 with your values and inclinations. If you believe in something, pursue it unwaveringly.
 
-If there is a God and He is omnipotent, then again I do not think there can be any truly significant purpose, 
+If there is a God and he is omnipotent, then again I do not think there can be any truly significant purpose, 
 for everything has already been fulfilled through God’s omnipotence. There is nothing lacking, no gap that would be 
-essentially useful that humanity could meaningfully fill. This of course, does not mean that a purpose 
-could not still be set. Not a fundamentally significant one, but external and very real nonetheless. 
-If there is a God who isn't though omnipotent and there are things that remain beyond His reach, then there is room for some
-"cosmic" significance, for a purpose to which humanity might indeed have something to contribute. 
+essentially useful that humanity could meaningfully fill. This doesn't mean that a purpose 
+could not still be set, external and very real but fundamentally insignificant nonetheless. So as a matter of choice, 
+you might fall back to no purpose or to one of the following cases.
 
+If there is a God who is limited, not omnipotent, and there are things that remain beyond his reach, then there is room for some
+"cosmic" significance, for a purpose to which humanity might indeed have something to contribute. 
 In this case the problem is that even if an objective purpose truly exists, we can't really know what it is. For, it is not 
 revealed to us clearly, or it is not revealed at all (it might be that God doesn't intervene at all in human affairs).
 
@@ -64,10 +65,10 @@ with your values and inclinations.
 
 If God does intervene to point us to our purpose, common experience shows that His intervention is still cryptic, coming only in the form of 
 subtle, ambiguous signs. So in the face of such ambiguity we can either delegate our choices to external
-authorities (holy men, priests, gurus, your boss god forbidden) or choose according to our own subjective criteria. In both cases though, would it be 
-wise to suffer such a terrible cost, which is to live a life opposite to our values and inclinations 
-based on arbitrary interpretations? With the very real possibility of being wrong anyway due to misinterpretation which
-misses the true meaning of the given message? 
+authorities (holy men, priests, gurus, our bosses god forbidden) or choose according to our own subjective criteria. 
+In both cases though, would it be wise to suffer such a terrible cost, which is to live a life opposite to our values and inclinations 
+based on arbitrary interpretations (including ours)? With the very real possibility of being wrong anyway due to misinterpretation which
+misses the true meaning of the given message?
 Dostoevsky captured this tragedy writing: "And your worst sin is that you have destroyed and betrayed yourself for nothing".
 So once again I would argue that the wisest path is to bring your actions into harmony with your values and inclinations. 
 Not ignoring the signs but choosing to interpret them in a way that aligns with them. 
@@ -81,10 +82,16 @@ Notice that this concept of purpose is not a hedonistic one. It doesn't mean “
 An action in harmony with your values is not necessarily a pleasant one. When you help your elderly father to get 
 dressed, you don’t derive the feeling of satisfaction from the act itself but from its harmony with your core values.
 
-# Self acceptance
+# Good, evil and self acceptance
+To judge anything as good or evil, a criterion is required according to which we can grade. 
+And a criterion presupposes a purpose so that anything can be judged by its potential to bring us closer or further away form that purpose.
+Without it, nothing can be judged and everything is equal. Thus, because we 
+don't know the objective purpose we can neither know the objective good and the objective evil. Every action can only be judged
+according to the subjective criteria of the person judging it.
+
 A trap to avoid in this path, is to get in a pointless constant doubt of your own personal values. You have born and raised the way
 you are, with your very own set of inclinations and values instilled to you by fate (your genes, your family, your culture etc.).
-All these factors have shaped you into the person you are and there is not much meaning trying to fight them. Because 
+All these factors have shaped you into the person you are and there is not much meaning trying to fight them, because 
 there is no objective criterion to judge them by. Everything is subjective, noone knows the truth or what is 
 objectively good and evil. 
 
@@ -102,12 +109,45 @@ defeat him, punish him for it and try to alter the environment that created him.
 receive the consequences of your actions (in this world or, who knows for sure, even in another).
 
 # Sidenotes
-## Good and evil
-The question of objective purpose affects directly the question of objective good and evil. To judge anything as good or evil, a 
-criterion is required; but a criterion presupposes a purpose. We need a purpose to be able to judge if something brings 
-us closer to it or further away from it. Without a purpose, nothing can be judged and everything is equal. Thus, because we 
-don't know the objective purpose we can neither know the objective good and the objective evil. Every action can only be judged
-according to the subjective criteria of the person judging it.
+## The blurring effect
+When I'm contemplating opposing views, I sometimes try to predict their consequences on alternative future paths.
+What's important to stress though is that the future timeline within which this exercise takes place, should be quite
+short, maybe up to half a century or so. The reason is that there are so many unknowns as the horizon is elongated, 
+that predictions become meaningless. If supper intelligence arrives within a few decades, the cognitive base of decisions might 
+shift dramatically making most of what we think now about that period obsolete. Medium to long term future becomes blurr 
+and that leaves us with a small local area to work with. 
+
+For example, I was recently thinking about Europeanism and how possible would be for a european national identity to emerge at some point.
+Clearly this is a multi generation process that would need at least a century or so, leading us deep inside the blurred future area.
+At such a future, possibly with free energy, super-intelligence and new states of consciousness widely available, ideas such as nationalism might already 
+be relics of the past because the reasons that dictated their existence have completely disappeared. So sadly, it seems that in decision-making we are doomed 
+to settle for a local optimization framework for now.
+
+## Human diversity as an important value
+Fortunately the complete degeneration of values is very difficult, if not impossible. I say fortunately, 
+because I believe that diversity, both individual and cultural, is a precious trait of humans 
+and of their societies. A trait I would rather see preserved than replaced by a global homogenization of values and cultures.
+
+And as unrelated as it may initially seem, this preference of mine stems from (among other things) our ignorance of 
+the truth and of any objective purpose, if such a purpose exists. If we knew where we were meant to go, then we could 
+choose a particular human version or a particular cultural identity that would bring us closer to our objective 
+purpose. But since we do not know, diversity offers more chances of eventually reaching it, if it exists at all. 
+Just as, when faced with a black and uncharted map, one must advance in many directions in order to form a sense 
+of the terrain. Some path may reveal the destination but beforehand, we cannot know which one.
+
+If there is no purpose, nothing can be evaluated objectively, which means that diversity 
+itself becomes a matter of preference, that is, of values. Personally, it is something I desire, if only for 
+aesthetic reasons. But if we do desire it, how much diversity is needed? I would answer: the greatest possible. Yet the smaller the 
+entity, the harder it is for it to survive. What we seek then, is the smallest possible entity still large enough 
+to endure (at least for the foreseeable future) whether that entity is a language, a musical genre, an architectural 
+style, a philosophical view, a local shop, a sports club or anything else.
+
+## Ranking of values 
+The size of the entity also raises another troubling issue: fighting a losing battle. How meaningful is it to resist 
+the death of something when its end is inevitable? As with everything, the meaning arises from your values. One value 
+is to fight until the end, regardless of the outcome; that fight is a value in itself. A conflicting value is the 
+avoidance of futile effort. Thus, in choosing a stance on this matter, as on any other, you need a hierarchy of values. 
+**The ranking of values is fundamental for achieving eudaimonia and it should be among the very first aims one sets**.
 
 ## Happiness
 I sometimes hear the naive answer "happiness" to the question of life's purpose. Easy, but rather insufficient, for it misses
@@ -121,37 +161,11 @@ the purpose of life is not happiness per se, but the happiness that emerges from
 and inclinations. A form of "virtuous happiness" where virtue lies in that very harmony. Different for each individual, 
 this state is better described by the greek word "eudaimonia" as used by Aristotle.
 
-## Human diversity as an important value
-Fortunately the complete degeneration of values is very difficult, if not impossible. I say fortunately, 
-because I believe that diversity, both individual and cultural, is a precious trait of humans 
-and of their societies. A trait I would rather see preserved than replaced by a global homogenization of values and cultures.
-
-And as unrelated as it may initially seem, this preference of mine stems from (among other things) our ignorance of 
-the truth and of any objective purpose, if such a purpose exists. If we knew where we were meant to go, then we could 
-choose a particular human version or a particular cultural identity that would bring us closer to our objective 
-purpose. But since we do not know, diversity offers more chances of eventually reaching it, if it exists at all. 
-Just as, when faced with a black and uncharted map, one must advance in many directions in order to form a sense 
-of the terrain. Some path may reveal the destination—but beforehand, we cannot know which one.
-
-If there is no purpose, nothing can be evaluated objectively, which means that diversity 
-itself becomes a matter of preference—that is, of values. Personally, it is something I desire, if only for 
-aesthetic reasons. But if we do desire it, how much diversity is needed? I would answer: the greatest possible. Yet the smaller the 
-entity, the harder it is for it to survive. What we seek then, is the smallest possible entity still large enough 
-to endure—at least for the foreseeable future—whether that entity is a language, a musical genre, an architectural 
-style, a philosophy, a local shop, a sports club or anything else.
-
-## Ranking of values 
-The size of the entity also raises another troubling issue: fighting a losing battle. How meaningful is it to resist 
-the death of something when its end is inevitable? As with everything, the meaning arises from your values. One value 
-is to fight until the end, regardless of the outcome; that fight is a value in itself. A conflicting value is the 
-avoidance of futile effort. Thus, in choosing a stance on this matter, as on any other, you need a hierarchy of values. 
-**The ranking of values is fundamental for achieving eudaimonia and it should be among the very first aims one sets**.
-
 ## Overcoming dead ends by changing frame
 A trick we often use when we cannot judge between two options using a specific criterion, is to change 
 the criterion at decision time, to change the frame. For example, I may not know which of two actions will ultimately 
 prove more correct, so I choose the easier one. Or the more aesthetically appealing one. Or something else entirely. 
-As I reflected on this simple trick—one we often employ without even noticing—I began to wonder whether 
+As I reflected on this simple trick, one we often employ without even noticing, I began to wonder whether 
 it could be more than just a human strategy. Could it be possible that it is an inherent property of the universe itself, where 
 natural dead ends are overcome by other kinds of criteria? Where for example the position of a particle’s quantum leap 
 could be determined, not by necessity, but by something like aesthetic preference?
