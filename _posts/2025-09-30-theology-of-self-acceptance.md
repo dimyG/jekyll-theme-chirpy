@@ -91,14 +91,13 @@ according to the subjective criteria of the person judging it.
 
 A trap to avoid in this path, is to get in a pointless constant doubt of your own personal values. You have born and raised the way
 you are, with your very own set of inclinations and values instilled to you by fate (your genes, your family, your culture etc.).
-All these factors have shaped you into the person you are and there is not much meaning trying to fight them, because 
+All these factors have shaped you into the person you are and the person you are meant to become and there is little meaning trying to fight them, because 
 there is no objective criterion to judge them by. Everything is subjective, noone knows the truth or what is 
 objectively good and evil. 
 
-That doesn't mean though that you should avoid self growth. Being self-reflective and adapting your thinking to new data, 
-is part of what it takes to becoming wiser along the way. Yet without acting against your present values and 
-inclinations. That is, against your present self. If along the way new values take root within you, then you are 
-bound to act in accordance with them.
+This doesn't mean of course that you should become a "status-quo-phile" conveniently settling in whatever status-quo you 
+find yourself in, avoiding the effort of self-reflection and growth. Being self-reflective and adapting to new data, 
+is part of what it takes to become wiser along the way.
 
 It could very well be, that your core values are not commonly accepted. You should not be intimidated by that because 
 you can't be meaningfully accused of being wrong or being against the way things should be. There is no objective moral 
@@ -121,7 +120,7 @@ For example, I was recently thinking about Europeanism and how possible would be
 Clearly this is a multi generation process that would need at least a century or so, leading us deep inside the blurred future area.
 At such a future, possibly with free energy, super-intelligence and new states of consciousness widely available, ideas such as nationalism might already 
 be relics of the past because the reasons that dictated their existence have completely disappeared. So sadly, it seems that in decision-making we are doomed 
-to settle for a local optimization framework for now.
+to settle for a local search framework for now.
 
 ## Human diversity as an important value
 Fortunately the complete degeneration of values is very difficult, if not impossible. I say fortunately, 
