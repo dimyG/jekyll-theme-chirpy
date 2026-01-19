@@ -127,32 +127,38 @@ Fortunately the complete degeneration of values is very difficult, if not imposs
 because I believe that diversity, both individual and cultural, is a precious trait of humans 
 and of their societies. A trait I would rather see preserved than replaced by a global homogenization of values and cultures.
 
-And as unrelated as it may initially seem, this preference of mine stems from (among other things) our ignorance of 
-the truth and of any objective purpose, if such a purpose exists. If we knew where we were meant to go, then we could 
-choose a particular human version or a particular cultural identity that would bring us closer to our objective 
-purpose. But since we do not know, diversity offers more chances of eventually reaching it, if it exists at all. 
-Just as, when faced with a black and uncharted map, one must advance in many directions in order to form a sense 
-of the terrain. Some path may reveal the destination but beforehand, we cannot know which one.
+As unrelated as it may initially seem, this preference of mine stems from our ignorance of 
+the truth. If we knew where we are meant to go, then we could 
+choose a particular human version or a particular cultural identity that would bring us closer to that goal. 
+But since we don't know, diversity offers more chances of eventually reaching it (that is, if it exists at all),
+through the variety of choices and their interactions.
+Just as when faced with a black and uncharted map, one must advance in many directions in order to unveil the surroundings. 
+Some path may eventually reveal something important, but beforehand we can't know which one. 
 
-If there is no purpose, nothing can be evaluated objectively, which means that diversity 
+On the other hand, if there is no purpose, nothing can be evaluated objectively which means that diversity 
 itself becomes a matter of preference, that is, of values. Personally, it is something I desire, if only for 
 aesthetic reasons. But if we do desire it, how much diversity is needed? I would answer: the greatest possible. Yet the smaller the 
 entity, the harder it is for it to survive. What we seek then, is the smallest possible entity still large enough 
-to endure (at least for the foreseeable future) whether that entity is a language, a musical genre, an architectural 
+to endure (at least for the foreseeable unblurred future) whether that entity is a language, a musical genre, an architectural 
 style, a philosophical view, a local shop, a sports club or anything else.
 
 ## Ranking of values 
 The size of the entity also raises another troubling issue: fighting a losing battle. How meaningful is it to resist 
 the death of something when its end is inevitable? As with everything, the meaning arises from your values. One value 
 is to fight until the end, regardless of the outcome; that fight is a value in itself. A conflicting value is the 
-avoidance of futile effort. Thus, in choosing a stance on this matter, as on any other, you need a hierarchy of values. 
-**The ranking of values is fundamental for achieving eudaimonia and it should be among the very first aims one sets**.
+avoidance of futile effort. Thus, in choosing a stance on this matter, as on any other, you need a hierarchy of values 
+which is fundamental for achieving eudaimonia. 
+
+> Notice however, that a value system is not truly validated until it is tested by reality. Until then, it 
+> remains merely nominal. Values that do not come into conflict in one situation may clash in another 
+> and it is in such moments that their true ordering is revealed. Peace and war for example, are
+> radically different conditions, and they test a value system in fundamentally different ways.
 
 ## Happiness
-I sometimes hear the naive answer "happiness" to the question of life's purpose. Easy, but rather insufficient, for it misses
-something important. Try to imagine a perfect drug that generates a permanent sense of fulfillment 
-and happiness regardless of external conditions and without any side effect. Such a thing could become a reality in the future. 
-Could we ever accept that the users of such a drug have thereby achieved the purpose of life? 
+A common answer on the question "what is life's purpose" is sometimes "happiness". An appealing answer for sure, 
+but is it complete? Imagine a perfect drug with the potential to generate a permanent sense of fulfillment 
+and happiness regardless of external conditions and crucially, without any side effect. Such a thing could become 
+very real and widely available in the future. Could we ever accept that the users of such a drug have thereby achieved the purpose of life? 
 
 Some of them, yes. Those who hold as their supreme value happiness itself as a feeling. 
 Yet I think that for many people this state, as pleasant as it might be, would by no means be fulfilling. Because I think,
