@@ -2,8 +2,8 @@
 title: NYU 2021 Deep Learning course overview and notes 
 author: Dimitris Georgoulas
 date: 2022-06-21 11:30:00 +0200
-categories: [Machine Learning, Deep Learning]
-tags: [machine learning]
+categories: [Artificial Intelligence, artificial intelligence]
+tags: [artificial intelligence]
 toc: true 
 header-img: /assets/img/NYU_2021_DL_course/course01.JPG
 description: With one word, did I like it? Absolutely. In my opinion, the most important benefit from the course is LeCun’s distilled wisdom. You will understand the current state of deep learning especially with regard to self-supervised learning, challenges, proposed solutions and future plans.

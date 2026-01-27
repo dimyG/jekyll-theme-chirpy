@@ -3,7 +3,7 @@ title: Animations with d3 and react
 author: Dimitris Georgoulas
 date: 2020-12-02 11:30:00 +0200
 categories: [Web-Development, Javascript]
-tags: [javascript, react, d3]
+tags: [javascript]
 toc: true
 ---
 

@@ -2,7 +2,7 @@
 title: Theology of self-acceptance
 author: Dimitris Georgoulas
 date: 2025-09-30 11:30:00 +0200
-categories: [Philosophy]
+categories: [Philosophy, philosophy]
 tags: [philosophy]
 toc: true
 header-img: /assets/img/posts/temple_of_poseidon.png
