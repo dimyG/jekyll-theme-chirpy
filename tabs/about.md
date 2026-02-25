@@ -4,14 +4,14 @@ author: Dimitris Georgoulas
 toc: true
 ---
 
-I'm a software engineer with a diverse technical background. This is my personal blog which I intend to use both as a showcase of
+I'm a mechanical and software engineer with professional experience in the software industry since 2009, 
+combining web development and engineering analysis skills with an entrepreneurial attitude. 
+This is my personal blog which I intend to use both as a showcase of
 [my work experience]({% post_url 2020-05-30-work-experience-overview %}) and as
 a means by which I can express myself, writing for anything I consider interesting or important.
 
-## A few things about me
 Since I believe that character and personality are at least as important as the technical skills, I think it would be more appropriate
-if I would start from there.
-
+if I start from there. The following list might not be exhaustive but is still representative and genuine nonetheless.
 - I love to explore and understand the big picture before digging into the details.
 - I love the details too, because they make things work and offer the satisfaction of accomplishment.
 - Putting the pieces together is one of my most enjoyable experiences.
@@ -32,30 +32,8 @@ if I would start from there.
 - As I evolve, the limits of my potential become more obvious to me.
 I'm accepting them, becoming more realist and humble along the way, trying to embrace delegation and leverage.
 
-This list is not exhaustive by any means, but is representative and genuine nonetheless.
-
-## Technical Skills
->In a nutshell my experience includes 5 years of mechanical engineering studies, 5 years in a technical support role on engineering analysis software,
->4 years as a full stack web developer and founder,
->1,5 years freely exploring blockchains, finance and deep learning. From start of 2023 I work as a freelancer in software engineering roles.
-
-I have a mechanical engineering degree from a
-top tier Greek university, and I started my career as a support engineer in one of the most successful software
-development companies in the field of engineering analysis software. It was not purely a developer role,
-but I loved programming, and I was learning web development on the side.
-A few years later I left the company to create a web application and even though it wasn’t financially successful,
-I gained valuable software development experience as I architected, designed, and developed the whole system from scratch.
-I dedicated the period that followed to explore the fields of blockchain and deep learning, created a few projects for
-fun and worked on two startups as a software engineer. My expertise lies in the python and javascript ecosystems.
-
-- I now know the significance of designing a good distributed architecture from the start, with scalability in mind,
-implementing microservices with testing, observability and continuous delivery.
-- I have a good understanding of the software development life cycle since I have built things from scratch.
-- I greatly appreciate good documentation and small commits.
-- I understand big O notation, data structures and algorithms.
-- I wish I had become familiar with design patterns much earlier in my life.
-- I'm comfortable working with
-python, django, django-rest-framework, fastAPI, numpy, pandas, javascript, react, redux, postgresql, redis, rabbitmq, linux,
-containers, docker, git, AWS, Heroku, serverless.
-
-Thanks for coming by.
+My professional background spans multiple domains:
+- Software engineering and full-stack development: Design and implementation of end-to-end web systems, from backend architecture and APIs to frontend interfaces and deployment pipelines.
+- Digital twins and infrastructure monitoring: Development of data-driven models integrating sensor streams, physics-based simulations and optimization workflows for structural health monitoring.
+- Computer-Aided Engineering (CAE): Numerical simulations, FEM-based modeling and engineering analysis for structural and mechanical systems with hands-on experience in engineering customer support.
+- Entrepreneurship: Founded and operated a small web technology venture, gaining experience in product strategy, market validation, execution under resource constraints and the realities of building from zero as a solo founder.
