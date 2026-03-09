@@ -10,8 +10,14 @@ This is my personal blog which I intend to use both as a showcase of
 [my work experience]({% post_url 2020-05-30-work-experience-overview %}) and as
 a means by which I can express myself, writing for anything I consider interesting or important.
 
-Since I believe that character and personality are at least as important as the technical skills, I think it would be more appropriate
-if I start from there. The following list might not be exhaustive but is still representative and genuine nonetheless.
+My professional background spans multiple domains:
+- Software engineering and full-stack development: Design and implementation of end-to-end web systems, from backend architecture and APIs to frontend interfaces and deployment pipelines.
+- Digital twins and infrastructure monitoring: Development of data-driven models integrating sensor streams, physics-based simulations and optimization workflows for structural health monitoring.
+- Computer-Aided Engineering (CAE): Numerical simulations, FEM-based modeling and engineering analysis for structural and mechanical systems with hands-on experience in engineering customer support.
+- Entrepreneurship: Founded and operated a small web technology venture, gaining experience in product strategy, market validation, execution under resource constraints and the realities of building from zero as a solo founder.
+
+Since I consider character and personality to be at least as important as technical skills, I'm including a brief list of some traits that describe me. 
+It might not be exhaustive, but it is representative and genuine nonetheless.
 - I love to explore and understand the big picture before digging into the details.
 - I love the details too, because they make things work and offer the satisfaction of accomplishment.
 - Putting the pieces together is one of my most enjoyable experiences.
@@ -32,8 +38,3 @@ if I start from there. The following list might not be exhaustive but is still r
 - As I evolve, the limits of my potential become more obvious to me.
 I'm accepting them, becoming more realist and humble along the way, trying to embrace delegation and leverage.
 
-My professional background spans multiple domains:
-- Software engineering and full-stack development: Design and implementation of end-to-end web systems, from backend architecture and APIs to frontend interfaces and deployment pipelines.
-- Digital twins and infrastructure monitoring: Development of data-driven models integrating sensor streams, physics-based simulations and optimization workflows for structural health monitoring.
-- Computer-Aided Engineering (CAE): Numerical simulations, FEM-based modeling and engineering analysis for structural and mechanical systems with hands-on experience in engineering customer support.
-- Entrepreneurship: Founded and operated a small web technology venture, gaining experience in product strategy, market validation, execution under resource constraints and the realities of building from zero as a solo founder.
