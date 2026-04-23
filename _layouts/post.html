@@ -65,9 +65,11 @@ layout: default
 
       <div class="post-content">
 
+        {% comment %}
         {% if page.image %}
           <img src="{{ page.image }}">
         {% endif %}
+        {% endcomment %}
 
         {{ content }}
 
