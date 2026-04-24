@@ -66,19 +66,17 @@ political organization and plays its own role in identity formation. There are c
 neighboring states share four of the five primary characteristics but differ in political organization, and this 
 alone may generate identity differentiation, even independently of historical memory. Examples include the 
 United States and Canada, North and South Korea, Romania and Moldova and others. This also implies that if the difference 
-in political organization ceases to exist, identities may converge into one. In a 3d object, when the 3rd 
-dimension collapses, only the 2d projection of the object onto the lower-dimensional plane remains and the 
-previously distinct objects are now merged into one.
-<br><img src="/assets/img/posts/nations_2d_projection.jpg" alt="nations_2d_projection" width="400"/>
+in political organization ceases to exist, identities may converge into one.
 
 1. Any projection of a five-dimensional identity onto lower dimension spaces can function as a distinct cultural 
 attractor. Multidimensional identities thus possess multiple expressions and shades.
+<br><img src="/assets/img/posts/nations_2d_projection.jpg" alt="nations_2d_projection" width="400"/>
 
 1. The same characteristic may be of minor importance in one identity but far more significant in another. 
 Genetic composition for example, plays little to no role in the case of the United States. Its identity has been 
 shaped to encompass multiple genetic profiles, effectively rendering it independent of them, leading to a more 
-generic 4d identity (instead of a narrower 5d). By contrast, in the case of China, genetic composition plays a 
-much more substantial role.
+generic identity that spans the entire 5th dimension (or alternatively it can be thought of as a generic 4d identity 
+instead of a narrower 5d one). By contrast, in the case of China, genetic composition plays a much more substantial role.
 
 1. Any combination of any number of the five basic characteristics, capable of generating emotional identification 
 and differentiation from others, can function as a distinct identity and begin to influence the course of human 
