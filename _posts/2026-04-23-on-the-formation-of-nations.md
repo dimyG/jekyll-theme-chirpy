@@ -51,17 +51,16 @@ easier to reason in three dimensions, I use simplified three-dimensional represe
 <img src="/assets/img/posts/nations_3d_depiction.jpg" alt="nations_3d_depiction" width="400"/>
 
 # Some observations
+1. The way of life (customs, traditions, myths, practices, music, architecture, cuisine and so on) or what we commonly 
+refer to as shared culture, is a derivative primarily of historical memory and religion as well as political organization and language. 
+
 1. Within this framework, historical memory includes not only past events but also present events of great importance, 
 such that they are already considered historical. For example, theater in classical Greece was already regarded 
 by contemporaries as a defining element of their cultural identity so its existence was already of historical 
 importance. The American flag on the Moon is another such case. I classify such significant cultural elements 
 under historical memory regardless of their temporal dimension.
 
-2. The magnitude of a vector may be related to time. For example, as time passes, the extent of historical 
-memory grows, altering the concept of identity. Thus, over time, the position of the volume occupied by an identity, 
-changes. Identity evolves and becomes enriched.
-
-3. Political organization reflects the way a society is structured, how it makes decisions, distributes resources, 
+1. Political organization reflects the way a society is structured, how it makes decisions, distributes resources, 
 manages security and challenges, and defines rights and obligations. The modern state is the most familiar form of 
 political organization and plays its own role in identity formation. There are cases where the populations of two 
 neighboring states share four of the five primary characteristics but differ in political organization, and this 
@@ -72,16 +71,16 @@ dimension collapses, only the 2d projection of the object onto the lower-dimensi
 previously distinct objects are now merged into one.
 <br><img src="/assets/img/posts/nations_2d_projection.jpg" alt="nations_2d_projection" width="400"/>
 
-4. Any projection of a five-dimensional identity onto lower dimension spaces can function as a distinct cultural 
+1. Any projection of a five-dimensional identity onto lower dimension spaces can function as a distinct cultural 
 attractor. Multidimensional identities thus possess multiple expressions and shades.
 
-5. The same characteristic may be of minor importance in one identity but far more significant in another. 
+1. The same characteristic may be of minor importance in one identity but far more significant in another. 
 Genetic composition for example, plays little to no role in the case of the United States. Its identity has been 
 shaped to encompass multiple genetic profiles, effectively rendering it independent of them, leading to a more 
 generic 4d identity (instead of a narrower 5d). By contrast, in the case of China, genetic composition plays a 
 much more substantial role.
 
-6. Any combination of any number of the five basic characteristics, capable of generating emotional identification 
+1. Any combination of any number of the five basic characteristics, capable of generating emotional identification 
 and differentiation from others, can function as a distinct identity and begin to influence the course of human 
 history. In extreme cases, even a single characteristic might suffice to initiate a process of identity autonomy. 
 However, such a nascent identity would be highly vulnerable and fragile in the absence of substantial historical 
@@ -90,25 +89,24 @@ move toward deeper political integration, it would begin to acquire a more signi
 political organization, one of the five core characteristics. Yet with just one out of five, 
 it would remain extremely fragile as an identity.
 
-7. The closer two identities are, the more likely it is that one will absorb the other. A case in point is the 
+1. The closer two identities are, the more likely it is that one will absorb the other. A case in point is the 
 Normans, who were ultimately absorbed into the kingdoms of France and England, despite having a highly significant 
 political organization that endured for roughly two centuries and influenced medieval Europe, to a point that it 
 started generating its own historical memory. However, 4 of the 5 characteristics were very similar to those 
 of neighboring kingdoms. Once their political organization collapsed, maintaining a distinct identity became 
 impossible. Language and religion have been, and remain, the dominant attributes of differentiation. 
 
-8. Locality is subsumed within political organization. 
+1. Locality is subsumed within political organization.
 
-9. The way of life (customs, traditions, myths, practices, music, architecture, cuisine and so on) or what we commonly 
-refer to as shared culture, is a derivative primarily of historical memory and religion as well as political organization and language. 
+1. Self-perception, and perception by others, is a product of identity differentiation and homoism (the need to belong). 
 
-10. Self-perception, and perception by others, is a product of identity differentiation and homoism (the need to belong). 
+1. Solidarity arises from shared self-perception. 
 
-11. Solidarity arises from shared self-perception. 
+1. The use of a distinct name for an identity reinforces its differentiation from others.
 
-12. The use of a distinct name for an identity reinforces its differentiation from others.
+1. The position of the volume occupied by an identity changes over time. Identities evolve.
 
-13. These five primary characteristics have been decisive in identity formation from the deep past to the present, 
+1. These five primary characteristics have been decisive in identity formation from the deep past to the present, 
 though their influence may vary over time and place.
 
 There are many historical processes that could be examined through this lens, processes that unfold over centuries, 
