@@ -11,17 +11,14 @@ And even beyond that, I argue that this isn't just the wisest course but your li
 ---
 
 # The conflict between self and "right"
-For some time I had been searching for an opportunity to explore a hitherto unsolved but very important question, 
-without the answer to which I couldn't fully feel the joy of conviction when steering my life. The question 
-that tormented me was this: Is there an objective purpose to human existence? Do we possess any cosmic significance, 
+For quite some time there was a question circling in my head, a question whose answer could have a 
+significant impact not only on the joy that arises from conviction, but also on the direction in which I was heading.
+Is there an objective purpose to human existence? Do we possess any cosmic significance, 
 any cosmic purpose? Are we called to serve some higher plan unknown to us? Or are we obliged to create our own 
 subjective goals, naming them important, even sacred, while relying entirely on our own subjective criteria ignoring
 completely the possibility of a higher, objective, external purpose? 
-
-I might feel that my purpose is truly important to me, but what if there is some higher cosmic 
-plan to which my values and trajectory are opposed? Merely entertaining that thought, is enough to shake faith 
-in myself, fueling an undercurrent self-doubt that can become life-draining. This post is an overview of the internal 
-exploration and conclusion that seems to provide some relief. 
+You might feel that your purpose is truly important, but what if there is some higher cosmic 
+plan to which your trajectory is opposed? This post presents an overview of my initial conclusions on this matter.
 
 > At the end it's a rationalization try of a common attitude that many people have as a default, which is 
 something like "you don't know what's going on, so do it your way" and maybe claiming some enhancement by adding that 
