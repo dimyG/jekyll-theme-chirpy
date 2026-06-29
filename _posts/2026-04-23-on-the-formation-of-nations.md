@@ -21,7 +21,8 @@ in human life, influencing value systems, aspirations and decisions, and thus di
 
 This property of humanity, its evolution through autonomous identity-bearing entities expressed as differentiated 
 cultures, may have both advocates and critics. In my view however, it leans to the positive side, not only due to 
-the aesthetic dimension but also by securing humanity’s well-being through the resilience that diversity provides. 
+[ethics]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %}) and aesthetics but also 
+by securing humanity’s well-being through the resilience that diversity provides. 
 If, for example, one culture declines due to the dominance of flawed ideas or any other internal or external cause, 
 another contemporary culture may be flourishing and prosperous, thereby preventing the world from descending into 
 darkness. Moreover, however strongly one may believe that their own culture and way of life is the chosen one and 
