@@ -6,8 +6,8 @@ categories: [Philosophy, philosophy]
 tags: [philosophy]
 toc: true
 image: 
-description: "It is a group of people sharing certain common characteristics, of which I single out five primary ones, 
-to which all others may be reduced."
+description: "An exploration of collective identity, consciousness, and a proposed ethical framework that extends 
+negative utilitarianism through the preservation of conscious diversity."
 ---
 
 # Universalism

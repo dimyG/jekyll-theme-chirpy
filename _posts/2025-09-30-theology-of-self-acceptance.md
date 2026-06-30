@@ -73,6 +73,8 @@ Not ignoring the signs but choosing to interpret them in a way that aligns with 
 > It seems then, that in all cases the wisest course is to bring your actions into harmony with your values and inclinations.
 And even beyond that, I argue that this isn't just the wisest course but your life's purpose.
 
+Ancient wisdom's touch on this matter is expressed with the famous saying "Σπάρταν έλαχες, ταύταν κόσμει" literally meaning "Sparta fell to your lot, adorn her" 
+or more freely translated as "Bloom where you are planted".
 Schopenhauer wrote: "A man can do what he wills, but cannot will what he wills". And in this context what he wills would be his purpose.
 
 Notice that this concept of purpose is not a hedonistic one. It doesn't mean “I like it, therefore it's meaningful” neither does it mean the opposite. 
