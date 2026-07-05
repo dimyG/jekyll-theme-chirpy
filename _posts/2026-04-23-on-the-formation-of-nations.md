@@ -114,3 +114,58 @@ Mozarab and Muladi identities in the Arabic Iberia, the Arabization of Egypt etc
 
 > The purpose of this post is to briefly present a simple mechanistic framework through which we can understand 
 > historical processes and project future developments in a more structured way.
+
+# Meta-identities
+Identities are not static entities. They evolve slowly over time. All ancient cultures that have survived to the 
+present day (Egyptians, Chinese, Greeks, Indians, Iranians, etc.) have passed through different civilizational epochs, 
+undergoing major transformations along the way.
+
+The Greeks, specifically, have passed through three major epochs and two major transitions: Mycenaean to Classical to 
+Orthodox (using the term Orthodox here in a broad cultural sense, not merely in its religious aspect). Each cultural 
+phase forms a distinct identity without however, beginning from a blank slate. Rather, it incorporates the previous one 
+and evolves from it, forming a continuous “identity branch”. This process never stops. Identities continue to evolve 
+even within a single epoch, although the changes are milder.
+
+Understanding the characteristics that define an identity, together with knowledge of its historical path, facilitates 
+the recognition of an identity branch which, in the Greek case, encompasses the Mycenaean, the Classical and the 
+Orthodox form. When viewed as a whole, the notion of an "identity of identities," or a **meta-identity** becomes 
+evident. An identity that spans the entire branch.
+
+**More about the Greek case** <br>
+During the first major transition, from the Mycenaean to the Classical form, the Bronze Age Collapse and the subsequent
+Dark Ages brought profound transformations. The political organization changed dramatically. The palatial system 
+collapsed and the great administrative centers were largely abandoned. Parts of the historical memory were lost, most
+notably the writing system. Religion also evolved. Some deities disappeared while others rose to prominence or assumed
+new roles. Yet the fundamental religious worldview remained largely unchanged. The Greek language survived, and with
+it many elements of historical memory, including myths, legends and heroic traditions. These transformations 
+unfolded over several centuries, until, at the other end, a new cultural entity emerged. It was
+clearly distinct from its predecessor, yet equally clearly its continuation. This new identity continued to evolve,
+although at the slower pace characteristic of a stable civilizational epoch. While political organizations changed
+repeatedly, all other aspects of identity evolved much more mildly.
+
+The next great transition was that from Greco-Roman antiquity to the medieval world, which produced the most profound
+transformation of the Greek identity: from its Classical to its Orthodox form. The most obvious change was, of course,
+the adoption of Christianity, accompanied by fundamental changes in the political organization, following the fall of Rome and the
+establishment of a new political entity, the Eastern Roman Empire. Over the course of several centuries, the Orthodox
+identity of “Romios” took shape. Once again, the Greek language endured, preserving alongside it much of the
+historical memory of the previous era. Just as the Mycenaean world co-shaped the Classical one, the Classical
+world co-shaped the Orthodox one, transmitting its influence despite the challenges that followed 
+the rise of Christianity. One consequence of this enduring continuity was the European Renaissance, 
+which was ignited by the Byzantine scholarship that preserved, copied, and ultimately transmitted the classical 
+works to the West, following the Fall of Constantinople.
+
+The intelligentsia has always been aware of the branch to which it belonged, and of its root, as is evident from 
+its writings. For the uneducated medieval peasant however, the Orthodox identity, that of Romios, was naturally 
+the dominant one, since it had constituted his everyday reality for centuries. The role of the modern Greek state 
+was to demonstrate and underscore the continuity of the Greek cultural branch and to cultivate an awareness of the 
+Greek meta-identity through knowledge and education. At this point, it is important to distinguish education from 
+propaganda. Teaching historical truth is an obligation. Teaching falsehoods by contrast, is both toxic and 
+dangerous, as is the case in some modern states.
+
+**A few words about the Turkish case** <br>
+The notion of a meta-identity can also be observed in younger cultures. Turkish culture for example, exhibits a 
+comparable pattern when viewed across a sufficiently long historical timescale. The sense of identity 
+of a 7th-century AD nomadic Tengrist Göktürk of the Asian Steppe would have differed profoundly from that of a 
+modern Muslim Turk in Asia Minor. Nevertheless, the Göktürks are rightly regarded as part of the 
+broader Turkish cultural heritage, as reflected in the modern Turkish education system, cultivating a 
+Turkish meta-identity that transcends the distinct historical identities that compose it.

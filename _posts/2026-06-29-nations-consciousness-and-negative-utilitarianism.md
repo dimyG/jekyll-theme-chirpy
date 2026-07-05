@@ -67,8 +67,9 @@ universe's conscious diversity. The same reasoning applies to nations. The disti
 experience that arise from national cultures also constitute part of that diversity and deserve preservation, 
 provided they are stripped of the extreme forms of suffering they can produce.
 
+Suffering caused by war is the first thing that comes to mind, yet, is war really a consequence of nations existence? 
 History offers countless examples of peoples who have coexisted peacefully for centuries and of peoples who have 
-fallen into devastating conflict. Yet even if, in some hypothetical future, we succeeded in abolishing nations 
+fallen into devastating conflict. So even if, in some hypothetical future, we succeeded in abolishing nations 
 altogether, would we also abolish war? I seriously doubt it. War is ultimately a product of two factors: 
 finite resources and human nature. As long as those two conditions remain unchanged, conflict would almost 
 certainly persist. It might be happening in different places and times, but it would exist nevertheless, 
