@@ -24,58 +24,65 @@ plan to which your trajectory is opposed? This post presents an overview of my i
 something like "you don't know what's going on, so do it your way" and maybe claiming some enhancement by adding that 
 "doing so, increases the chances of fulfilling your purpose if one exists".
 
-# God and "human choice"
+# Purpose with or without God
 When I characterize a purpose as "objective", I mean something that is not set by humans but by 
-an external agent, for example something like God. Thus, the existence of objectivity depends on whether such an agent exists. 
-Here the discussion often collapses into deadlock but luckily in this case, we can move beyond it: 
-Whether a divine plan exists or not, our behavior should remain the same.
+the creator himself, which means that objectivity depends on whether a creator exists or not. 
+We might not know the truth on this matter, but nevertheless we can reason beyond that uncertainty. 
+Whether a creator with a divine plan exists or not, the mechanism of purpose selection should remain the same.
 
 <img src="/assets/img/posts/havi.png" alt="havi framework" width="500"/>
 
-If there is no God, there is neither an external purpose. The only thing humans can do is to create purposes
-for themselves, both individual and collective, without any hesitation in devoting themselves fully to them. 
-Because if no objective purpose exists, the solution is simple: the most natural decision (provided there is no other 
-constraint) is to choose in alignment with your values and natural inclinations. Not only because the harmony of 
+If there is no God, there is neither an external purpose and humans are completely "free" to create purposes
+for themselves, without any hesitation in devoting themselves fully to them. 
+The most natural approach here (provided there is no other 
+constraint) is to live in alignment with your values and natural inclinations. Not only because the harmony of 
 actions, values, and inclinations brings with it a sense of fulfillment in itself, but also because such harmony 
-is essential for any long-term path and for overcoming the obstacles and hardships that may arise along the way. 
-In this case, nothing stands against the formulation that your purpose is to bring your actions into harmony 
+brings robustness to your path, helping you overcome obstacles and hardships that may arise along the way. 
+In this context, nothing stands against the formulation that your purpose is to bring your actions into harmony 
 with your values and inclinations. If you believe in something, pursue it unwaveringly.
 
-If there is a God and he is omnipotent, then again I do not think there can be any truly significant purpose, 
-for everything has already been fulfilled through God’s omnipotence. There is nothing lacking, no gap that would be 
-essentially useful that humanity could meaningfully fill. This doesn't mean that a purpose 
-could not still be set, external and very real but fundamentally insignificant nonetheless. So as a matter of choice, 
-you might fall back to no purpose or to one of the following cases.
+If there is a God and he is omnipotent, then sadly, once again I don't think there can be any truly significant purpose, 
+for everything has already been fulfilled through God’s omnipotence. There is nothing lacking, 
+no essential gap that humanity could meaningfully fill. This doesn't mean that a purpose 
+could not still be assigned to us, external and very real but fundamentally insignificant nonetheless, akin to 
+a game's purpose if you will. So if you do not like compromises, 
+you might want to fall back to no purpose at all or, as a matter of choice, to one of the following cases.
 
-If there is a God who is limited, not omnipotent, and there are things that remain beyond his reach, then there is room for some
+If there is a God who is limited, and there are things that remain beyond his reach, then there is room for some
 "cosmic" significance, for a purpose to which humanity might indeed have something to contribute. 
-In this case the problem is that even if an objective purpose truly exists, we can't really know what it is. For, it is not 
-revealed to us clearly, or it is not revealed at all (it might be that God doesn't intervene at all in human affairs).
+In this case the problem is that even if an objective purpose truly exists, we can't really know what it is, since it is not 
+revealed to us clearly or it is not revealed at all (it might be that God doesn't intervene at all in human affairs).
 
-So if God doesn't intervene to point us to a direction, all we are left with, is the natural way humans have to choose their objectives. 
-Which is values and natural inclinations. Besides, this mechanism of selection is the best
-“lever” for the fulfillment of any purpose. And it could be that this is the plan after all. 
-Because this pattern seems very much in tune with the rest of nature. Random people are scattered randomly across 
-different environments, each “freely” pursuing their own goals, together shaping a broader outcome. 
-Therefore, we could once again formulate the argument that your purpose is to bring your actions into harmony 
+So if God doesn't intervene to point us to a direction, all we are left with, is the natural way humans have to choose their objectives
+which is in accordance with their values and inclinations. This mechanism of selection is the best
+“lever” for the fulfillment of any purpose due to its robustness in the face of adversity and so it seems like the best option under 
+a "non-intervantion" policy both for the human and the goal setting creator.
+This pattern seems very much in tune with the rest of nature where individual elements scattered randomly across 
+different environments, each simply functioning based on its own nature, give rise to elaborate outcomes. 
+So we could once again formulate the argument that your purpose is to bring your actions into harmony 
 with your values and inclinations. 
 
-If God does intervene to point us to our purpose, common experience shows that His intervention is still cryptic, coming only in the form of 
-subtle, ambiguous signs. So in the face of such ambiguity we can either delegate our choices to external
-authorities (holy men, priests, gurus, our bosses god forbidden) or choose according to our own subjective criteria. 
-In both cases though, would it be wise to suffer such a terrible cost, which is to live a life opposite to our values and inclinations 
-based on arbitrary interpretations (including ours)? With the very real possibility of being wrong anyway due to misinterpretation which
+If God does intervene to point us to our purpose, "common" experience shows that interventions are still cryptic, appearing only with the form of 
+subtle, ambiguous signs. In the face of such ambiguity you can either delegate your choices to external
+authorities or choose according to your own subjective criteria. In both cases though, interprettion is subjective.
+So, would it be wise to suffer such a terrible cost, which is to live a life opposite to your values and inclinations 
+based on arbitrary interpretations (including yours)? With the very real possibility of being wrong anyway due to misinterpretation that
 misses the true meaning of the given message?
-Dostoevsky captured this tragedy writing: "And your worst sin is that you have destroyed and betrayed yourself for nothing".
-So once again I would argue that the wisest path is to bring your actions into harmony with your values and inclinations. 
-Not ignoring the signs but choosing to interpret them in a way that aligns with them. 
+Dostoevsky captured this tragedy writing "and your worst sin is that you have destroyed and betrayed yourself for nothing".
+So once again I would argue that the wisest path is to bring your actions into harmony with your values and inclinations, 
+not ignoring the signs but choosing to interpret them in a way that aligns with them. 
 
 > It seems then, that in all cases the wisest course is to bring your actions into harmony with your values and inclinations.
-And even beyond that, I argue that this isn't just the wisest course but your life's purpose.
+And even beyond that, I would argue that this isn't just the wisest course but your life's purpose.
 
-Ancient wisdom's touch on this matter is expressed with the famous saying "Σπάρταν έλαχες, ταύταν κόσμει" literally meaning "Sparta fell to your lot, adorn her" 
-or more freely translated as "Bloom where you are planted".
-Schopenhauer wrote: "A man can do what he wills, but cannot will what he wills". And in this context what he wills would be his purpose.
+Variants of this have been expressed multiple times through the ages from the laconic quote 
+"_Σπάρταν έλαχες, ταύταν κόσμει_" literally meaning "Sparta fell to your lot, adorn her" 
+or more freely translated as "Bloom where you are planted", to Carl Young's thoughts: 
+"_After much reflection I have come to 
+the conclusion that it is better to live what one really is and accept the 
+difficulties that arise as a result, because avoidance is much worse_".
+Schopenhauer's famous quote "_A man can do what he wills, but cannot will what he wills_" is also very relevant. 
+And in our context what he wills would be his purpose.
 
 Notice that this concept of purpose is not a hedonistic one. It doesn't mean “I like it, therefore it's meaningful” neither does it mean the opposite. 
 An action in harmony with your values is not necessarily a pleasant one. When you help your elderly father to get 
