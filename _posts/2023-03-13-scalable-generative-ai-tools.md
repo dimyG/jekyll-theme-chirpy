@@ -12,7 +12,7 @@ description: "Jinifai MVP is a scalable web application offering generative AI t
  ![Desktop View]({{ "/assets/img/posts/jinifai_showcase.png" | relative_url }})  
 
 # Jinifai MVP
-Jinifai is a side project I worked on, to play with diffusion models and microservices. It is a scalable web 
+[Jinifai](https://jinifai.com/) is a side project I worked on, to play with diffusion models and microservices. It is a scalable web 
 application offering generative AI tools for creating images. It is build with a microservices architecture. The MVP is 
 really minimal but the main backbone of the system is in place, and it is easy to enhance it with additional features and services.
 Given enough time and resources, it can become a full-fledged, scalable generative AI platform that implements all the features of 
@@ -40,3 +40,7 @@ The microservices communicate with each other by publishing and consuming events
 There is a postgres RDS instance with one database for each service. Redis is used as a cache store 
 for all services. Static files are stored on S3 and served through Cloudfront CDN. 
 CI/CD is implemented with GitHub actions.
+
+> The AWS deployment is quite expensive because it is designed for a real production application. 
+> Since this is just a demo project, I redeployed it on a small Hetzner VPS, where the services 
+> run as Docker containers managed by Docker Compose.
