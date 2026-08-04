@@ -25,10 +25,10 @@ something like "you don't know what's going on, so do it your way" and maybe cla
 "doing so, increases the chances of fulfilling your purpose if one exists".
 
 # Purpose with or without God
-When I characterize a purpose as "objective", I mean something that is not set by humans but by 
-the creator himself, which means that objectivity depends on whether a creator exists or not. 
+When I characterize a purpose as "objective", I mean something that is not set by humans but by God himself, 
+which means that objectivity depends on whether God exists or not. 
 We might not know the truth on this matter, but nevertheless we can reason beyond that uncertainty. 
-Whether a creator with a divine plan exists or not, the mechanism of purpose selection should remain the same.
+Whether a God with a divine plan exists or not, the mechanism of purpose selection should remain the same.
 
 <img src="/assets/img/posts/havi.png" alt="havi framework" width="500"/>
 
@@ -55,8 +55,8 @@ revealed to us clearly or it is not revealed at all (it might be that God doesn'
 
 So if God doesn't intervene to point us to a direction, all we are left with, is the natural way humans have to choose their objectives
 which is in accordance with their values and inclinations. This mechanism of selection is the best
-“lever” for the fulfillment of any purpose due to its robustness in the face of adversity and so it seems like the best option under 
-a "non-intervantion" policy both for the human and the goal setting creator.
+“lever” for the fulfillment of any goal due to its robustness in the face of adversity and so it seems like the best option under 
+a "non-intervantion" policy both for the human and the goal setting entity. In a sense you are the way you are, in order to serve the objective goal.
 This pattern seems very much in tune with the rest of nature where individual elements scattered randomly across 
 different environments, each simply functioning based on its own nature, give rise to elaborate outcomes. 
 So we could once again formulate the argument that your purpose is to bring your actions into harmony 
