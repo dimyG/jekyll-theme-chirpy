@@ -90,14 +90,14 @@ Assimilation requires changing one by one the differentiating characteristics of
 new intermediate identities can take shape. Since these processes unfold gradually over many generations, 
 we can observe populations that are in various stages in the middle of this process by looking at historical snapshots.
 
-During the Arabic age of Iberia that lasted for seven centuries, the local Iberian population underwent an assimilation process to 
-the Arabic identity. During this process some intermediate entities were formed that stood in between an 
-Arab and say a Castilian. One group was the Mozarabs, native Iberians under Arab rule, who lost their language and spoke Arabic, but
-they not yet lost their religion and remained Cristians. Another group, the Muwallads, lost their religion and 
-became Muslims but not yet their language and spoke Romance languages, say Castilian. They were eventually fully assimilated 
-to the prevailing environment, but for a time they stood as distinct entities. 
+During the Arabic age of Iberia that lasted for many centuries, the local Iberian population underwent a gradual assimilation process into 
+the dominant Arabic identity. During this process some intermediate identities took shape, that were standing somewhere in between an 
+Arab and say, a Castilian. One such group was the Mozarabs, native Iberians under Arab rule, who lost their language in favor of Arabic, but
+they retained their Cristian religion. And vice versa another group, the Muwallads, who converted to Islam
+but retained their Romance language. Eventually both of them fully assimilated 
+to the dominant culture, but for a time they existed as distinct entities. 
 Another example is Karamanlides in Cappadocia of Asia Minor,
-who lost their Greek language to Turkish, but kept their religion of Orthodox Cristianity. It is quite interesting that 
+who lost their Greek language in favor of Turkish, but retained their religion of Orthodox Cristianity. It is quite interesting that 
 they were writing the Turkish language using the greek alphabet, so we can find the Old and New Testament written in Turkish but with Greek letters.
 This population relocated to Greece after the population exchange of 1923 between Greece and Turkey.
 
