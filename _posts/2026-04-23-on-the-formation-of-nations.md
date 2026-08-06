@@ -34,28 +34,72 @@ it is at least useful.
 
 At the root of this diversity of identities lies "homoism", the human need to belong to a group of one’s own kind, 
 a trait with an evident evolutionary basis, offering the necessary protection from "the others". 
-There are many such collective identities in a person, from the narrower 
-one, say the neighborhood, to as wide as humanity itself and even beyond it. Typically though, there is one that 
-obviously prevails and influences one’s thoughts and actions more than any other. In our era, we call 
-this prevailing identity-bearing entity, a nation. According to this definition **a nation is group of 
-people with a common prevailing collective identity**.
-This identity is formed by certain common characteristics, of which I single out **five** primary ones based on 
-their historical importance, to which all others may be reduced. Each carrying different weight depending on the era, 
-the identity and the individual:
+These identities are be characterized as collective, because they are composed of certain characteristics that are shared between their members.
+There are many such identities in a person, identities that could be related to locality, 
+say the neighborhood, to wider ones like the city, the state or eventually humanity as a whole (and even beyond that). 
+Or identities that are unrelated to locality like one's profession or working class or a specific school of thought.
+In most of us, there is one such identity that ultimately prevails, one that we feel closer to our heart, and we 
+deem as more important than the others. In our modern world for many people this is usually the national identity. 
+So, which are the underlying characteristics that define the notion of a nation? Here I claim that we can single out **five** 
+fundamental attributes based on their historical importance, and to which all others may be reduced. 
+Each carrying different weight depending on the era, the identity and the individual:
 1. Language 
 2. Religion 
 3. Historical Memory 
 4. Political Organization 
 5. Genetic Composition
 
-We can represent each of these five characteristics as a spatial dimension, which means that the concept of a nation 
-can be depicted as a five-dimensional object. Depending on the similarity of identities, some of these objects 
+The notion of a nation can be formed by any combination of these five characteristics, and one that is important for one nation might be 
+irrelevant to another. This means that the term nation is not firmly defined, neither is it constant. 
+There are in one hand examples of stateless nations like the nation of the Jews 
+that for many centuries was defined by religion and historical memory alone, while on the other hand there are nations 
+in which the state is their most important differentiator. For example, one could argue that the populations 
+of USA and Canada belong to the same nation since they largely share 3 out 5 
+characteristics (language, religion, genetic composition) but the mere existence of two different states (different political organizations)
+gradually forms a distinct historical memory and in the long run these two differentiators can form a distinct identity,
+one that could be called a nation. These two identities would be very similar but still distinct for their members. This also means that
+if the main differentiator ceases to exist, the two entities would easily merge into one.
+
+We can represent nations as five-dimensional objects where each dimension represents one fundamental characteristic. 
+Depending on the similarity of identities, some of these objects 
 might be closer or further away from each other. The projections of these objects to lower dimensions can also 
-act as identities by themselves. Overlapping projections indicate similarity. **Every such object constitutes a 
+act as identities by themselves. Overlapping projections indicate similarity. **Every such object and projection constitutes a 
 distinct identity which, as a cultural attractor, influences the course of human history**. Since it is cognitively 
 easier to reason in three dimensions, I use simplified three-dimensional representations in the provided illustrations.
 
-<img src="/assets/img/posts/nations_3d_depiction.jpg" alt="nations_3d_depiction" width="400"/>
+<div style="display:flex; flex-wrap:wrap; gap:16px;">
+
+  <div style="flex:1; min-width:300px;">
+    <img
+      src="/assets/img/posts/nations_3d_depiction.jpg"
+      alt="Nations 3D depiction"
+      style="width:100%; height:auto; display:block;">
+  </div>
+
+  <div style="flex:1; min-width:300px;">
+    <img
+      src="/assets/img/posts/nations_2d_projection.jpg"
+      alt="Second image"
+      style="width:100%; height:auto; display:block;">
+  </div>
+
+</div>
+
+We can use this framework to reason about the process of national assimilation too. 
+Assimilation requires changing one by one the differentiating characteristics of a population. During this process and until its finalized, 
+new intermediate identities can take shape. Since these processes unfold gradually over many generations, 
+we can observe populations that are in various stages in the middle of this process by looking at historical snapshots.
+
+During the Arabic age of Iberia that lasted for seven centuries, the local Iberian population underwent an assimilation process to 
+the Arabic identity. During this process some intermediate entities were formed that stood in between an 
+Arab and say a Castilian. One group was the Mozarabs, native Iberians under Arab rule, who lost their language and spoke Arabic, but
+they not yet lost their religion and remained Cristians. Another group, the Muwallads, lost their religion and 
+became Muslims but not yet their language and spoke Romance languages, say Castilian. They were eventually fully assimilated 
+to the prevailing environment, but for a time they stood as distinct entities. 
+Another example is Karamanlides in Cappadocia of Asia Minor,
+who lost their Greek language to Turkish, but kept their religion of Orthodox Cristianity. It is quite interesting that 
+they were writing the Turkish language using the greek alphabet, so we can find the Old and New Testament written in Turkish but with Greek letters.
+This population relocated to Greece after the population exchange of 1923 between Greece and Turkey.
 
 # Some observations
 1. In this framework, historical memory has a very large scope. It contains customs and traditions.
@@ -81,7 +125,6 @@ refer to as shared culture, is a derivative of historical memory and religion as
 
 1. Any projection of a five-dimensional identity onto lower dimension spaces can function as a distinct cultural 
 attractor. Multidimensional identities thus possess multiple expressions and shades.
-<br><img src="/assets/img/posts/nations_2d_projection.jpg" alt="nations_2d_projection" width="400"/>
 
 1. The same characteristic may be of minor importance in one identity but far more significant in another. 
 Genetic composition for example, plays little to no role in the case of the United States. Its identity has been 
@@ -91,14 +134,11 @@ instead of a narrower 5d one). By contrast, in the case of China, genetic compos
 
 1. Any combination of any number of the five basic characteristics, capable of generating emotional identification 
 and differentiation from others, can function as a distinct identity and begin to influence the course of human 
-history. For example during the Middle Ages the Jews had no state already for centuries, they were spread out in Europe, they spoke variations of the 
+history. For example the Jews were stateless for centuries, they were spread out in Europe, they spoke variations of the 
 local languages and were members of the local political organizations, yet their main collective identity was 
 defined by religion and historical memory. These two attributes alone maintained their sense of national identity.
 In extreme cases, even a single characteristic might suffice to initiate a process of identity autonomy. 
-However, such a nascent identity would be highly vulnerable and fragile in the absence of substantial historical 
-memory. For example, the European Union does not yet constitute a strong identity-bearing entity. It gradually 
-starts to form its own historical memory and political organization, but it is still on its infancy in that process.
-With such a young historical memory, and a loose political organization it forms an extremely vague form of identity.
+However, such a nascent identity would be highly fragile and prone to merging with neighboring ones.
 
 1. The closer two identities are, the more likely it is that they will merge into one, or that one will absorb the other. A case in point is the 
 Normans, who were ultimately absorbed into the kingdoms of France and England, despite having a highly significant 
@@ -123,7 +163,7 @@ for example the Hellenization of Anatolia and its subsequent Turkification, the 
 Mozarab and Muladi identities in the Arabic Iberia, the Arabization of Egypt etc.  
 
 > The purpose of this post is to briefly present a simple mechanistic framework through which we can understand 
-> historical processes and project future developments in a more structured way.
+> historical processes and project future developments in a structured way.
 
 # Meta-identities
 Identities are not static entities. They evolve slowly over time. Most ancient cultural branches that have survived to the 
@@ -157,16 +197,19 @@ The subsequent transition from the Greco-Roman antiquity to the medieval christi
 transformation of the Greek identity: from its Classical to its Orthodox form. The most obvious change was, of course,
 the adoption of Christianity, accompanied by fundamental changes in the political organization, following the fall of Rome and the
 crystallization of a new entity, the Eastern Roman Empire. Over the course of several centuries, the Orthodox
-identity of “Romios” (Roman) took shape to describe the orthodox greek speaking citizen of the empire. 
+identity of “Romios” (Roman) took shape to describe the Orthodox, Greek speaking citizen of the empire. 
 The term "Hellenes" used by classical Greeks to describe themselves, had been associated with paganism during the proto-christian period and 
 was intentionally being avoided for that reason. Consequently, this new Orthodox identity distanced itself from its own "pagan" past.
 
-Yet through the Greek language, much of the historical memory of the previous era survived. Students were still educated with Homer, as
-they did in the classical age and scholars were copying, commenting and mimicking the classics while they were creating inspired by them.
-Just as the Mycenaean world co-shaped the Classical one, the Classical
-world co-shaped the Orthodox one, transmitting much of its influence through the greek language, despite the challenges that followed 
-the rise of Christianity. 
-One indication and concequence of this enduring continuity was the European Renaissance, 
+> An interesting fact is that because the title of "Rome" carried immense political weight, both the west and the east were claiming it for themselves
+while denying it to the others. Westerners were called Franks or Latins by the Byzantines while the
+Eastern Roman Empire was called the empire of the Greeks by westerners.
+
+So, in addition to the Greek language and through it, much of the historical memory of the previous era survived. Students were still educated with Homer, as
+they did in the classical age and scholars were copying, commenting and mimicking the classics.
+In a way, as the Mycenaean world co-shaped the Classical one, the Classical
+world co-shaped the Orthodox one, although in a smaller degree due to the challenges that followed 
+the rise of Christianity. Ultimately, the most fortunate consequence of this enduring continuity was the European Renaissance, 
 which was ignited by the Byzantine scholarship that preserved, copied, and ultimately transmitted the classical 
 works to the west, following the Fall of Constantinople.
 
@@ -175,11 +218,7 @@ its roots, as is evident from the writings especially after the 4th crusade. The
 the pendulum has swung to the other side. 
 Despite the fact that the modern greek identity is essentially the Byzantine Orthodox one, 
 it has been disproportionately associated with its classical form especially in the eyes of foreigners. In any case using the 
-concept of "meta-identities" we can incorporate them all under one entity. 
-
-Another interesting fact is that because the title of "Rome" carried an immense political weight, both the west and the east were claiming it for themselves
-while denying it to the others. Westerners were called Franks or Latins by the Byzantines while the
-Eastern Roman Empire was called the empire of the Greeks by westerners.
+concept of "meta-identities" we can incorporate them all under one entity.
 
 **A few words about the Turkish case** <br>
 The notion of a meta-identity can also be observed in younger cultures. Turkish culture for example, exhibits a 
