@@ -55,7 +55,7 @@ There are in one hand examples of stateless nations like the nation of the Jews
 that for many centuries was defined by religion and historical memory alone, while on the other hand there are nations 
 in which the state is their most important differentiator. For example, one could argue that the populations 
 of USA and Canada belong to the same nation since they largely share 3 out 5 
-characteristics (language, religion, genetic composition) but the mere existence of two different states (different political organizations)
+characteristics (language, religion, genetic composition) but the mere existence of two different states (so difference in the political organization)
 gradually forms a distinct historical memory and in the long run these two differentiators can form a distinct identity,
 one that could be called a nation. These two identities would be very similar but still distinct for their members. This also means that
 if the main differentiator ceases to exist, the two entities would easily merge into one.
