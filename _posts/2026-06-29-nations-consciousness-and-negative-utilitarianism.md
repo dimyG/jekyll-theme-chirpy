@@ -20,7 +20,7 @@ of lower levels of collective belonging in the name of humanism. This is certain
 should not end there. After all, what exactly is it about humanity that we identify with, in this case? Is it human values,
 intelligence, consciousness? Suppose that one day we encounter an extraterrestrial civilization 
 composed of conscious beings possessing these very qualities, perhaps to an even greater degree than we do. 
-Instantly, a new layer of collective identity emerges, that of the universal conscious being, a universal rather 
+At that point, a new layer of collective identity emerges, that of the universal conscious being, a universal rather 
 than merely a human identity. **By the same logic with which a humanist could act independently of what benefits their 
 own nation, a universalist could act independently of what benefits their own species.** That thought alone may 
 already make some readers uneasy, especially once we realize that universalism is simply the logical extension of humanism.

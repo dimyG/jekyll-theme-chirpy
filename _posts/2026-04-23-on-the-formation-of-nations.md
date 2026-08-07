@@ -34,7 +34,7 @@ it is at least useful.
 
 At the root of this diversity of identities lies "homoism", the human need to belong to a group of one’s own kind, 
 a trait with an evident evolutionary basis, offering the necessary protection from "the others". 
-These identities are be characterized as collective, because they are composed of certain characteristics that are shared between their members.
+These identities can be characterized as collective, because they are composed of certain characteristics that are shared between their members.
 There are many such identities in a person, identities that could be related to locality, 
 say the neighborhood, to wider ones like the city, the state or eventually humanity as a whole (and even beyond that). 
 Or identities that are unrelated to locality like one's profession or working class or a specific school of thought.
