@@ -70,7 +70,12 @@ based on arbitrary interpretations (including yours)? With the very real possibi
 misses the true meaning of the given message?
 Dostoevsky captured this tragedy writing "and your worst sin is that you have destroyed and betrayed yourself for nothing".
 So once again I would argue that the wisest path is to bring your actions into harmony with your values and inclinations, 
-not ignoring the signs but choosing to interpret them in a way that aligns with them. 
+not ignoring the signs but choosing to interpret them in a way that aligns with them.
+(A practical piece of advice if you actually decide to follow the dangerous practice of augury, is this: first, pay attention to signs that appear _only when you are 
+not actively seeking them_, and second, consider them valuable only if the interpretation is _instantly obvious to you_. 
+Abstain from actively searching and consciously inventing interpretations. Any sign can fit into any interpretation.
+If a pattern repeatedly appears without triggering an immediate understanding, keep it in the background of your mind. 
+It might become instantly obvious at some point in the future).
 
 > It seems then, that in all cases the wisest course is to bring your actions into harmony with your values and inclinations.
 And even beyond that, I would argue that this isn't just the wisest course but your life's purpose.
