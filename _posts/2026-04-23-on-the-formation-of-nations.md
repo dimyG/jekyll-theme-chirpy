@@ -216,7 +216,7 @@ works to the west, following the Fall of Constantinople.
 It's worth noting that way before the modern greek enlightenment of the 18th century, the Byzantine intelligentsia started to openly acknowledge 
 its roots, as is evident from the writings especially after the 4th crusade. The irony is, that after the greek war of independence 
 the pendulum has swung to the other side. 
-Despite the fact that the modern greek identity is essentially the Byzantine Orthodox one, 
+Despite the fact that the modern greek identity lies closer to the Byzantine Orthodox one, 
 it has been disproportionately associated with its classical form especially in the eyes of foreigners. In any case using the 
 concept of "meta-identities" we can incorporate them all under one entity.
 
