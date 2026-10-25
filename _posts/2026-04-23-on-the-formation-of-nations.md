@@ -12,60 +12,70 @@ to which all others may be reduced."
 
 <img src="/assets/img/posts/civilizations_2.png" alt="civilizations" width="500"/>
 
-# The space of nations
-The concept of humanity represents the ultimate human whole, the broader human civilization of which all people are 
-members, by identifying themselves as part of it. Yet human civilization is diverse, composed of sub-collectivities 
-and local cultures that are born and die within it and which, through their activity and interaction, shape it. 
-These entities, including their totality, function as identities which on their turn act as “cultural attractors” 
-in human life, influencing value systems, aspirations and decisions, and thus directing the course of events.
+# Nations as micro humanities
+The concept of humanity represents the ultimate human whole, the broader human civilization of which all people 
+feel themselves to be a part. Yet, from its very beginnings, human civilization has been remarkably diverse, 
+composed of distinct local cultures, or sub-collectivities if you will, much like a galaxy is composed of its 
+star systems. It is precisely these distinct cultural entities that I define as nations. In my view a nation is a distinct cultural entity.
 
-This property of humanity, its evolution through autonomous identity-bearing entities expressed as differentiated 
-cultures, may have both advocates and critics. In my view however, it leans to the positive side, not only due to 
-[ethics]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %}) and aesthetics but also 
-by securing humanity’s well-being through the resilience that diversity provides. 
+As humanity spread geographically, the vast distances separating different groups made interaction between them 
+impossible, and the first distinct cultural entities, or the world's earliest nations, began to take shape.
+Over time, through the changes that time inevitably brings, these cultural entities transform, disappear, 
+merge, split apart, assimilate into one another, and evolve into new forms.
+
+These cultural bubbles, acting as cultural attractors, create among their members a sense of a shared, familiar environment, 
+satisfying the innate human need to belong. Gradually, they give rise to a common identity that, through its 
+influence on the human psyche, shapes individual behavior, value systems, aspirations, and decisions, ultimately 
+influencing the course of human history.
+
+This characteristic of humanity, its evolution through autonomous, identity-bearing communities expressed in distinct 
+cultures, may have both advocates and critics but in my view, its benefits far outweigh its drawbacks, not only 
+for [ethical]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %}) and aesthetic reasons, 
+but also for pragmatic ones, as cultural diversity strengthens humanity's resilience and helps safeguard its long-term well-being.
+
 If, for example, one culture declines due to the dominance of flawed ideas or any other internal or external cause, 
-another contemporary culture may be flourishing and prosperous, thereby preventing the world from descending into 
-darkness. Moreover, however strongly one may believe that their own culture and way of life is the chosen one and 
-destined to determine humanity’s fate, the truth is that no one knows whether a grand objective purpose exists, 
-let alone what it might be, in order to judge objectively who is moving in the right direction and who is not 
-(more about this argument [here]({% post_url 2025-09-30-theology-of-self-acceptance %}#good-evil-and-self-acceptance)).
-In any case, regardless of our judgments, this diversity of identities is a fact, and therefore understanding 
-it is at least useful.
+another contemporary culture may be flourishing and prosperous, thereby preventing humanity as a whole from descending 
+into darkness. Moreover, however strongly one may believe that their own culture and way of life are uniquely right 
+or destined to determine humanity's fate, the truth is that no one knows whether any grand objective purpose exists, 
+let alone what that purpose might be. How, then, could anyone objectively determine who is moving in the right 
+direction and who is not? More on this argument [here]({% post_url 2025-09-30-theology-of-self-acceptance %}#good-evil-and-self-acceptance).
+In any case, regardless of our judgments, this diversity of identities is a fact, and understanding it is therefore, at the very least, useful.
 
-At the root of this diversity of identities lies "homoism", the human need to belong to a group of one’s own kind, 
-a trait with an evident evolutionary basis, offering the necessary protection from "the others". 
-These identities can be characterized as collective, because they are composed of certain characteristics that are shared between their members.
-There are many such identities in a person, identities that could be related to locality, 
-say the neighborhood, to wider ones like the city, the state or eventually humanity as a whole (and even beyond that). 
-Or identities that are unrelated to locality like one's profession or working class or a specific school of thought.
-In most of us, there is one such identity that ultimately prevails, one that we feel closer to our heart, and we 
-deem as more important than the others. In our modern world for many people this is usually the national identity. 
-So, which are the underlying characteristics that define the notion of a nation? Here I claim that we can single out **five** 
-fundamental attributes based on their historical importance, and to which all others may be reduced. 
-Each carrying different weight depending on the era, the identity and the individual:
+At the root of this diversity of cultures and consequently of identities lies "homoism" (as I prefer to call it), 
+the human need to belong to a group of one's own kind. This tendency has clear evolutionary roots, 
+as group membership historically provided protection against outsiders.
+
+But what are the fundamental constituent elements that define a cultural entity and distinguish it from another? Based on 
+their historical significance, I would identify five fundamental attributes to which all others may be reduced.
+Each carrying different weight depending on the historical era, the identity and the individual:
 1. Language 
 2. Religion 
 3. Historical Memory 
 4. Political Organization 
 5. Genetic Composition
 
-The notion of a nation can be formed by any combination of these five characteristics, and one that is important for one nation might be 
-irrelevant to another. This means that the term nation is not firmly defined, neither is it constant. 
-There are in one hand examples of stateless nations like the nation of the Jews 
-that for many centuries was defined by religion and historical memory alone, while on the other hand there are nations 
-in which the state is their most important differentiator. For example, one could argue that the populations 
-of USA and Canada belong to the same nation since they largely share 3 out 5 
-characteristics (language, religion, genetic composition) but the mere existence of two different states (so difference in the political organization)
-gradually forms a distinct historical memory and in the long run these two differentiators can form a distinct identity,
-one that could be called a nation. These two identities would be very similar but still distinct for their members. This also means that
-if the main differentiator ceases to exist, the two entities would easily merge into one.
+Even a single difference between two entities may be sufficient to establish some degree of cultural differentiation. 
+Naturally, the greater the number and significance of these differences, the more culturally distinct the entities 
+become. Thus, there are nations that are remarkably similar (consider Americans and Canadians) and others that differ 
+substantially across nearly all dimensions (say, Somalis and Finns).
 
-We can represent nations as five-dimensional objects where each dimension represents one fundamental characteristic. 
-Depending on the similarity of identities, some of these objects 
-might be closer or further away from each other. The projections of these objects to lower dimensions can also 
-act as identities by themselves. Overlapping projections indicate similarity. **Every such object and projection constitutes a 
-distinct identity which, as a cultural attractor, influences the course of human history**. Since it is cognitively 
-easier to reason in three dimensions, I use simplified three-dimensional representations in the provided illustrations.
+This indicates that a nation is not firmly defined by exactly five attributes. 
+On one hand there are examples of stateless nations, like the Jewish nation, 
+whose identity was sustained for centuries largely through religion and historical memory, while on the other hand there are nations 
+for which political organization (the existence of two different states) is their most important distinguishing factor. 
+In the USA and Canada example, one could argue that they could be categorized as a single nation, since large segments 
+of their population share three out of five fundamental attributes (language, religion and genetic composition) 
+with a large part of their historical memory being common too. However, the mere 
+existence of two different states, gradually forms a distinct historical memory and in the long run, it can form a 
+distinct cultural entity and consequently a new identity. Conversely, if the main differentiator was to disappear, 
+the two entities might gradually converge into one single cultural entity.
+
+We can represent nations as five-dimensional objects, with each dimension corresponding to one fundamental 
+characteristic. Depending on the similarity of their identities, some of these objects may lie closer to one another, 
+while others may be farther apart. The projections of these objects onto lower dimensions may also function as 
+identities in their own right, and overlapping projections indicate similarity. **Every such object and projection 
+constitutes a distinct identity which, as a cultural attractor, influences the course of human history**. 
+Since it is cognitively easier to reason in three dimensions, I use simplified three-dimensional representations in the provided illustrations.
 
 <div style="display:flex; flex-wrap:wrap; gap:16px;">
 
@@ -85,21 +95,31 @@ easier to reason in three dimensions, I use simplified three-dimensional represe
 
 </div>
 
-We can use this framework to reason about the process of national assimilation too. 
-Assimilation requires changing one by one the differentiating characteristics of a population. During this process and until its finalized, 
-new intermediate identities can take shape. Since these processes unfold gradually over many generations, 
-we can observe populations that are in various stages in the middle of this process by looking at historical snapshots.
+We can also use this framework to understand the process of national assimilation. Assimilation involves the gradual 
+transformation of the characteristics that distinguish one population from another. As these characteristics change, 
+often at different rates, new intermediate identities may emerge before the process reaches its eventual outcome. 
+Since such transformations can unfold over many generations, historical snapshots allow us to observe populations 
+at different stages of cultural assimilation.
 
-During the Arabic age of Iberia that lasted for many centuries, the local Iberian population underwent a gradual assimilation process into 
-the dominant Arabic identity. During this process some intermediate identities took shape, that were standing somewhere in between an 
-Arab and say, a Castilian. One such group was the Mozarabs, native Iberians under Arab rule, who lost their language in favor of Arabic, but
-they retained their Cristian religion. And vice versa another group, the Muwallads, who converted to Islam
-but retained their Romance language. Eventually both of them fully assimilated 
-to the dominant culture, but for a time they existed as distinct entities. 
-Another example is Karamanlides in Cappadocia of Asia Minor,
-who lost their Greek language in favor of Turkish, but retained their religion of Orthodox Cristianity. It is quite interesting that 
-they were writing the Turkish language using the greek alphabet, so we can find the Old and New Testament written in Turkish but with Greek letters.
-This population relocated to Greece after the population exchange of 1923 between Greece and Turkey.
+One example comes from medieval Iberia, where Muslim rule lasted for several centuries. During this period, 
+much of the native Iberian population underwent a gradual process of Arabization, adopting elements of the dominant 
+Arabic language and culture. In the course of this transformation, various intermediate identities emerged, occupying 
+positions somewhere between the original Iberian cultures and the increasingly Arabized society of al-Andalus.
+
+One such group was the Mozarabs, Christians living under Muslim rule who adopted significant elements of Arabic 
+language and culture while retaining their Christian religion. Conversely, another group, the Muwallads, consisted 
+largely of indigenous Iberians, converted to Islam while retaining varying degrees of their earlier linguistic and cultural heritage. 
+These communities illustrate how religious and linguistic assimilation can proceed independently, giving rise to distinct cultural 
+identities along the way.
+
+Another example is that of the Karamanlides, the Turkish-speaking Orthodox Christian communities of 
+Cappadocia and other parts of Asia Minor. They spoke Turkish as their native language while retaining their Orthodox 
+Christian faith and religious traditions. Particularly interesting is the fact that they were writing Turkish using 
+the Greek alphabet and as a result, we can find the Old and New Testament written in Turkish but with Greek letters.
+
+Following the population exchange agreement between Greece and Turkey in 1923, most of Karamanlides were relocated to 
+Greece. Their case is especially revealing because it demonstrates how a population can share the language of 
+one cultural community while maintaining strong religious and historical ties to another.
 
 # Some observations
 1. In this framework, historical memory has a very large scope. It contains customs and traditions.
