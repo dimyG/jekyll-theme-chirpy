@@ -6,8 +6,7 @@ categories: [Philosophy, philosophy]
 tags: [philosophy]
 toc: true
 image: /assets/img/posts/civilizations.png
-description: "It is a group of people sharing certain common characteristics, of which I single out five primary ones, 
-to which all others may be reduced."
+description: "Nations as distinct cultural entities or micro-humanities"
 ---
 
 <img src="/assets/img/posts/civilizations_2.png" alt="civilizations" width="500"/>
