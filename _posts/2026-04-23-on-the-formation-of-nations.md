@@ -9,7 +9,7 @@ image: /assets/img/posts/civilizations.png
 description: "Nations as distinct cultural entities or micro-humanities"
 ---
 
-<img src="/assets/img/posts/civilizations_2.png" alt="civilizations" width="500"/>
+<img src="/assets/img/posts/cultural_web.png" alt="cultural web" width="500"/>
 
 # Nations as micro humanities
 The concept of humanity represents the ultimate human whole, the broader human civilization of which all people 
@@ -22,12 +22,12 @@ impossible, and the first distinct cultural entities, or the world's earliest na
 Over time, through the changes that time inevitably brings, these cultural entities transform, disappear, 
 merge, split apart, assimilate into one another, and evolve into new forms.
 
-These cultural bubbles, acting as cultural attractors, create among their members a sense of a shared, familiar environment, 
+These cultural bubbles, create among their members a sense of a shared, familiar environment, 
 satisfying the innate human need to belong. Gradually, they give rise to a common identity that, through its 
-influence on the human psyche, shapes individual behavior, value systems, aspirations, and decisions, ultimately 
+influence on the human psyche, shapes individual behavior, value systems, aspirations and decisions, ultimately 
 influencing the course of human history.
 
-This characteristic of humanity, its evolution through autonomous, identity-bearing communities expressed in distinct 
+This characteristic of humanity, its evolution through autonomous, identity-bearing entities expressed in distinct 
 cultures, may have both advocates and critics but in my view, its benefits far outweigh its drawbacks, not only 
 for [ethical]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %}) and aesthetic reasons, 
 but also for pragmatic ones, as cultural diversity strengthens humanity's resilience and helps safeguard its long-term well-being.
@@ -40,18 +40,37 @@ let alone what that purpose might be. How, then, could anyone objectively determ
 direction and who is not? More on this argument [here]({% post_url 2025-09-30-theology-of-self-acceptance %}#good-evil-and-self-acceptance).
 In any case, regardless of our judgments, this diversity of identities is a fact, and understanding it is therefore, at the very least, useful.
 
-At the root of this diversity of cultures and consequently of identities lies "homoism" (as I prefer to call it), 
-the human need to belong to a group of one's own kind. This tendency has clear evolutionary roots, 
-as group membership historically provided protection against outsiders.
+The radius of these cultural bubbles was, and continues to be, constrained by the limits of human interaction which 
+are determined primarily by the ability to communicate. More precisely, the crucial factor is the composition of the origins of the sources of the sensory input 
+an individual receives, that determines the degree of his integration into cultural entities. Sensory input that encompasses 
+everything an individual perceives through their senses, including news and everyday discussions, music, literature,
+art, education, cuisine, architecture, exposure to myths and traditions, religious practices, customs and everything 
+else that is part of a cultural environment. The sources of this input, range from educational and religious institutions and the media,
+to prominent contemporary or historical figures, professional and social circles and ordinary people.
 
-But what are the fundamental constituent elements that define a cultural entity and distinguish it from another? Based on 
+This web of interactions can be represented as an interconnected network of information flows, where each node 
+represents an individual or a source of cultural influence. Individual cultures are characterized by dense 
+internal connections, with many nodes sharing common sources, while connections between different cultures 
+are comparatively sparse. Broader cultural clusters, composed of distinct subcultures, can also emerge, 
+with interactions among their constituent cultures being more numerous and frequent than those between separate clusters.
+
+In the past, the variety of the origins of these sources was naturally restricted by geography and limited technology, 
+so the degree to which a distant culture could influence
+individuals was fairly restricted. Yet as technology evolves, it greatly enriches the variety of sources from which individuals 
+receive sensory input, allowing dominant cultures to extend their influence far beyond their natural reach.
+
+But what are the fundamental forces that shape a cultural entity making it distinguishable from another? Based on 
 their historical significance, I would identify five fundamental attributes to which all others may be reduced.
 Each carrying different weight depending on the historical era, the identity and the individual:
 1. Language 
 2. Religion 
-3. Historical Memory 
-4. Political Organization 
-5. Genetic Composition
+3. Historical memory 
+4. Political organization
+5. Genetic origin
+
+Someone might argue that using this cultural framework to define nations, would make the genetic origin component largely irrelevant.
+Yet, I believe it still has a role as a formative force, influencing people's attachment to their origin
+through the deeply rooted human impulse to respect and honor one's ancestors.
 
 Even a single difference between two entities may be sufficient to establish some degree of cultural differentiation. 
 Naturally, the greater the number and significance of these differences, the more culturally distinct the entities 
@@ -112,13 +131,14 @@ These communities illustrate how religious and linguistic assimilation can proce
 identities along the way.
 
 Another example is that of the Karamanlides, the Turkish-speaking Orthodox Christian communities of 
-Cappadocia and other parts of Asia Minor. They spoke Turkish as their native language while retaining their Orthodox 
-Christian faith and religious traditions. Particularly interesting is the fact that they were writing Turkish using 
-the Greek alphabet and as a result, we can find the Old and New Testament written in Turkish but with Greek letters.
+Cappadocia in Asia Minor. They adopted Turkish as their native language while retaining their Orthodox 
+Christian faith and religious traditions from the previous Byzantine era. Particularly interesting is the fact that 
+they were writing Turkish using the Greek alphabet and as a result, we can find the Old and New Testament 
+written in Turkish but with Greek letters.
 
 Following the population exchange agreement between Greece and Turkey in 1923, most of Karamanlides were relocated to 
-Greece. Their case is especially revealing because it demonstrates how a population can share the language of 
-one cultural community while maintaining strong religious and historical ties to another.
+Greece along with other Greek populations of Asia Minor. Their case is especially revealing because it demonstrates 
+how a population can share the language of one cultural community while maintaining strong religious and historical ties to another.
 
 # Some observations
 1. In this framework, historical memory has a very large scope. It contains customs and traditions.
