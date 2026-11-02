@@ -9,13 +9,14 @@ image: /assets/img/posts/civilizations.png
 description: "Nations as distinct cultural entities or micro-humanities"
 ---
 
-<img src="/assets/img/posts/cultural_web.png" alt="cultural web" width="500"/>
+<img src="/assets/img/posts/cultural_web_dark.png" alt="cultural web" width="500"/>
 
 # Nations as micro humanities
-The concept of humanity represents the ultimate human whole, the broader human civilization of which all people 
+The concept of humanity represents the ultimate human collective, the broader human civilization of which all people 
 feel themselves to be a part. Yet, from its very beginnings, human civilization has been remarkably diverse, 
-composed of distinct local cultures, or sub-collectivities if you will, much like a galaxy is composed of its 
-star systems. It is precisely these distinct cultural entities that I define as nations. In my view a nation is a distinct cultural entity.
+composed of distinct local cultures, much like a galaxy is composed of individual 
+star systems that interact with each other to form a greater whole. It is precisely these distinct cultural entities 
+that I define as nations. In my view a nation is fundamentally, a distinct cultural entity.
 
 As humanity spread geographically, the vast distances separating different groups made interaction between them 
 impossible, and the first distinct cultural entities, or the world's earliest nations, began to take shape.
@@ -27,8 +28,8 @@ satisfying the innate human need to belong. Gradually, they give rise to a commo
 influence on the human psyche, shapes individual behavior, value systems, aspirations and decisions, ultimately 
 influencing the course of human history.
 
-This characteristic of humanity, its evolution through autonomous, identity-bearing entities expressed in distinct 
-cultures, may have both advocates and critics but in my view, its benefits far outweigh its drawbacks, not only 
+This characteristic of humanity, its evolution through autonomous, identity-bearing cultural entities, 
+has both advocates and critics, yet in my view, its benefits far outweigh its drawbacks, not only 
 for [ethical]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %}) and aesthetic reasons, 
 but also for pragmatic ones, as cultural diversity strengthens humanity's resilience and helps safeguard its long-term well-being.
 
@@ -40,49 +41,62 @@ let alone what that purpose might be. How, then, could anyone objectively determ
 direction and who is not? More on this argument [here]({% post_url 2025-09-30-theology-of-self-acceptance %}#good-evil-and-self-acceptance).
 In any case, regardless of our judgments, this diversity of identities is a fact, and understanding it is therefore, at the very least, useful.
 
-The radius of these cultural bubbles was, and continues to be, constrained by the limits of human interaction which 
-are determined primarily by the ability to communicate. More precisely, the crucial factor is the composition of the origins of the sources of the sensory input 
-an individual receives, that determines the degree of his integration into cultural entities. Sensory input that encompasses 
-everything an individual perceives through their senses, including news and everyday discussions, music, literature,
-art, education, cuisine, architecture, exposure to myths and traditions, religious practices, customs and everything 
-else that is part of a cultural environment. The sources of this input, range from educational and religious institutions and the media,
-to prominent contemporary or historical figures, professional and social circles and ordinary people.
+The influence radius of these cultural bubbles was, and continues to be, constrained by the limits of human interaction which 
+are determined primarily by the ability to communicate. More precisely, the crucial factor that determines the 
+integration of an individual into a particular cultural environment, is the diversity (or lack thereof) 
+of the cultural entities that influences them.
+In other words, what matters is the mix of cultural origins represented among the sources of sensory input 
+an individual receives, especially during their formative years. This sensory input encompasses 
+any information an individual perceives through their senses, like music, literature,
+art, education, cuisine, architecture, exposure to myths, traditions and the local natural environment, 
+religious practices, customs, news, everyday discussions and everything 
+else that is part of a cultural environment. The sources that generate this input, include educational and religious institutions, 
+the media, prominent contemporary or historical figures, professional and social circles, ordinary people and anything else
+that produces information within an environment. 
+An individual's sense of identity emerges through an internal process shaped by the interaction between this cultural 
+input and their own temperament.
 
-This web of interactions can be represented as an interconnected network of information flows, where each node 
-represents an individual or a source of cultural influence. Individual cultures are characterized by dense 
+> This web of interactions can be represented as an interconnected network of information flow, where each node 
+represents an individual or a source of cultural influence. 
+
+Individual cultures are characterized by dense 
 internal connections, with many nodes sharing common sources, while connections between different cultures 
 are comparatively sparse. Broader cultural clusters, composed of distinct subcultures, can also emerge, 
 with interactions among their constituent cultures being more numerous and frequent than those between separate clusters.
 
-In the past, the variety of the origins of these sources was naturally restricted by geography and limited technology, 
-so the degree to which a distant culture could influence
-individuals was fairly restricted. Yet as technology evolves, it greatly enriches the variety of sources from which individuals 
+In the past, the diversity of the origins of these sources was naturally restricted by geography and technological limitations, 
+so the extent to which distant cultures could influence
+individuals was relatively restricted. Yet as technology advances, it greatly enriches the variety of sources from which individuals 
 receive sensory input, allowing dominant cultures to extend their influence far beyond their natural reach.
 
-But what are the fundamental forces that shape a cultural entity making it distinguishable from another? Based on 
-their historical significance, I would identify five fundamental attributes to which all others may be reduced.
-Each carrying different weight depending on the historical era, the identity and the individual:
+But what are the fundamental forces that determine the nature of the information emitted by these sources and 
+circulating within a cultural network, distinguishing one culture from another? Based on their historical significance, 
+I would identify five fundamental attributes to which all others can be reduced, each carrying a different weight 
+depending on the historical era and the cultural entity in question:
 1. Language 
 2. Religion 
 3. Historical memory 
 4. Political organization
-5. Genetic origin
+5. Ancestry
 
-Someone might argue that using this cultural framework to define nations, would make the genetic origin component largely irrelevant.
-Yet, I believe it still has a role as a formative force, influencing people's attachment to their origin
-through the deeply rooted human impulse to respect and honor one's ancestors.
+I intentionally distinguish historical memory from ancestry because the former is purely cultural, 
+whereas the latter has an immutable biological foundation that can't be altered no matter the environment in which an individual lives.
+Someone might argue though, that using a cultural framework to define nations would make the ancestry component largely irrelevant.
+Yet, I believe it still has a role as a formative force, at least for some people, influencing the attachment to their origin
+through the deeply rooted human desire to respect and honor one's ancestors. This could lead individuals to selectively seek out 
+certain sources of information, rejecting some influence in favor of another.
 
-Even a single difference between two entities may be sufficient to establish some degree of cultural differentiation. 
+Even a single difference in one of those fundamental attributes may be sufficient to establish some degree of cultural differentiation. 
 Naturally, the greater the number and significance of these differences, the more culturally distinct the entities 
 become. Thus, there are nations that are remarkably similar (consider Americans and Canadians) and others that differ 
 substantially across nearly all dimensions (say, Somalis and Finns).
 
 This indicates that a nation is not firmly defined by exactly five attributes. 
-On one hand there are examples of stateless nations, like the Jewish nation, 
+On one hand there are examples of stateless nations, like the Jewish one, 
 whose identity was sustained for centuries largely through religion and historical memory, while on the other hand there are nations 
 for which political organization (the existence of two different states) is their most important distinguishing factor. 
 In the USA and Canada example, one could argue that they could be categorized as a single nation, since large segments 
-of their population share three out of five fundamental attributes (language, religion and genetic composition) 
+of their population share three out of five fundamental attributes (language, religion and ancestry) 
 with a large part of their historical memory being common too. However, the mere 
 existence of two different states, gradually forms a distinct historical memory and in the long run, it can form a 
 distinct cultural entity and consequently a new identity. Conversely, if the main differentiator was to disappear, 
@@ -166,10 +180,10 @@ refer to as shared culture, is a derivative of historical memory and religion as
 attractor. Multidimensional identities thus possess multiple expressions and shades.
 
 1. The same characteristic may be of minor importance in one identity but far more significant in another. 
-Genetic composition for example, plays little to no role in the case of the United States. Its identity has been 
+Ancestry for example, plays little to no role in the case of the United States. Its identity has been 
 shaped to encompass multiple genetic profiles, effectively rendering it independent of them, leading to a more 
 generic identity that spans the entire 5th dimension (or alternatively it can be thought of as a generic 4d identity 
-instead of a narrower 5d one). By contrast, in the case of China, genetic composition plays a much more substantial role.
+instead of a narrower 5d one). By contrast, in the case of China, ancestry plays a much more substantial role.
 
 1. Any combination of any number of the five basic characteristics, capable of generating emotional identification 
 and differentiation from others, can function as a distinct identity and begin to influence the course of human 
