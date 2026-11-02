@@ -84,7 +84,8 @@ whereas the latter has an immutable biological foundation that can't be altered 
 Someone might argue though, that using a cultural framework to define nations would make the ancestry component largely irrelevant.
 Yet, I believe it still has a role as a formative force, at least for some people, influencing the attachment to their origin
 through the deeply rooted human desire to respect and honor one's ancestors. This could lead individuals to selectively seek out 
-certain sources of information, rejecting some influence in favor of another.
+certain sources of information, rejecting some influence in favor of another, affecting the nature of information they themselves
+transmit.
 
 Even a single difference in one of those fundamental attributes may be sufficient to establish some degree of cultural differentiation. 
 Naturally, the greater the number and significance of these differences, the more culturally distinct the entities 
