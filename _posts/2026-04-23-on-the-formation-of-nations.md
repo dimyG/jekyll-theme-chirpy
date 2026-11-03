@@ -29,10 +29,13 @@ influence on the human psyche, shapes individual behavior, value systems, aspira
 influencing the course of human history.
 
 This characteristic of humanity, its evolution through autonomous, identity-bearing cultural entities, 
-has both advocates and critics, yet in my view, its benefits far outweigh its drawbacks, not only 
-for [ethical]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %}) and aesthetic reasons, 
-but also for pragmatic ones, as cultural diversity strengthens humanity's resilience and helps safeguard its long-term well-being.
+has both advocates and critics. In my view however, its benefits far outweigh its drawbacks, not only 
+for aesthetic reasons but also for [ethical]({% post_url 2026-06-29-nations-consciousness-and-negative-utilitarianism %})
+and pragmatic ones. In the aesthetics dimension, imagine a world filled **exclusively** with Egyptian pyramids, or Greek temples, or 
+Gothic cathedrals, or any other single form of cultural achievement, however magnificent. How monotonous would such a world be? 
+Diversity can be by itself a source of beauty.
 
+On the pragmatic realm, cultural diversity strengthens humanity's resilience helping to safeguard its long-term well-being. 
 If, for example, one culture declines due to the dominance of flawed ideas or any other internal or external cause, 
 another contemporary culture may be flourishing and prosperous, thereby preventing humanity as a whole from descending 
 into darkness. Moreover, however strongly one may believe that their own culture and way of life are uniquely right 
@@ -64,15 +67,18 @@ internal connections, with many nodes sharing common sources, while connections 
 are comparatively sparse. Broader cultural clusters, composed of distinct subcultures, can also emerge, 
 with interactions among their constituent cultures being more numerous and frequent than those between separate clusters.
 
-In the past, the diversity of the origins of these sources was naturally restricted by geography and technological limitations, 
+In the past, the diversity of these sources was naturally restricted by geography and technological limitations, 
 so the extent to which distant cultures could influence
 individuals was relatively restricted. Yet as technology advances, it greatly enriches the variety of sources from which individuals 
-receive sensory input, allowing dominant cultures to extend their influence far beyond their natural reach.
+receive sensory input, allowing dominant cultures to extend their influence far beyond their traditional geographical boundaries. This, 
+in turn, risks driving the world toward a gradual erosion of cultural diversity, ultimately leading to 
+a potentially dangerous gray homogenization.
 
-But what are the fundamental forces that determine the nature of the information emitted by these sources and 
-circulating within a cultural network, distinguishing one culture from another? Based on their historical significance, 
-I would identify five fundamental attributes to which all others can be reduced, each carrying a different weight 
-depending on the historical era and the cultural entity in question:
+But what are the fundamental forces that determine the nature of the information that 
+circulates within a cultural network, distinguishing one culture from another? 
+I would argue that there are five primary characteristics that, based on their historical significance
+and their insulating capacity, both define and protect a cultural entity. 
+Each carrying a different weight depending on the historical era and the cultural entity in question:
 1. Language 
 2. Religion 
 3. Historical memory 
@@ -81,11 +87,11 @@ depending on the historical era and the cultural entity in question:
 
 I intentionally distinguish historical memory from ancestry because the former is purely cultural, 
 whereas the latter has an immutable biological foundation that can't be altered no matter the environment in which an individual lives.
-Someone might argue though, that using a cultural framework to define nations would make the ancestry component largely irrelevant.
-Yet, I believe it still has a role as a formative force, at least for some people, influencing the attachment to their origin
-through the deeply rooted human desire to respect and honor one's ancestors. This could lead individuals to selectively seek out 
-certain sources of information, rejecting some influence in favor of another, affecting the nature of information they themselves
-transmit.
+Someone might argue however, that using a cultural framework to define nations would make the ancestry component largely irrelevant.
+Yet, I believe it still has a role as a formative and protective force, at least for some people, influencing the attachment to one's origin
+through the deeply rooted human desire to respect and honor one's ancestors. This could lead individuals to consciously 
+choose the culture of their ancestors over the one of their current environment, rejecting some influence in favor of 
+another, affecting the nature of influence they themselves exert. 
 
 Even a single difference in one of those fundamental attributes may be sufficient to establish some degree of cultural differentiation. 
 Naturally, the greater the number and significance of these differences, the more culturally distinct the entities 
@@ -103,7 +109,7 @@ existence of two different states, gradually forms a distinct historical memory 
 distinct cultural entity and consequently a new identity. Conversely, if the main differentiator was to disappear, 
 the two entities might gradually converge into one single cultural entity.
 
-We can represent nations as five-dimensional objects, with each dimension corresponding to one fundamental 
+Within this context we can represent nations as five-dimensional objects, with each dimension corresponding to one fundamental 
 characteristic. Depending on the similarity of their identities, some of these objects may lie closer to one another, 
 while others may be farther apart. The projections of these objects onto lower dimensions may also function as 
 identities in their own right, and overlapping projections indicate similarity. **Every such object and projection 
@@ -200,8 +206,6 @@ political organization that endured for roughly two centuries and influenced med
 started generating its own historical memory. However, 4 of the 5 characteristics were very similar to those 
 of neighboring kingdoms. Once their political organization collapsed, maintaining a distinct identity became 
 impossible. Language and religion have been, and remain, the dominant attributes of differentiation.
-
-1. Self-perception, and perception by others, is a product of identity differentiation and homoism. 
 
 1. Solidarity arises from shared self-perception. 
 
