@@ -143,23 +143,21 @@ at different stages of cultural assimilation.
 One example comes from medieval Iberia, where Muslim rule lasted for several centuries. During this period, 
 much of the native Iberian population underwent a gradual process of Arabization, adopting elements of the dominant 
 Arabic language and culture. In the course of this transformation, various intermediate identities emerged, occupying 
-positions somewhere between the original Iberian cultures and the increasingly Arabized society of al-Andalus.
-
-One such group was the Mozarabs, Christians living under Muslim rule who adopted significant elements of Arabic 
+positions somewhere between the original Iberian cultures and the increasingly Arabized society of al-Andalus. 
+One such group was the Mozarabs, Christians living under Muslim rule who adopted the Arabic 
 language and culture while retaining their Christian religion. Conversely, another group, the Muwallads, consisted 
-largely of indigenous Iberians, converted to Islam while retaining varying degrees of their earlier linguistic and cultural heritage. 
-These communities illustrate how religious and linguistic assimilation can proceed independently, giving rise to distinct cultural 
-identities along the way.
+largely of indigenous Iberians, converted to Islam while retaining their Iberian linguistic and cultural heritage.
 
 Another example is that of the Karamanlides, the Turkish-speaking Orthodox Christian communities of 
 Cappadocia in Asia Minor. They adopted Turkish as their native language while retaining their Orthodox 
 Christian faith and religious traditions from the previous Byzantine era. Particularly interesting is the fact that 
 they were writing Turkish using the Greek alphabet and as a result, we can find the Old and New Testament 
-written in Turkish but with Greek letters.
+written in Turkish but with Greek letters. Following the population exchange agreement between Greece and Turkey 
+in 1923, most of Karamanlides were relocated to Greece along with other Greek populations of Asia Minor. 
 
-Following the population exchange agreement between Greece and Turkey in 1923, most of Karamanlides were relocated to 
-Greece along with other Greek populations of Asia Minor. Their case is especially revealing because it demonstrates 
-how a population can share the language of one cultural community while maintaining strong religious and historical ties to another.
+These cases are especially revealing because they demonstrate how a population can share the language of 
+one cultural community while maintaining strong religious and historical ties to another, giving rise to 
+intermediate yet distinct cultural identities along the way.
 
 # Some observations
 1. In this framework, historical memory has a very large scope. It contains customs and traditions.
@@ -264,7 +262,7 @@ The subsequent seismic shift from Greco-Roman antiquity to the medieval Christia
 profound transformation of Greek identity. The most groundbreaking change was the adoption of Christianity, 
 accompanied by fundamental changes in political organization following the decline of the Western Roman Empire 
 and the gradual crystallization of a new political entity, the Eastern Roman Empire. 
-Over the course of several centuries, the Orthodox identity of the "Romios" (Roman) took shape, 
+Over the course of several centuries, the Orthodox identity of "Romios" (Roman) took shape, 
 describing the Orthodox, native Greek-speaking inhabitant of the empire. The term "Hellenes," 
 used by the ancient Greeks to describe themselves, had become associated with paganism during the early 
 Christian period and was deliberately avoided for that reason. Consequently, this new Orthodox 
@@ -274,7 +272,7 @@ Yet it shared many cultural elements with that past, preserved mainly through th
 which kept much of the historical memory of the preceding era alive. In many cases, students were still 
 educated through Homer, as they had been in the Classical age, while scholars continued to copy, comment on, 
 and imitate the classics. In a sense, just as the Mycenaean world shaped the Classical one, the Classical world 
-shaped the Orthodox one, albeit to a lesser degree, owing to the challenges that followed the rise of Christianity. 
+shaped the Orthodox one, albeit to a lesser degree, due to the challenges that followed the rise of Christianity. 
 Ultimately, one of the most fortunate consequences of this enduring continuity was its contribution 
 to the European Renaissance, which was fueled by the Byzantine scholarship that preserved, copied, 
 and ultimately transmitted classical works to the West, after the fall of Constantinople.
