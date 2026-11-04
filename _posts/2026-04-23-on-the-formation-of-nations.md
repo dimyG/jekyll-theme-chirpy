@@ -317,7 +317,7 @@ A prominent example is the emperor of Nicaea, John III Doukas Vatatzes, who, in 
 with Pope Gregory IX (1237), emphasized the Greek heritage of his empire.
 
 One could even argue that the Empire of Nicaea, which was established after the sack of Constantinople by the Latins
-and later reconquered the city, was the first state to officially nurture a precursor of the modern Greek identity. 
+and later reconquered the city, was the first state to officially incubate the seeds of the modern Greek identity. 
 This emerging identity was essentially an evolution of the Byzantine one, with the major difference being 
 that its Roman historical heritage was increasingly being replaced by an emphasis on its ancient Greek roots. 
 The distinction between this new identity and its predecessor therefore, lies primarily in the historical memory 
