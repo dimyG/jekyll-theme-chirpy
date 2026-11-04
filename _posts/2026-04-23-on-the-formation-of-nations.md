@@ -224,59 +224,116 @@ Mozarab and Muladi identities in the Arabic Iberia, the Arabization of Egypt etc
 > historical processes and project future developments in a structured way.
 
 # Meta-identities
-Identities are not static entities. They evolve slowly over time. Most ancient cultural branches that have survived to the 
-present day (Chinese, Greeks, Indians, Iranians, etc.) have passed through different civilizational epochs, 
-undergoing major transformations along the way.
+Distinct cultures produce distinct identities, and in this context, an identity is the self-perception of being an 
+integral part of a particular culture, adhering to its fundamental cultural content. As cultures evolve,
+so do the identities they produce and the essence of what it means to belong to a particular culture.
 
-The Greeks, specifically, have passed through three major epochs and two major transitions: Mycenaean to Classical to 
-Orthodox (using the term Orthodox here in a broad cultural sense, not merely in its religious aspect). Each cultural 
-phase forms a distinct identity without however, beginning from a blank slate. Rather, it incorporates the previous one 
-and evolves from it, forming a continuous “identity branch”. This process never stops. Identities continue to evolve 
-even within a single epoch, although the changes are milder.
+Yet a cultural identity can be classified as an evolution of its predecessor rather than an entirely new one, if some of the five 
+fundamental characteristics connect it to its previous form. This connection forms a distinct cultural and identity branch. 
+An individual who understands these fundamental characteristics and who is aware of this 
+historical trajectory could identify with the entire branch rather than merely with its current form. 
+This identity branch, when viewed as a whole, can give rise to the notion of an "identity of identities," 
+or a meta-identity, one that spans the entire branch, encompassing all of its historical forms.
 
-Understanding the characteristics that define an identity, together with knowledge of its historical path, facilitates 
-the recognition of an identity branch which, in the Greek case, encompasses the Mycenaean, the Classical and the 
-Orthodox form. When viewed as a whole, we can form the notion of an "identity of identities," or a **meta-identity**. 
-An identity that spans the entire branch.
+Most ancient cultural branches that have survived to the present day (Chinese, Greek, Indian, Iranian, etc.) 
+have passed through different civilizational epochs, undergoing major transformations along the way. 
+Each cultural phase gives rise to a distinct identity without, however, starting from a blank slate. Rather, 
+it incorporates elements of its predecessor and evolves from them. This process never stops. 
+Identities continue to evolve even within a single epoch, although the changes are generally less pronounced.
 
-**More about the Greek case** <br>
-During the first major transition from the Mycenaean to the Classical form, the Bronze Age Collapse and the subsequent
-Dark Ages brought profound transformations. The political organization changed dramatically. The palatial system 
-collapsed and the great administrative centers were largely abandoned. Parts of the historical memory were lost, most
-notably the writing system. Religion also evolved. Some deities disappeared while others rose to prominence or assumed
-new roles. Yet the fundamental religious worldview remained largely unchanged. The Greek language survived, and with
-it many elements of historical memory, including myths, legends and heroic traditions. These transformations 
-unfolded over several centuries, until, at the other end, a new cultural entity emerged as a continuation of its 
-predecessor yet distinct from it. This new entity continued to evolve until the next transition,
-although at the slower pace of a stable civilizational epoch. While political organizations changed
-repeatedly, all other aspects of identity evolved much more mildly.
+**The Greek case** <br>
+The Greeks, in particular, have undergone several transformations over the centuries, the most profound being 
+the transition from the "classical" form of their identity to the "Orthodox" one. I use these terms here in a 
+broad cultural sense, rather than restricting them to their conventional historical and religious meanings 
+respectively. These two forms are the main clusters of the Greek identity branch, 
+corresponding broadly to the periods before and after the rise of Christianity. 
+However, significant evolution also occurred within each of them.
 
-The subsequent transition from the Greco-Roman antiquity to the medieval christian world, produced the most profound
-transformation of the Greek identity: from its Classical to its Orthodox form. The most obvious change was, of course,
-the adoption of Christianity, accompanied by fundamental changes in the political organization, following the fall of Rome and the
-crystallization of a new entity, the Eastern Roman Empire. Over the course of several centuries, the Orthodox
-identity of “Romios” (Roman) took shape to describe the Orthodox, Greek speaking citizen of the empire. 
-The term "Hellenes" used by classical Greeks to describe themselves, had been associated with paganism during the proto-christian period and 
-was intentionally being avoided for that reason. Consequently, this new Orthodox identity distanced itself from its own "pagan" past.
+For example, an important transformation within the first cluster was the transition from the Mycenaean to the 
+Classical era. During this transition, the fundamental religious worldview remained largely unchanged, 
+the Greek language survived and evolved, and with it, many elements of historical memory, including myths, 
+legends, and heroic traditions. 
+Yet the Bronze Age collapse of the 12th century BC and the subsequent Dark Ages brought profound transformations. 
+Political organization changed dramatically. The palatial system collapsed, and the great administrative centers 
+were largely abandoned. Parts of the historical memory were lost, most notably the writing system. 
+Religion also evolved. Some deities disappeared, while others rose to prominence or assumed new roles. 
+These transformations unfolded over several centuries until, at the other end of this process, 
+a new cultural entity emerged as an evolution of its predecessor.
 
-> An interesting fact is that because the title of "Rome" carried immense political weight, both the west and the east were claiming it for themselves
-while denying it to the others. Westerners were called Franks or Latins by the Byzantines while the
-Eastern Roman Empire was called the empire of the Greeks by westerners.
+The subsequent seismic shift from Greco-Roman antiquity to the medieval Christian world produced the most 
+profound transformation of Greek identity. The most groundbreaking change was the adoption of Christianity, 
+accompanied by fundamental changes in political organization following the decline of the Western Roman Empire 
+and the gradual crystallization of a new political entity, the Eastern Roman Empire. 
+Over the course of several centuries, the Orthodox identity of the "Romios" (Roman) took shape, 
+describing the Orthodox, native Greek-speaking inhabitant of the empire. The term "Hellenes," 
+used by the ancient Greeks to describe themselves, had become associated with paganism during the early 
+Christian period and was deliberately avoided for that reason. Consequently, this new Orthodox 
+identity distanced itself from its own "pagan" past.
 
-So, in addition to the Greek language and through it, much of the historical memory of the previous era survived. Students were still educated with Homer, as
-they did in the classical age and scholars were copying, commenting and mimicking the classics.
-In a way, as the Mycenaean world co-shaped the Classical one, the Classical
-world co-shaped the Orthodox one, although in a smaller degree due to the challenges that followed 
-the rise of Christianity. Ultimately, the most fortunate consequence of this enduring continuity was the European Renaissance, 
-which was ignited by the Byzantine scholarship that preserved, copied, and ultimately transmitted the classical 
-works to the west, following the Fall of Constantinople.
+Yet it shared many cultural elements with that past, preserved mainly through the Greek language and literature, 
+which kept much of the historical memory of the preceding era alive. In many cases, students were still 
+educated through Homer, as they had been in the Classical age, while scholars continued to copy, comment on, 
+and imitate the classics. In a sense, just as the Mycenaean world shaped the Classical one, the Classical world 
+shaped the Orthodox one, albeit to a lesser degree, owing to the challenges that followed the rise of Christianity. 
+Ultimately, one of the most fortunate consequences of this enduring continuity was its contribution 
+to the European Renaissance, which was fueled by the Byzantine scholarship that preserved, copied, 
+and ultimately transmitted classical works to the West, after the fall of Constantinople.
 
-It's worth noting that way before the modern greek enlightenment of the 18th century, the Byzantine intelligentsia started to openly acknowledge 
-its roots, as is evident from the writings especially after the 4th crusade. The irony is, that after the greek war of independence 
-the pendulum has swung to the other side. 
-Despite the fact that the modern greek identity lies closer to the Byzantine Orthodox one, 
-it has been disproportionately associated with its classical form especially in the eyes of foreigners. In any case using the 
-concept of "meta-identities" we can incorporate them all under one entity.
+An interesting historical fact is that, because the name "Rome" carried immense political weight, 
+both East and West claimed the Roman imperial legacy for themselves while denying it to the other. 
+Westerners were referred to as Franks, Germans, or Latins by the Byzantines, 
+while the Eastern Roman Empire was called the Empire of the Greeks by Westerners (`Imperium Graecorum`).
+The following opening titulature from the diplomatic correspondence (c. 1177 AD) between the Byzantine emperor Manuel I Komnenos 
+and Frederick Barbarossa of the Holy Roman Empire is quite entertaining, almost hilarious, 
+in the way it illustrates how both sides claimed the imperial status of Rome for themselves 
+while simultaneously downgrading each other through the labels "German" and "Greek" which, 
+ironically, reveal much about the cultural character of their respective empires.
+
+> Manuel I Komnenos: 
+> "Manuel, faithful emperor in Christ God, purple-born, divinely crowned, ruler, mighty, exalted, ever Augustus 
+> and governor of the Romans, Komnenos, to the most noble and glorious King of Germany and Emperor, 
+> beloved brother of our Empire, greetings and brotherly affection."
+> 
+> Frederick Barbarossa:
+> "Frederick, by the favour of divine mercy, illustrious conqueror, Emperor of the Romans, crowned by God, 
+> exalted, faithful in Christ, great, peaceful, glorious, Caesar, governor of the Greeks and ever Augustus, 
+> to the noble and illustrious King of the Greeks and Emperor, Manuel, his beloved brother, greetings 
+> and brotherly affection."
+
+Latin original: <br>
+"Manuel in Christo Deo fidelis imperator, porphirogenitus, divinitus coronatus, regnator, potens, excelsus, 
+semper augustus et Romanorum moderator ó Komninòs, nobilissimo et gloriosissimo regi Alamanniae et imperatori 
+et dilecto fratri imperii nostri salutem et fraterni amoris affectum."<br>
+"Fridericus divina favente clementia inclitus triumphator, Romanorum imperator, a Deo coronatus, sublimis, 
+in Christo fidelis, magnus, pacificus, gloriosus, cesar, Grecorum moderator et semper augustus, nobili 
+et illustri regi Grecorum et imperatori, Emanueli, dilecto fratri suo, salutem et fraternę dilectionis affectum."
+
+Returning to our discussion of identities, this Orthodox identity underwent another significant transformation, 
+namely a refocusing of its historical memory on its own ancient Greek heritage and a gradual distancing 
+from its Roman heritage, eventually giving rise to the modern Greek identity.
+This process had already begun from the 13th century, long before the Modern Greek Enlightenment of the 18th century, 
+and was especially intensified following the Fourth Crusade, a period during which members of the 
+Byzantine intelligentsia began to refer publicly to their ancient Greek roots. 
+A prominent example is the emperor of Nicaea, John III Doukas Vatatzes, who, in his 
+<a href="https://www.impantokratoros.gr/F20A9610.el.aspx" target="_blank" rel="noopener noreferrer">correspondence</a> 
+with Pope Gregory IX (1237), emphasized the Greek heritage of his empire.
+
+One could even argue that the Empire of Nicaea, which was established after the sack of Constantinople by the Latins
+and later reconquered the city, was the first state to officially nurture a precursor of the modern Greek identity. 
+This emerging identity was essentially an evolution of the Byzantine one, with the major difference being 
+that its Roman historical heritage was increasingly being replaced by an emphasis on its ancient Greek roots. 
+The distinction between this new identity and its predecessor therefore, lies primarily in the historical memory 
+component, making it a clear example of identity evolution.
+
+It is entertaining to imagine taking a random modern Greek and transporting him back to a Byzantine city of the 
+11th century. He would probably feel surprisingly at home in his interactions with the locals, who, 
+incidentally, might recognize him as a fellow "Romios." Inside a church, in particular, 
+he might barely be able to tell whether he was in the 11th or the 21st century. 
+The irony is that, following the Greek War of Independence (1821), the pendulum swung in the opposite direction. 
+Despite the fact that modern Greek identity is very similar to its Byzantine predecessor, 
+it has become disproportionately associated with its Classical form, especially in the eyes of foreigners. 
+In any case, the concept of meta-identities allows us to encompass all these historical forms within a single 
+overarching entity.
 
 **A few words about the Turkish case** <br>
 The notion of a meta-identity can also be observed in younger cultures. Turkish culture for example, exhibits a 
