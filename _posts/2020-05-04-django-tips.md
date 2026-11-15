@@ -3,7 +3,7 @@ title: Django Random Tips
 author: Dimitris Georgoulas
 date: 2020-05-04 08:30:00 +0800
 categories: [Web-Development, Django]
-tags: [django, tips]
+tags: [django, tips, software development]
 toc: true
 ---
 

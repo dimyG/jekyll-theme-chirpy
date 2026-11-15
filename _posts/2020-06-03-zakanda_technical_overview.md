@@ -3,7 +3,7 @@ title: Zakanda technical overview
 author: Dimitris Georgoulas
 date: 2020-06-03 11:33:00 +0200
 categories: [Misc, Work Experience]
-tags: [zakanda, django, work experience]
+tags: [zakanda, django, work experience, software development]
 toc: true
 ---
 
