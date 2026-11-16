@@ -2,8 +2,8 @@
 title: Javascript Essentials, some tips 
 author: Dimitris Georgoulas
 date: 2020-05-03 11:33:00 +0800
-categories: [Web-Development, Javascript]
-tags: [javascript, tips, software development]
+categories: [Software Development]
+tags: [javascript, software development]
 toc: true
 ---
 

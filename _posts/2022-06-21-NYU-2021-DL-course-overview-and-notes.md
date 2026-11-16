@@ -2,7 +2,7 @@
 title: NYU 2021 Deep Learning course overview and notes 
 author: Dimitris Georgoulas
 date: 2022-06-21 11:30:00 +0200
-categories: [Artificial Intelligence, artificial intelligence]
+categories: [Artificial Intelligence]
 tags: [artificial intelligence]
 toc: true 
 header-img: /assets/img/NYU_2021_DL_course/course01.JPG

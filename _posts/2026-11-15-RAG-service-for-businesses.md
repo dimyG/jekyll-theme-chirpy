@@ -2,8 +2,8 @@
 title: RAG service for businesses
 author: Dimitris Georgoulas
 date: 2026-11-15 11:30:00 +0200
-categories: [Web Development]
-tags: [artificial intelligence, work experience, software development]
+categories: [Software Development]
+tags: [artificial intelligence, software development, projects]
 toc: true
 image: 
 description: "Loctapus is a platform that brings together knowledge from multiple sources into a unified, 

@@ -2,8 +2,8 @@
 title: Satisfaction Unit Parity
 author: Dimitris Georgoulas
 date: 2021-05-26 11:30:00 +0200
-categories: [Economics, economics]
-tags: [economics]
+categories: [Economics]
+tags: [economics, philosophy]
 toc: true 
 ---
 

@@ -2,7 +2,7 @@
 title: Nations, consciousness and negative utilitarianism
 author: Dimitris Georgoulas
 date: 2026-06-29 11:30:00 +0200
-categories: [Philosophy, philosophy]
+categories: [Philosophy and Art]
 tags: [philosophy]
 toc: true
 image: 

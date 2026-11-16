@@ -1,8 +1,8 @@
 ---
 title: Understanding HTTP Caching
 date: 2020-05-01 11:30:00 +0200
-categories: [Web-Development, Django]
-tags: [django, http, software development]
+categories: [Software Development]
+tags: [django, software development]
 toc: true
 ---
 

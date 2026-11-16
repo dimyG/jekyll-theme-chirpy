@@ -2,7 +2,7 @@
 title: My epic fail as a sports betting entrepreneur
 author: Dimitris Georgoulas
 date: 2020-06-02 11:30:00 +0200
-categories: [Misc, Work Experience]
+categories: [Other]
 tags: [zakanda, work experience]
 toc: true
 comments: false

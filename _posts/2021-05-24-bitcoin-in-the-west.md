@@ -2,7 +2,7 @@
 title: Bitcoin in the west
 author: Dimitris Georgoulas
 date: 2021-05-24 11:30:00 +0200
-categories: [Economics, economics]
+categories: [Economics]
 tags: [economics]
 toc: true 
 ---

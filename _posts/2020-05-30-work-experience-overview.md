@@ -2,7 +2,7 @@
 title: Resume 
 author: Dimitris Georgoulas
 date: 2020-05-30 11:33:00 +0200
-categories: [Misc, Work Experience]
+categories: [Other]
 tags: [work experience]
 toc: true
 ---  

@@ -2,8 +2,8 @@
 title: The pharaoh and the millionaire
 author: Dimitris Georgoulas
 date: 2021-04-23 11:30:00 +0200
-categories: [Economics, economics]
-tags: [economics]
+categories: [Economics]
+tags: [economics, philosophy]
 toc: true
 ---
 

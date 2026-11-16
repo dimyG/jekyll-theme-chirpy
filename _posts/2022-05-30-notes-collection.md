@@ -2,8 +2,8 @@
 title: My Notes Collection 
 author: Dimitris Georgoulas
 date: 2022-05-30 11:30:00 +0200
-categories: [Misc, Notes]
-tags: [notes]
+categories: [Software Development]
+tags: [notes, software development]
 toc: true 
 ---
 

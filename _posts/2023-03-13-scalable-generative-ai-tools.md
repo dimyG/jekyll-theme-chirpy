@@ -2,8 +2,8 @@
 title: Scalable generative AI tools
 author: Dimitris Georgoulas
 date: 2023-03-13 11:30:00 +0200
-categories: [Web-Development, Django, Javascript]
-tags: [artificial intelligence, software development]
+categories: [Software Development]
+tags: [artificial intelligence, software development, projects]
 toc: true
 header-img: /assets/img/posts/jinifai_showcase.png
 description: "Jinifai MVP is a scalable web application offering generative AI tools that can be used to generate images. It is built with django and fastAPI microservices and is deployed on AWS. The wen client is made with React and Redux."

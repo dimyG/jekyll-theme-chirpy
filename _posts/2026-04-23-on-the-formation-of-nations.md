@@ -2,7 +2,7 @@
 title: On the formation of nations
 author: Dimitris Georgoulas
 date: 2026-04-23 11:30:00 +0200
-categories: [Philosophy, philosophy]
+categories: [Philosophy and Art]
 tags: [philosophy]
 toc: true
 image: /assets/img/posts/civilizations.png
