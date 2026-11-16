@@ -8,7 +8,22 @@ title: Categories
 # MIT License
 ---
 
+{% comment %} Sort categories alphabetically, but always keep "Other" last {% endcomment %}
 {% assign sort_categories = site.categories | sort %}
+{% assign ordered_categories = "" | split: "" %}
+{% for category in sort_categories %}
+  {% assign category_name = category | first %}
+  {% unless category_name == "Other" %}
+    {% assign ordered_categories = ordered_categories | push: category %}
+  {% endunless %}
+{% endfor %}
+{% for category in sort_categories %}
+  {% assign category_name = category | first %}
+  {% if category_name == "Other" %}
+    {% assign ordered_categories = ordered_categories | push: category %}
+  {% endif %}
+{% endfor %}
+{% assign sort_categories = ordered_categories %}
 
 {% for category in sort_categories %}
   {% assign category_name = category | first %}
