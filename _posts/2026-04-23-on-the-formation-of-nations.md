@@ -327,8 +327,9 @@ It is entertaining to imagine taking a random modern Greek and transporting him 
 11th century. He would probably feel surprisingly at home in his interactions with the locals, who, 
 incidentally, might recognize him as a fellow "Romios." Inside a church, in particular, 
 he might barely be able to tell whether he was in the 11th or the 21st century. 
-The irony is that, following the Greek War of Independence (1821), the pendulum swung in the opposite direction. 
-Despite the fact that modern Greek identity is very similar to its Byzantine predecessor, 
+The irony is that following the Greek War of Independence (1821), and because it failed to fulfill its historical telos 
+of reclaiming Constantinople, the pendulum swung in the opposite direction. 
+Despite the fact that the modern Greek identity is very similar to its Byzantine predecessor, 
 it has become disproportionately associated with its Classical form, especially in the eyes of foreigners. 
 In any case, the concept of meta-identities allows us to encompass all these historical forms within a single 
 overarching entity.
